@@ -2,14 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484588104263">
-        <mark key="[" line="130" column="73" />
-        <mark key="]" line="129" column="85" />
-        <mark key="^" line="129" column="85" />
-        <mark key="." line="130" column="83" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
     <registers>
       <register name="0" type="4">
@@ -29,7 +22,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
