@@ -6,11 +6,18 @@
       <file name="/start_script.py" timestamp="1484608664801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484608296760">
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      </file>
+      <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484609103541">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1484609130011">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
