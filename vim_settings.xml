@@ -2,7 +2,17 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1484608664801">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484608296760">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
+    </filemarks>
     <jumps />
     <registers>
       <register name="0" type="4">
