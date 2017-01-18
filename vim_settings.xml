@@ -6,16 +6,6 @@
       <file name="/start_script.py" timestamp="1484608664801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
-      <file name="C:/git/ans/configuration.gradle" timestamp="1484755708690">
-        <mark key="'" line="43" column="15" />
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484759905973">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="64" column="68" />
@@ -28,6 +18,16 @@
       </file>
       <file name="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" timestamp="1484776831117">
         <mark key="'" line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
+      <file name="C:/git/ans/configuration.gradle" timestamp="1484782892322">
+        <mark key="'" line="50" column="45" />
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="53" />
+        <mark key="." line="51" column="53" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484776146844">
         <mark key="'" line="103" column="13" />
@@ -50,6 +50,8 @@
       <jump line="55" column="60" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
       <jump line="107" column="32" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
       <jump line="9" column="55" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
+      <jump line="49" column="53" filename="C:/git/ans/configuration.gradle" />
+      <jump line="50" column="45" filename="C:/git/ans/configuration.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -59,7 +61,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>packageSuite</text>
+        <text>dcr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoc2Vuc2VsLCBzZW5zZWwuZGVmaW5pdGlvbigpKQo=</text>
@@ -93,9 +95,9 @@
       </register>
     </registers>
     <search>
-      <last-search>packageSuite</last-search>
+      <last-search>dcr</last-search>
       <last-offset />
-      <last-pattern>packageSuite</last-pattern>
+      <last-pattern>dcr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -110,6 +112,7 @@
         <entry>PYTHON_CONF</entry>
         <entry>PACKAGING_TAS</entry>
         <entry>packageSuite</entry>
+        <entry>dcr</entry>
       </history-search>
       <history-cmd />
       <history-expr />
