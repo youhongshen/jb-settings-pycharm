@@ -23,6 +23,12 @@
         <mark key="." line="64" column="68" />
         <mark key="^" line="64" column="68" />
       </file>
+      <file name="/a.dummy" timestamp="1484776677122">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" timestamp="1484776831117">
+        <mark key="'" line="9" column="55" />
+      </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484776146844">
         <mark key="'" line="103" column="13" />
       </file>
@@ -39,6 +45,11 @@
       <jump line="191" column="58" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="102" column="13" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="103" column="13" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="23" column="35" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
+      <jump line="76" column="54" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
+      <jump line="55" column="60" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
+      <jump line="107" column="32" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
+      <jump line="9" column="55" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -48,7 +59,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>db_lib</text>
+        <text>packageSuite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoc2Vuc2VsLCBzZW5zZWwuZGVmaW5pdGlvbigpKQo=</text>
@@ -82,9 +93,9 @@
       </register>
     </registers>
     <search>
-      <last-search>db_lib</last-search>
+      <last-search>packageSuite</last-search>
       <last-offset />
-      <last-pattern>db_lib</last-pattern>
+      <last-pattern>packageSuite</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -96,6 +107,9 @@
         <entry>lib</entry>
         <entry>cx_Oracle</entry>
         <entry>db_lib</entry>
+        <entry>PYTHON_CONF</entry>
+        <entry>PACKAGING_TAS</entry>
+        <entry>packageSuite</entry>
       </history-search>
       <history-cmd />
       <history-expr />
