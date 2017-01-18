@@ -16,11 +16,12 @@
         <mark key="]" line="49" column="56" />
         <mark key="." line="49" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484757448750">
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="36" column="25" />
-        <mark key="^" line="36" column="25" />
-        <mark key="." line="36" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484759905973">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="64" column="68" />
+        <mark key="]" line="64" column="68" />
+        <mark key="." line="64" column="68" />
+        <mark key="^" line="64" column="68" />
       </file>
     </filemarks>
     <jumps>
@@ -28,44 +29,61 @@
       <jump line="51" column="15" filename="C:/git/ans/configuration.gradle" />
       <jump line="13" column="19" filename="C:/git/ans/configuration.gradle" />
       <jump line="43" column="15" filename="C:/git/ans/configuration.gradle" />
+      <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">bmx0ay5kb3dubG9hZCgncHVua3QnKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBubHRrLmNvCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>collections</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5sdGsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gamRiYyBjb25uZWN0aW9uIHN0cmluZyBoYXMgdGhpcyBmb3JtYXQ6IGpkYmM6b3JhY2xlOnRoaW46PHVzZXJfbmFtZT4vPHBhc3N3b3JkPkA8aG9zdD46PHBvcnQ+LzxkYl9uYW1lPiAtLT4K</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>collections</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>aggrega</text>
+        <text encoding="base64">XDxwcmludFw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoc2Vuc2VsLCBzZW5zZWwuZGVmaW5pdGlvbigpKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jhc3MnKSwgJ2Jhc3MnKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQoc3MuZGVmaW5pdGlvbigpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bmx0ay5kb3dubG9hZCgnc3RvcHdvcmRzJykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBubHRrLmNvCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>aggrega</last-search>
+      <last-search encoding="base64">XDxwcmludFw+</last-search>
       <last-offset />
-      <last-pattern>aggrega</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>dcr-inci</entry>
         <entry>aggrega</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
