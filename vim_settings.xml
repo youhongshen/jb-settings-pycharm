@@ -16,11 +16,11 @@
         <mark key="]" line="49" column="56" />
         <mark key="." line="49" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484755140738">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484757448750">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -31,19 +31,25 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWludXRlID0gaW50KHRpbWUuc3RyZnRpbWUoJyVNJykpCg==</text>
+        <text encoding="base64">bmx0ay5kb3dubG9hZCgncHVua3QnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5sdGsK</text>
+        <text encoding="base64">ZnJvbSBubHRrLmNvCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>collections</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG5sdGsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gamRiYyBjb25uZWN0aW9uIHN0cmluZyBoYXMgdGhpcyBmb3JtYXQ6IGpkYmM6b3JhY2xlOnRoaW46PHVzZXJfbmFtZT4vPHBhc3N3b3JkPkA8aG9zdD46PHBvcnQ+LzxkYl9uYW1lPiAtLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>collections</text>
       </register>
       <register name="/" type="4">
         <text>aggrega</text>
