@@ -23,6 +23,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
+      <file name="C:/git/ans/configuration.gradle" timestamp="1484930992989">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="56" />
+        <mark key="." line="49" column="56" />
+      </file>
       <file name="C:/git/ans/install/platform-cdh/build.gradle" timestamp="1484784517073" />
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484776146844">
         <mark key="'" line="103" column="13" />
@@ -47,6 +53,7 @@
       <jump line="9" column="55" filename="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" />
       <jump line="49" column="53" filename="C:/git/ans/configuration.gradle" />
       <jump line="50" column="45" filename="C:/git/ans/configuration.gradle" />
+      <jump line="25" column="17" filename="C:/git/ans/configuration.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -56,7 +63,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dcr</text>
+        <text>aggreg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoc2Vuc2VsLCBzZW5zZWwuZGVmaW5pdGlvbigpKQo=</text>
@@ -90,9 +97,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dcr</last-search>
+      <last-search>aggreg</last-search>
       <last-offset />
-      <last-pattern>dcr</last-pattern>
+      <last-pattern>aggreg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -108,6 +115,7 @@
         <entry>PACKAGING_TAS</entry>
         <entry>packageSuite</entry>
         <entry>dcr</entry>
+        <entry>aggreg</entry>
       </history-search>
       <history-cmd />
       <history-expr />
