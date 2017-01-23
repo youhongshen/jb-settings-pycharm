@@ -34,11 +34,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
-      <file name="C:/git/ans/configuration.gradle" timestamp="1485208587827">
-        <mark key="'" line="161" column="48" />
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="55" />
-        <mark key="." line="49" column="55" />
+      <file name="C:/git/ans/configuration.gradle" timestamp="1485214160650">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485207514535">
         <mark key="'" line="17" column="35" />
@@ -124,7 +124,9 @@
       <jump line="85" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="407" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
       <jump line="113" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
-      <jump line="161" column="48" filename="C:/git/ans/configuration.gradle" />
+      <jump line="11" column="49" filename="C:/git/ans/configuration.gradle" />
+      <jump line="161" column="15" filename="C:/git/ans/configuration.gradle" />
+      <jump line="18" column="8" filename="C:/git/ans/configuration.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -134,7 +136,7 @@
         <text>db-name-mapper added shortToLong</text>
       </register>
       <register name="/" type="4">
-        <text>aggregator-ser</text>
+        <text>ark-mana</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjICoqMi4zLmNkaC45ICgyMDE3LjAxLjIwKQogICAgW0FnZ3JlZ2F0b3ItU2VydmljZXNdIGRiLW5hbWUtbWFwcGVyIGFkZGVkIHNob3J0VG9Mb25nCg==</text>
@@ -171,15 +173,14 @@
       </register>
     </registers>
     <search>
-      <last-search>aggregator-ser</last-search>
+      <last-search>ark-mana</last-search>
       <last-offset />
-      <last-pattern>aggregator-ser</last-pattern>
+      <last-pattern>ark-mana</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aggrega</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>lib</entry>
         <entry>cx_Oracle</entry>
@@ -199,10 +200,11 @@
         <entry>init</entry>
         <entry>external.config</entry>
         <entry>aggregator-ser</entry>
+        <entry>ark-mana</entry>
       </history-search>
       <history-cmd>
-        <entry>0</entry>
         <entry>x</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
