@@ -38,12 +38,11 @@
         <mark key="[" line="0" column="1" />
       </file>
       <file name="C:/git/ans/install/platform-cdh/build.gradle" timestamp="1484784517073" />
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485192757095">
-        <mark key="'" line="18" column="42" />
-        <mark key="[" line="219" column="34" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485193415736">
+        <mark key="'" line="23" column="64" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -52,7 +51,6 @@
       <jump line="13" column="19" filename="C:/git/ans/configuration.gradle" />
       <jump line="43" column="15" filename="C:/git/ans/configuration.gradle" />
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" />
-      <jump line="23" column="45" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="87" column="19" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="101" column="30" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="191" column="58" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
@@ -69,52 +67,60 @@
       <jump line="113" column="43" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="217" column="18" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="18" column="42" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="19" column="0" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="20" column="6" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="110" column="70" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="55" column="51" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="57" column="68" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="184" column="64" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="16" column="0" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="23" column="64" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjb25mX2ZpbGUiOiAiZ3B0b2dkZnMuY29uZiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRiX2NvbmZpZyA9IGNvbmZpZ19maWxlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>utils.get_config_entry_by_key('eea.aggregator', config_file)</text>
       </register>
       <register name="/" type="4">
-        <text>conf_file</text>
+        <text>config_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoc2Vuc2VsLCBzZW5zZWwuZGVmaW5pdGlvbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRiX2NvbmZpZyA9IHV0aWxzLmdldF9jb25maWdfZW50cnlfYnlfa2V5KCdlZWEuYWdncmVnYXRvcicsIGNvbmZpZ19maWxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJjb25mX2ZpbGUiOiAiZ3B0b2dkZnMuY29uZiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRiX2NvbmZpZyA9IGNvbmZpZ19maWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjb25mX2ZpbGUiOiAib3JhY2xldG9oZGZzLmNvbmYiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jhc3MnKSwgJ2Jhc3MnKQo=</text>
+        <text encoding="base64">ICAgICMgY29uZmlnX2ZpbGUgPSBkYl90eXBlX21hcFtkYl90eXBlXVsnY29uZl9maWxlJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoc3MuZGVmaW5pdGlvbigpKQo=</text>
+        <text encoding="base64">ICAgICMgZGJfdHlwZV9tYXAgPSB1dGlscy5nZXRfY29uZmlnX2VudHJ5X2J5X2tleSgnZWVhLmFnZ3JlZ2F0b3InLCAnZGJfdHlwZV9tYXAuanNvbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYl90eXBlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdkYl90eXBlID0gJyArIHN0cihkYl90eXBlKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgIHV0aWxzLmRpc2Nvbm5lY3Rfem9va2VlcGVyKHprKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmx0ay5kb3dubG9hZCgnc3RvcHdvcmRzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>conf_file</last-search>
+      <last-search>config_file</last-search>
       <last-offset />
-      <last-pattern>conf_file</last-pattern>
+      <last-pattern>config_file</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -133,8 +139,11 @@
         <entry>aggreg</entry>
         <entry>get_db_type</entry>
         <entry>conf_file</entry>
+        <entry>config_file</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>0</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
