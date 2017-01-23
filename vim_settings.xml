@@ -19,6 +19,12 @@
       <file name="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" timestamp="1484776831117">
         <mark key="'" line="9" column="55" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/revisions.md" timestamp="1485208605053">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="2" column="14" />
+      </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/db_type_map.json" timestamp="1485192416720">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -28,31 +34,52 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
-      <file name="C:/git/ans/configuration.gradle" timestamp="1484930992989">
-        <mark key="'" line="25" column="17" />
+      <file name="C:/git/ans/configuration.gradle" timestamp="1485208587827">
+        <mark key="'" line="161" column="48" />
         <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="55" />
       </file>
-      <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485199306628">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="16" />
+      <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485207514535">
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="3" column="64" />
+        <mark key="^" line="3" column="64" />
+        <mark key="." line="3" column="64" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.conf" timestamp="1485198304091">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="C:/git/ans/system/ark-manager/src/main/java/com/ericsson/eea/ark/manager/processmanager/ArkConstants.java" timestamp="1485207461216">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="C:/git/ans/install/platform-cdh/build.gradle" timestamp="1484784517073" />
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485203915178">
-        <mark key="'" line="22" column="64" />
-        <mark key="[" line="183" column="35" />
-        <mark key="]" line="183" column="75" />
-        <mark key="." line="183" column="75" />
-        <mark key="^" line="183" column="33" />
+      <file name="C:/git/ans/apps/aggregator-services/build.gradle" timestamp="1485208345907">
+        <mark key="[" line="186" column="28" />
+        <mark key="]" line="186" column="68" />
+        <mark key="." line="186" column="68" />
+        <mark key="^" line="186" column="68" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485207837863">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/oracletohdfs.conf" timestamp="1485198989017" />
+      <file name="C:/git/ans/system/ark-manager/revisions.md" timestamp="1485207643957">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" timestamp="1485208016838">
+        <mark key="'" line="113" column="9" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="254" column="0" filename="C:/git/ans/configuration.gradle" />
@@ -85,58 +112,73 @@
       <jump line="16" column="0" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="23" column="64" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="19" column="18" filename="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" />
+      <jump line="3" column="64" filename="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" />
+      <jump line="4" column="49" filename="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" />
+      <jump line="5" column="47" filename="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" />
+      <jump line="17" column="35" filename="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" />
+      <jump line="52" column="52" filename="C:/git/ans/configuration.gradle" />
+      <jump line="162" column="36" filename="C:/git/ans/configuration.gradle" />
+      <jump line="177" column="21" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="375" column="26" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="431" column="0" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="85" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="407" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="113" column="9" filename="C:/git/ans/apps/aggregator-services/src/main/resources/APP_SUITE/app_suite_default.json" />
+      <jump line="161" column="48" filename="C:/git/ans/configuration.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>db-name-mapper added shortToLong</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>db-name-mapper added shortToLong</text>
       </register>
       <register name="/" type="4">
-        <text>ORACLE_H</text>
+        <text>aggregator-ser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRiX2NvbmZpZyA9IHV0aWxzLmdldF9jb25maWdfZW50cnlfYnlfa2V5KCdlZWEuYWdncmVnYXRvcicsIGNvbmZpZ19maWxlKQo=</text>
+        <text encoding="base64">IyMjICoqMi4zLmNkaC45ICgyMDE3LjAxLjIwKQogICAgW0FnZ3JlZ2F0b3ItU2VydmljZXNdIGRiLW5hbWUtbWFwcGVyIGFkZGVkIHNob3J0VG9Mb25nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dwLXBlcnNpc3Qvc3JjL21haW4vcHl0aG9uL29yYWNsZXRvaGRmcy5jb25mJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAib3JhY2xldG9oZGZzLmNvbmYiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ19maWxlID0gc2VsZi5kYl90eXBlX21hcFtkYl90eXBlXVsnY29uZl9maWxlJ10K</text>
+        <text encoding="base64">ICAgICMgdGVtcCBmaXggLSBzZXQgdGhlIExEX0xJQlJBUllfUEFUSAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRiX2NvbmZpZyA9IGNvbmZpZ19maWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAiTERfTElCUkFSWV9QQVRIIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY29uZmlnX2ZpbGUgPSBkYl90eXBlX21hcFtkYl90eXBlXVsnY29uZl9maWxlJ10K</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGJfdHlwZV9tYXAgPSB1dGlscy5nZXRfY29uZmlnX2VudHJ5X2J5X2tleSgnZWVhLmFnZ3JlZ2F0b3InLCAnZGJfdHlwZV9tYXAuanNvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ19maWxlID0gc2VsZi5kYl90eXBlX21hcFtkYl90eXBlXVsnY29uZl9maWxlJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYl90eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRiX2NvbmZpZyA9IGNvbmZpZ19maWxlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
     </registers>
     <search>
-      <last-search>ORACLE_H</last-search>
+      <last-search>aggregator-ser</last-search>
       <last-offset />
-      <last-pattern>ORACLE_H</last-pattern>
+      <last-pattern>aggregator-ser</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dcr-inci</entry>
         <entry>aggrega</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>lib</entry>
@@ -151,9 +193,16 @@
         <entry>conf_file</entry>
         <entry>config_file</entry>
         <entry>ORACLE_H</entry>
+        <entry>hadoop</entry>
+        <entry>hadoop\/bin</entry>
+        <entry>ark-man</entry>
+        <entry>init</entry>
+        <entry>external.config</entry>
+        <entry>aggregator-ser</entry>
       </history-search>
       <history-cmd>
         <entry>0</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,6 +216,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
