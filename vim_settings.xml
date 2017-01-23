@@ -19,6 +19,11 @@
       <file name="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" timestamp="1484776831117">
         <mark key="'" line="9" column="55" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/db_type_map.json" timestamp="1485192416720">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,9 +34,16 @@
         <mark key="]" line="49" column="56" />
         <mark key="." line="49" column="56" />
       </file>
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.conf" timestamp="1485192405153">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="C:/git/ans/install/platform-cdh/build.gradle" timestamp="1484784517073" />
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1484776146844">
-        <mark key="'" line="103" column="13" />
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485192757095">
+        <mark key="'" line="18" column="42" />
+        <mark key="[" line="219" column="34" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -54,52 +66,55 @@
       <jump line="49" column="53" filename="C:/git/ans/configuration.gradle" />
       <jump line="50" column="45" filename="C:/git/ans/configuration.gradle" />
       <jump line="25" column="17" filename="C:/git/ans/configuration.gradle" />
+      <jump line="113" column="43" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="217" column="18" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
+      <jump line="18" column="42" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjb25mX2ZpbGUiOiAiZ3B0b2dkZnMuY29uZiIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>aggreg</text>
+        <text>conf_file</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoc2Vuc2VsLCBzZW5zZWwuZGVmaW5pdGlvbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jhc3MnKSwgJ2Jhc3MnKQo=</text>
+        <text encoding="base64">ICAgICJjb25mX2ZpbGUiOiAiZ3B0b2dkZnMuY29uZiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoc3MuZGVmaW5pdGlvbigpKQo=</text>
+        <text encoding="base64">ICAgICJjb25mX2ZpbGUiOiAib3JhY2xldG9oZGZzLmNvbmYiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jhc3MnKSwgJ2Jhc3MnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoc3MuZGVmaW5pdGlvbigpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmx0ay5kb3dubG9hZCgnc3RvcHdvcmRzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBubHRrLmNvCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmx0ay5kb3dubG9hZCgnc3RvcHdvcmRzJykK</text>
       </register>
     </registers>
     <search>
-      <last-search>aggreg</last-search>
+      <last-search>conf_file</last-search>
       <last-offset />
-      <last-pattern>aggreg</last-pattern>
+      <last-pattern>conf_file</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -116,6 +131,8 @@
         <entry>packageSuite</entry>
         <entry>dcr</entry>
         <entry>aggreg</entry>
+        <entry>get_db_type</entry>
+        <entry>conf_file</entry>
       </history-search>
       <history-cmd />
       <history-expr />
