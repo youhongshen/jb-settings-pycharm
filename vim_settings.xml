@@ -48,8 +48,11 @@
       <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485278757159">
         <mark key="'" line="17" column="35" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.conf" timestamp="1485198304091">
-        <mark key="[" line="0" column="1" />
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.conf" timestamp="1485285028232">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="C:/git/ans/system/ark-manager/src/main/java/com/ericsson/eea/ark/manager/processmanager/ArkConstants.java" timestamp="1485275822757">
         <mark key="[" line="56" column="25" />
@@ -66,6 +69,12 @@
       </file>
       <file name="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" timestamp="1485279187852">
         <mark key="'" line="386" column="29" />
+      </file>
+      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485284883181">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="11" />
+        <mark key="^" line="66" column="11" />
+        <mark key="." line="66" column="11" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/oracletohdfs.conf" timestamp="1485198989017" />
       <file name="C:/git/ans/system/ark-manager/revisions.md" timestamp="1485207643957">
@@ -135,44 +144,44 @@
       <jump line="386" column="29" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/lib</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIGRiX3R5cGUgPT0gJ29yYWNsZSc6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/lib</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>KRB5CC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TERfTElCUkFSWV9QQVRIPS9vcHQvb3JhY2xlL3Byb2R1Y3QvMTIuMS4wL2NsaWVudF8xL2xpYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52X3Zhcl9uYW1lID0gZGJfY29uZmlnWydkYl9ob21lX2Vudl92YXInXSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGRiX3R5cGUgPT0gJ29yYWNsZSc6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgY3hfT3JhY2xlLkVycm9yIGFzIGU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc2VsZi50ZXN0X2Nvbm5fc3RyKQo=</text>
+        <text encoding="base64">IyAnJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yID0gc2VsZi5jb25uZWN0aW9uLmN1cnNvcigpCg==</text>
+        <text encoding="base64">IyAnJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IGN4X09yYWNsZS5jb25uZWN0KCdwZXJmbW9uJywgJ3BlcmZtb24nLCAndm14LWVlYTI4OToxNTIxL2VlYXBkYjEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIC4wIC8gY2xpZW50XzEgLyBsaWIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGxuIC0gcyAvIG9wdCAvIG9yYWNsZSAvIHByb2R1Y3QgLyAxMi4xCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNkIC8gdXNyIC8gbGliIC8gb3JhY2xlIC8gMTIuMSAvIGNsaWVudDY0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDaGVjayBmb3IgYWNjZXNzIGdyYW50cywgcG9zc2libGUgd2lsbCB0cm93IGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1rZGlyIC0gcCAvIHVzciAvIGxpYiAvIG9yYWNsZSAvIDEyLjEgLyBjbGllbnQ2NAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ19maWxlIGlzIGRlZmluZWQgZ2xvYmFsbHkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
