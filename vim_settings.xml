@@ -13,7 +13,7 @@
         <mark key="." line="64" column="68" />
         <mark key="^" line="64" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1484776677122">
+      <file name="/a.dummy" timestamp="1485278126607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/ans/buildenv/plugins/src/main/groovy/com/ericsson/eea/AppSuitePlugin.groovy" timestamp="1484776831117">
@@ -45,12 +45,8 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485275800561">
+      <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485278757159">
         <mark key="'" line="17" column="35" />
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="47" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="19" column="47" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.conf" timestamp="1485198304091">
         <mark key="[" line="0" column="1" />
@@ -67,6 +63,9 @@
         <mark key="]" line="186" column="68" />
         <mark key="." line="186" column="68" />
         <mark key="^" line="186" column="68" />
+      </file>
+      <file name="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" timestamp="1485279032536">
+        <mark key="'" line="386" column="29" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/oracletohdfs.conf" timestamp="1485198989017" />
       <file name="C:/git/ans/system/ark-manager/revisions.md" timestamp="1485207643957">
@@ -128,6 +127,12 @@
       <jump line="11" column="49" filename="C:/git/ans/configuration.gradle" />
       <jump line="161" column="15" filename="C:/git/ans/configuration.gradle" />
       <jump line="18" column="8" filename="C:/git/ans/configuration.gradle" />
+      <jump line="387" column="43" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
+      <jump line="496" column="41" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
+      <jump line="392" column="43" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
+      <jump line="391" column="34" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
+      <jump line="0" column="0" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
+      <jump line="386" column="29" filename="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -137,7 +142,7 @@
         <text>/lib</text>
       </register>
       <register name="/" type="4">
-        <text>sys</text>
+        <text>KRB5CC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TERfTElCUkFSWV9QQVRIPS9vcHQvb3JhY2xlL3Byb2R1Y3QvMTIuMS4wL2NsaWVudF8xL2xpYgo=</text>
@@ -174,16 +179,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sys</last-search>
+      <last-search>KRB5CC</last-search>
       <last-offset />
-      <last-pattern>sys</last-pattern>
+      <last-pattern>KRB5CC</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lib</entry>
-        <entry>cx_Oracle</entry>
         <entry>db_lib</entry>
         <entry>PYTHON_CONF</entry>
         <entry>PACKAGING_TAS</entry>
@@ -202,11 +205,13 @@
         <entry>aggregator-ser</entry>
         <entry>ark-mana</entry>
         <entry>sys</entry>
+        <entry>DRB5CC</entry>
+        <entry>KRB5CC</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
