@@ -6,12 +6,11 @@
       <file name="/start_script.py" timestamp="1484608664801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
       <file name="C:/git/ans/configuration.gradle" timestamp="1484685439003">
         <mark key="'" line="254" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1484609130011">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484687298401">
         <mark key="[" line="0" column="0" />
@@ -19,14 +18,14 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1484609130011">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/python/dcr_incident_exporter.py" timestamp="1484752703464">
         <mark key="[" line="121" column="37" />
         <mark key="]" line="121" column="37" />
         <mark key="^" line="121" column="29" />
         <mark key="." line="121" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -78,5 +77,8 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
