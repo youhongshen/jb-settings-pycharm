@@ -6,13 +6,8 @@
       <file name="/start_script.py" timestamp="1484608664801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" timestamp="1484759905973">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="64" column="68" />
-        <mark key="]" line="64" column="68" />
-        <mark key="." line="64" column="68" />
-        <mark key="^" line="64" column="68" />
-      </file>
+      <file name="C:/git/ans/libs/ref-data-lib/src/main/python/Services.py" timestamp="1485896633664" />
+      <file name="C:/git/ans/libs/ref-data-lib/src/main/python/ReferenceData.py" timestamp="1485895923931" />
       <file name="/a.dummy" timestamp="1485278126607">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,7 +33,6 @@
       <file name="$USER_HOME$/PycharmProjects/HelloNLP/requirements.txt" timestamp="1484608938050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/git/ans/system/eea-ark-config/config/jboss_conf/domain.xml" timestamp="1484608773002" />
       <file name="C:/git/ans/configuration.gradle" timestamp="1485214160650">
         <mark key="'" line="18" column="8" />
         <mark key="[" line="1" column="34" />
@@ -60,7 +54,7 @@
         <mark key="." line="56" column="20" />
         <mark key="^" line="56" column="20" />
       </file>
-      <file name="C:/git/ans/install/platform-cdh/build.gradle" timestamp="1484784517073" />
+      <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/python/dcr_incident_exporter.py" timestamp="1485896566377" />
       <file name="C:/git/ans/apps/aggregator-services/build.gradle" timestamp="1485208345907">
         <mark key="[" line="186" column="28" />
         <mark key="]" line="186" column="68" />
@@ -70,13 +64,13 @@
       <file name="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" timestamp="1485279187852">
         <mark key="'" line="386" column="29" />
       </file>
+      <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/python/dcr_incident_generator.py" timestamp="1485897115365" />
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485298731683">
         <mark key="[" line="66" column="19" />
         <mark key="]" line="66" column="11" />
         <mark key="^" line="66" column="11" />
         <mark key="." line="66" column="11" />
       </file>
-      <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/oracletohdfs.conf" timestamp="1485198989017" />
       <file name="C:/git/ans/system/ark-manager/revisions.md" timestamp="1485207643957">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="43" />
@@ -237,6 +231,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
