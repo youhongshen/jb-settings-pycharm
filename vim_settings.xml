@@ -36,10 +36,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="C:/git/ans/apps/dcr-incident-exporter/revisions.md" timestamp="1486065186794">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/resources/logging_config.ini" timestamp="1486064928704">
         <mark key="'" line="1" column="10" />
@@ -48,8 +48,7 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="C:/git/ans/configuration.gradle" timestamp="1486065008300">
-        <mark key="'" line="48" column="16" />
+      <file name="C:/git/ans/configuration.gradle" timestamp="1486065850518">
         <mark key="[" line="51" column="52" />
         <mark key="]" line="51" column="53" />
         <mark key="." line="51" column="53" />
@@ -245,7 +244,7 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCB0cmFjZWJhY2suZm9ybWF0X2V4YygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -280,9 +279,9 @@
       </history-search>
       <history-cmd>
         <entry>x</entry>
-        <entry>w</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
