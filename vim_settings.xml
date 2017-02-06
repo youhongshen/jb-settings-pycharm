@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/dcr_incident_exporter.py" timestamp="1486055883839" />
       <file name="/a.dummy" timestamp="1486060595705">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,9 +36,6 @@
       </file>
       <file name="C:/git/ans/apps/dcr-incident-exporter/revisions.md" timestamp="1486065186794">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
       </file>
       <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/resources/logging_config.ini" timestamp="1486064928704">
         <mark key="'" line="1" column="10" />
@@ -47,11 +43,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="C:/git/ans/configuration.gradle" timestamp="1486065850518">
-        <mark key="[" line="51" column="52" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="53" />
       </file>
       <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485278757159">
         <mark key="'" line="17" column="35" />
@@ -68,13 +59,6 @@
         <mark key="." line="56" column="20" />
         <mark key="^" line="56" column="20" />
       </file>
-      <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/python/dcr_incident_exporter.py" timestamp="1486063691993">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="153" column="14" />
-        <mark key="]" line="153" column="14" />
-        <mark key="." line="153" column="14" />
-        <mark key="^" line="170" column="17" />
-      </file>
       <file name="C:/git/ans/apps/aggregator-services/build.gradle" timestamp="1485208345907">
         <mark key="[" line="186" column="28" />
         <mark key="]" line="186" column="68" />
@@ -83,13 +67,6 @@
       </file>
       <file name="C:/git/ans/install/platform-cdh/playlists/ark-2-remote-config-cdh.xml" timestamp="1485279187852">
         <mark key="'" line="386" column="29" />
-      </file>
-      <file name="C:/git/ans/apps/dcr-incident-exporter/src/main/python/dcr_incident_generator.py" timestamp="1486065161290">
-        <mark key="'" line="14" column="52" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="177" column="63" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" timestamp="1485298731683">
         <mark key="[" line="66" column="19" />
