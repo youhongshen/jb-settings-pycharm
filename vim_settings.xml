@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1486060595705">
+      <file name="/a.dummy" timestamp="1486486448334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/ans/apps/aggregator-services/revisions.md" timestamp="1485208605053">
@@ -43,6 +43,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="C:/git/ans/configuration.gradle" timestamp="1486486432326">
+        <mark key="'" line="234" column="94" />
       </file>
       <file name="C:/git/ans/system/eea-ark-config/cdh_template/cdh-install.env" timestamp="1485278757159">
         <mark key="'" line="17" column="35" />
@@ -181,6 +184,11 @@
       <jump line="13" column="9" filename="C:/git/ans/apps/dcr-incident-exporter/src/main/resources/logging_config.ini" />
       <jump line="16" column="9" filename="C:/git/ans/apps/dcr-incident-exporter/src/main/resources/logging_config.ini" />
       <jump line="1" column="10" filename="C:/git/ans/apps/dcr-incident-exporter/src/main/resources/logging_config.ini" />
+      <jump line="76" column="31" filename="C:/git/ans/configuration.gradle" />
+      <jump line="137" column="15" filename="C:/git/ans/configuration.gradle" />
+      <jump line="138" column="19" filename="C:/git/ans/configuration.gradle" />
+      <jump line="176" column="18" filename="C:/git/ans/configuration.gradle" />
+      <jump line="234" column="94" filename="C:/git/ans/configuration.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -190,7 +198,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>messaging</text>
+        <text>kafka</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjICoqMS40MyAoMjAxNy4wMS4xOC4pKioKKiBGaXggdGhlIHBhY2thZ2luZyB3aGVyZSBsb2dnaW5nX2NvbmZpZy5pbmkgd2FzIG5vdCBpbmNsdWRlZCBlYXJsaWVyLgo=</text>
@@ -227,15 +235,14 @@
       </register>
     </registers>
     <search>
-      <last-search>messaging</last-search>
+      <last-search>kafka</last-search>
       <last-offset />
-      <last-pattern>messaging</last-pattern>
+      <last-pattern>kafka</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ORACLE_H</entry>
         <entry>hadoop</entry>
         <entry>hadoop\/bin</entry>
         <entry>ark-man</entry>
@@ -255,6 +262,7 @@
         <entry>fileCon</entry>
         <entry>print</entry>
         <entry>messaging</entry>
+        <entry>kafka</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
