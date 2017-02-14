@@ -4,7 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="C:/git/cea_product/ceadb/OracleDB/scripts/oraFuncs.sh" timestamp="1487002423584" />
-      <file name="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" timestamp="1487098898388" />
+      <file name="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" timestamp="1487100575455">
+        <mark key="'" line="21" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1486486448334">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,11 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="15" filename="C:/git/ans/configuration.gradle" />
-      <jump line="13" column="19" filename="C:/git/ans/configuration.gradle" />
-      <jump line="43" column="15" filename="C:/git/ans/configuration.gradle" />
-      <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/HelloNLP/tokenize.py" />
-      <jump line="87" column="19" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="101" column="30" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="191" column="58" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
       <jump line="102" column="13" filename="C:/git/ans/apps/aggregator-services/gp-persist/src/main/python/gptogdfs.py" />
@@ -197,6 +194,11 @@
       <jump line="179" column="33" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="1" column="14" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
       <jump line="10" column="34" filename="C:/git/cea_product/ceadb/OracleDB/scripts/create_part_tab.sh" />
+      <jump line="40" column="10" filename="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" />
+      <jump line="43" column="9" filename="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" />
+      <jump line="0" column="0" filename="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" />
+      <jump line="16" column="2" filename="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" />
+      <jump line="21" column="19" filename="C:/git/cea_product/ceadb/OracleDB/scripts/transition_tables.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -206,7 +208,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>opt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjICoqMS40MyAoMjAxNy4wMS4xOC4pKioKKiBGaXggdGhlIHBhY2thZ2luZyB3aGVyZSBsb2dnaW5nX2NvbmZpZy5pbmkgd2FzIG5vdCBpbmNsdWRlZCBlYXJsaWVyLgo=</text>
@@ -243,15 +245,14 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>opt</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>opt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ark-man</entry>
         <entry>init</entry>
         <entry>external.config</entry>
         <entry>aggregator-ser</entry>
@@ -271,12 +272,13 @@
         <entry>kafka</entry>
         <entry>CREATE</entry>
         <entry>create</entry>
+        <entry>opt</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
