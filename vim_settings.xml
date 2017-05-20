@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1495303046827">
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1495308356265">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="/Python Console" timestamp="1495302226962">
         <mark key="[" line="0" column="0" />
@@ -64,11 +64,11 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495303340068">
-        <mark key="[" line="83" column="23" />
-        <mark key="]" line="83" column="23" />
-        <mark key="." line="83" column="23" />
-        <mark key="^" line="82" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495309353241">
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="21" />
+        <mark key="." line="67" column="21" />
+        <mark key="^" line="67" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -193,6 +193,12 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495309135274">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="52" column="24" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
@@ -298,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
@@ -310,31 +316,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2RmcyhzZWxmKToKICAgICAgICBsaXN0ID0gc2VsZi5fMS5kZnMoKQogICAgICAgIHNlbGYuYXNzZXJ0TGlzdEVxdWFsKGxpc3QsIFtzZWxmLl8xLCBzZWxmLl8yLCBzZWxmLl80LCBzZWxmLl83LCBzZWxmLl84LCBzZWxmLl85LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl8xMCwgc2VsZi5fNSwgc2VsZi5fMywgc2VsZi5fNiwgc2VsZi5fMTEsIHNlbGYuXzEyXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJfbm9kZSA9IHN0YWNrWy0xXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0ciAtPSAxICAjIHBvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0ciArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJfbm9kZSA9IHN0YWNrWy0xXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0ciArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0ciAtPSAxICAjIHBvcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
