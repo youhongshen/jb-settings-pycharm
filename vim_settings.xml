@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1495309813670">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1495330252320">
+        <mark key="[" line="59" column="83" />
+        <mark key="]" line="59" column="83" />
+        <mark key="." line="59" column="83" />
+        <mark key="^" line="59" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495310102601">
         <mark key="[" line="38" column="39" />
@@ -15,7 +15,7 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="37" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1495302226962">
+      <file name="/Python Console" timestamp="1495330195944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -70,11 +70,11 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495309994162">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495330400564">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="101" column="93" />
+        <mark key="^" line="101" column="93" />
+        <mark key="." line="101" column="93" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -308,44 +308,44 @@
       <jump line="140" column="11" filename="$USER_HOME$/PycharmProjects/max/max_template.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKF82LnNlYXJjaCg2KSwgNSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKF82LnNlYXJjaCg2KSwgNSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChzZWxmLl8xLmluX29yZGVyX3RyYXZlcnNhbCgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpc192YWxpZChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChsaXN0LCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gc2VsZi5fMS5iZnMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gc2VsZi5fMS5kZnMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbCgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
