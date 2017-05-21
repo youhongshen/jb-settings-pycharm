@@ -9,11 +9,11 @@
         <mark key="." line="59" column="83" />
         <mark key="^" line="59" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495310102601">
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="40" />
-        <mark key="." line="38" column="40" />
-        <mark key="^" line="37" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495332553343">
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="56" column="32" />
+        <mark key="^" line="56" column="40" />
+        <mark key="." line="56" column="32" />
       </file>
       <file name="/Python Console" timestamp="1495330195944">
         <mark key="[" line="0" column="0" />
@@ -70,7 +70,7 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495330400564">
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495331909020">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="101" column="93" />
         <mark key="^" line="101" column="93" />
@@ -199,10 +199,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495309762404">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495332271905">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -309,43 +310,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChzZWxmLl8xLmluX29yZGVyX3RyYXZlcnNhbCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuXzYubWF4KCksIDEyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuXzgubWluKCksIDcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChsaXN0LCAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBfMSA9IEJpbmFyeVNlYXJjaFRyZWUoMSkKICAgICAgICBfMiA9IEJpbmFyeVNlYXJjaFRyZWUoMikKICAgICAgICBfMyA9IEJpbmFyeVNlYXJjaFRyZWUoMykKICAgICAgICBfNCA9IEJpbmFyeVNlYXJjaFRyZWUoNCkKICAgICAgICBfNSA9IEJpbmFyeVNlYXJjaFRyZWUoNSkKICAgICAgICBfNiA9IEJpbmFyeVNlYXJjaFRyZWUoNikKICAgICAgICBfNyA9IEJpbmFyeVNlYXJjaFRyZWUoNykKICAgICAgICBfOCA9IEJpbmFyeVNlYXJjaFRyZWUoOCkKICAgICAgICBfOSA9IEJpbmFyeVNlYXJjaFRyZWUoOSkKICAgICAgICBfMTAgPSBCaW5hcnlTZWFyY2hUcmVlKDEwKQogICAgICAgIF8xMSA9IEJpbmFyeVNlYXJjaFRyZWUoMTEpCiAgICAgICAgXzEyID0gQmluYXJ5U2VhcmNoVHJlZSgxMikKCiAgICAgICAgXzYubGVmdCA9IF8zCiAgICAgICAgXzYucmlnaHQgPSBfOAogICAgICAgIF8zLmxlZnQgPSBfMQogICAgICAgIF8zLnJpZ2h0ID0gXzQKICAgICAgICBfMS5yaWdodCA9IF8yCiAgICAgICAgXzgubGVmdCA9IF83CiAgICAgICAgXzgucmlnaHQgPSBfMTIKICAgICAgICBfMTIubGVmdCA9IF8xMAoKICAgICAgICBfMS5pZCA9IDEKICAgICAgICBfMi5pZCA9IDIKICAgICAgICBfMy5pZCA9IDMKICAgICAgICBfNC5pZCA9IDQKICAgICAgICBfNi5pZCA9IDUKICAgICAgICBfOC5pZCA9IDg=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gc2VsZi5fMS5iZnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gc2VsZi5fMS5kZnMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbCgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
