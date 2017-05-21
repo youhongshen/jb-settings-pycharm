@@ -70,11 +70,11 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495389767277">
-        <mark key="[" line="114" column="19" />
-        <mark key="]" line="113" column="32" />
-        <mark key="." line="113" column="32" />
-        <mark key="^" line="113" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495390501026">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="94" column="48" />
+        <mark key="." line="94" column="48" />
+        <mark key="^" line="94" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -199,11 +199,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495389525039">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495390572079">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -310,43 +310,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YSBpcyBub3QgTm9uZSBhbmQgbGlzdFstMV0uZGF0YSA+PSBkYXRhOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZGF0YToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb3RlIGlmIGluZGV4IGlzID4gbGVuKGxpc3QpLTEsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbmRleCBpcyBub3QgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF8xMi5pZCA9IDkK</text>
+        <text encoding="base64">ICAgICAgICAjIGluIGFkZGl0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF8xMC5pZCA9IDgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF84LmlkID0gNwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRhdGEgaXMgbm90IE5vbmUgYW5kIGxpc3RbLTFdLmRhdGEgPj0gZGF0YToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF83LmlkID0gNgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5kZXggaXMgbm90IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF82LmlkID0gNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
