@@ -35,7 +35,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485040368473">
+      <file name="/a.dummy" timestamp="1495577772195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,11 +72,11 @@
         <mark key="]" line="7" column="63" />
         <mark key="." line="7" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/test.py" timestamp="1495573618092">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/test.py" timestamp="1495577736634">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -122,11 +122,11 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1495573170714">
-        <mark key="'" line="14" column="20" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1495578053348">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
         <mark key="[" line="6" column="0" />
@@ -190,6 +190,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/examples/object_equality.py" timestamp="1495578204139">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/max/requirements.txt" timestamp="1485127798955">
         <mark key="[" line="1" column="4" />
       </file>
@@ -223,11 +229,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495552211761">
-        <mark key="[" line="110" column="7" />
-        <mark key="]" line="114" column="7" />
-        <mark key="^" line="114" column="7" />
-        <mark key="." line="114" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495578394986">
+        <mark key="[" line="187" column="6" />
+        <mark key="]" line="187" column="7" />
+        <mark key="^" line="187" column="7" />
+        <mark key="." line="187" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -334,43 +340,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YTEgPSBBKDEpCg==</text>
+        <text encoding="base64">aWYgYTEgaW4gbWFwOgogICAgcHJpbnQoJ2ZvdW5kJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbm9kZXMgPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY29sb3JzID0gW10K</text>
+        <text encoding="base64">ICAgICMgICAgIHJldHVybiBpZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaW5wdXQgPSBbXQo=</text>
+        <text encoding="base64">ICAgICMgZGVmIGlkKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZWRnZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY29sb3IgPSAwCg==</text>
+        <text encoding="base64">ICAgIGRlZiBpZChzZWxmKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgX2lkID0gMAo=</text>
+        <text encoding="base64">ICAgICMgbm9kZXMgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYiA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICMgY29sb3JzID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgYSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICMgaW5wdXQgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgd2VpZ2h0ID0gMAo=</text>
+        <text encoding="base64">ICAgICMgZWRnZXMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
