@@ -21,7 +21,7 @@
         <mark key="^" line="147" column="47" />
         <mark key="." line="148" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1495556206114">
+      <file name="/Python Console" timestamp="1495560116432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -116,11 +116,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1495556953392">
-        <mark key="[" line="57" column="11" />
-        <mark key="]" line="56" column="24" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="56" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1495560927034">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="98" column="37" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
         <mark key="[" line="6" column="0" />
@@ -225,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="26" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
-      <jump line="46" column="31" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
-      <jump line="47" column="41" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
-      <jump line="58" column="52" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="69" column="27" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="70" column="37" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_mars/asiancops/home/static/home/bootstrap/js/bootstrap.js" />
@@ -325,13 +322,17 @@
       <jump line="140" column="11" filename="$USER_HOME$/PycharmProjects/max/max_template.py" />
       <jump line="30" column="41" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
       <jump line="31" column="43" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
+      <jump line="18" column="19" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
+      <jump line="12" column="5" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
+      <jump line="16" column="24" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
+      <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">XyAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XyAgICAg</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -340,31 +341,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbm9kZV9hLmVkZ2VzLmFwcGVuZChlZGdlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9ub2RlcyA9IGxlbihub2RlX21hcCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bV9wYXRoICs9IHBhdGhfd2VpZ2h0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX21hcCA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhdGhfd2VpZ2h0IGluIHBhdGg6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bV9ub2RlcyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUgPSBsaXN0W3B0cl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vZGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgpu</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBiZnMoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
