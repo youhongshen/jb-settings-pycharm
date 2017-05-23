@@ -9,13 +9,19 @@
         <mark key="." line="59" column="83" />
         <mark key="^" line="59" column="64" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/calc_array_size.py" timestamp="1495552668516">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495509103865">
         <mark key="[" line="148" column="38" />
         <mark key="]" line="148" column="39" />
         <mark key="^" line="147" column="47" />
         <mark key="." line="148" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1495508531264">
+      <file name="/Python Console" timestamp="1495552554017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -199,7 +205,7 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495508854179">
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495552211761">
         <mark key="[" line="110" column="7" />
         <mark key="]" line="114" column="7" />
         <mark key="^" line="114" column="7" />
@@ -309,11 +315,11 @@
       <jump line="31" column="43" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG42LnN1Y2Nlc3NvcigxKS5kYXRhLCAyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -322,31 +328,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG42LnN1Y2Nlc3NvcigxKS5kYXRhLCAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG51bSA9IFt4IGZvciB4IGluIGRdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub2RlLnBhcmVudCBpcyBOb25lOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZW4gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGknbSBhdCB0aGUgcm9vdCBhbmQgc3RpbGwgaGF2ZW4ndCBmaW5kIHNvbWV0aGluZyBzbWFsbGVyLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub2RlLnBhcmVudCBpcyBOb25lOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRoZW4gCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIGknbSBhdCB0aGUgcm9vdCBhbmQgc3RpbGwgaGF2ZW4ndCBmaW5kIHNvbWV0aGluZyBzbWFsbGVyLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
