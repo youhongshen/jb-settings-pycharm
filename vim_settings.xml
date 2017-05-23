@@ -21,7 +21,7 @@
         <mark key="^" line="147" column="47" />
         <mark key="." line="148" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1495552554017">
+      <file name="/Python Console" timestamp="1495554631539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -40,7 +40,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/cartetian_product.py" timestamp="1495553741109" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/cartetian_product.py" timestamp="1495554719358">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/event_list_page.html" timestamp="1476635471811">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -316,11 +321,11 @@
       <jump line="31" column="43" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">ZG93biA=</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -329,31 +334,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG42LnN1Y2Nlc3NvcigxKS5kYXRhLCAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG51bSA9IFt4IGZvciB4IGluIGRdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHlfdXAgPSB5MiAtIHljCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIG51bSA9IFt4IGZvciB4IGluIGRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub2RlLnBhcmVudCBpcyBOb25lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZW4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGknbSBhdCB0aGUgcm9vdCBhbmQgc3RpbGwgaGF2ZW4ndCBmaW5kIHNvbWV0aGluZyBzbWFsbGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub2RlLnBhcmVudCBpcyBOb25lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZW4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
