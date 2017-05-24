@@ -229,11 +229,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495580582183">
-        <mark key="[" line="228" column="16" />
-        <mark key="]" line="228" column="22" />
-        <mark key="^" line="228" column="22" />
-        <mark key="." line="228" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495580619870">
+        <mark key="[" line="227" column="28" />
+        <mark key="]" line="231" column="0" />
+        <mark key="^" line="230" column="38" />
+        <mark key="." line="231" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -339,11 +339,11 @@
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getattr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IGNoaWxkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getattr</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -352,31 +352,31 @@
         <text encoding="base64">ICAgICAgICByID0gW2kuZGF0YSBmb3IgaSBpbiBuNi5pbl9vcmRlcl90cmF2ZXJzYWwoKV0KICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChyLCBbMywgNiwgOF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IGNoaWxkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMl0uZGF0YSwgOCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMV0uZGF0YSwgNikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMF0uZGF0YSwgMykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyKSwgMykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByID0gbjYuaW5fb3JkZXJfdHJhdmVyc2FsKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMl0uZGF0YSwgOCkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMV0uZGF0YSwgNikK</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMF0uZGF0YSwgMykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyKSwgMykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByID0gbjYuaW5fb3JkZXJfdHJhdmVyc2FsKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMl0uZGF0YSwgOCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJbMV0uZGF0YSwgNikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
