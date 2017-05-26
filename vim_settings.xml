@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1495330252320">
-        <mark key="[" line="59" column="83" />
-        <mark key="]" line="59" column="83" />
-        <mark key="." line="59" column="83" />
-        <mark key="^" line="59" column="64" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1495766668916">
+        <mark key="[" line="59" column="47" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/calc_array_size.py" timestamp="1495553775128">
         <mark key="[" line="2" column="23" />
@@ -15,11 +15,12 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495764340355">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="156" column="39" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495767207737">
+        <mark key="'" line="151" column="37" />
+        <mark key="[" line="73" column="28" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="151" column="37" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/Python Console" timestamp="1495560116432">
         <mark key="[" line="0" column="0" />
@@ -88,11 +89,11 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495765846482">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495767344289">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -235,16 +236,13 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495765164266">
-        <mark key="[" line="257" column="40" />
-        <mark key="]" line="257" column="41" />
-        <mark key="^" line="257" column="26" />
-        <mark key="." line="257" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495767357396">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="27" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
-      <jump line="70" column="37" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_mars/asiancops/home/static/home/bootstrap/js/bootstrap.js" />
       <jump line="745" column="14" filename="$USER_HOME$/workspace_mars/asiancops/home/static/home/bootstrap/js/bootstrap.js" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
@@ -343,61 +341,62 @@
       <jump line="12" column="5" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="16" column="24" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
+      <jump line="68" column="24" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
+      <jump line="154" column="37" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>.root</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>test_delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYV9wX2NfcHRyIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2V0YXR0cihhLnBhcmVudCwgYV9wX2NfcHRyLCBiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChCaW5hcnlUcmVlKHNlbGYuXzgpLmJmcygpLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmVudCA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0ID0gTm9uZQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlZnQgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNpemUgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYV9yID0gYS5yaWdodAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlbGV0ZShzZWxmKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYV9sID0gYS5sZWZ0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsID0gc2VsZi5fMS5pbl9vcmRlcl90cmF2ZXJzYWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYV9wID0gYS5wYXJlbnQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChzZWxmLl85LmJmcygpLCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAucmlnaHQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNfcHRyID0gJ3JpZ2h0Jwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChzZWxmLl84LmJmcygpLCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>test_delete</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>test_delete</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>forms</entry>
         <entry>css_classes</entry>
         <entry>type</entry>
         <entry>image</entry>
@@ -417,6 +416,7 @@
         <entry>respond</entry>
         <entry>event</entry>
         <entry>id</entry>
+        <entry>test_delete</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
