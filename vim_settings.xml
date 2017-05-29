@@ -15,14 +15,14 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495841129747">
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1496098705227">
         <mark key="'" line="152" column="37" />
-        <mark key="[" line="96" column="36" />
-        <mark key="]" line="96" column="36" />
-        <mark key="^" line="98" column="19" />
-        <mark key="." line="96" column="36" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="155" column="43" />
+        <mark key="^" line="155" column="41" />
+        <mark key="." line="155" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1495560116432">
+      <file name="/Python Console" timestamp="1496083982859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -31,7 +31,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/fragment.py" timestamp="1485124779535">
+      <file name="/fragment.py" timestamp="1496083772800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,11 +89,11 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1495767344289">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1496098780023">
+        <mark key="[" line="141" column="3" />
+        <mark key="]" line="147" column="11" />
+        <mark key="^" line="147" column="11" />
+        <mark key="." line="147" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -236,15 +236,14 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1496019835948">
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="261" column="28" />
-        <mark key="^" line="261" column="28" />
-        <mark key="." line="261" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1496085267713">
+        <mark key="[" line="342" column="27" />
+        <mark key="]" line="342" column="27" />
+        <mark key="^" line="329" column="23" />
+        <mark key="." line="342" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace_mars/asiancops/home/static/home/bootstrap/js/bootstrap.js" />
       <jump line="745" column="14" filename="$USER_HOME$/workspace_mars/asiancops/home/static/home/bootstrap/js/bootstrap.js" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="32" column="56" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
@@ -344,49 +343,50 @@
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="68" column="24" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
       <jump line="154" column="37" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
+      <jump line="283" column="18" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return None, None</text>
+        <text encoding="base64">cGFyZW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>return None, None</text>
+        <text encoding="base64">cGFyZW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>test_delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChCaW5hcnlUcmVlKHNlbGYuXzgpLmJmcygpLCAK</text>
+        <text encoding="base64">ICAgICAgICByID0gW2kuc2l6ZSBmb3IgaSBpbiBuNi5pbl9vcmRlcl90cmF2ZXJzYWwoKV0KICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChyLCBbMSwgMywgMV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25vZGUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc28gdGhlIGNhbGxlciBjb3VsZCByZWNvbm5lY3QgdGhlIHBhcmVudCdzIGxlZnQvcmlnaHQgcG9pbnRlciB0byB0aGUgY2hpbGQgb2YgdGhlIG5vZGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZV9ub2RlKG5vZGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmV0dXJucyB0aGUgbm9kZSdzIHBhcmVudCBub2RlIGFuZCBjaGlsZCBwb2ludGVyIGZyb20gdGhlIHBhcmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjb25uZWN0cyB0aGUgbm9kZSdzIHBhcmVudCB0byAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYl9sID0gYi5sZWZ0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldGF0dHIoYl9wLCBiX3BfY19wdHIsIGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlbGV0ZShzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYl9wX2NfcHRyIGlzIG5vdCBOb25lIGFuZCBiX3AgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -425,9 +425,9 @@
         <entry>3,$d</entry>
         <entry>1,$d</entry>
         <entry>q</entry>
-        <entry>$</entry>
         <entry>w</entry>
         <entry>0</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -468,6 +468,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
