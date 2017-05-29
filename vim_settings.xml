@@ -15,12 +15,12 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495767207737">
-        <mark key="'" line="151" column="37" />
-        <mark key="[" line="73" column="28" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="151" column="37" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1495841129747">
+        <mark key="'" line="152" column="37" />
+        <mark key="[" line="96" column="36" />
+        <mark key="]" line="96" column="36" />
+        <mark key="^" line="98" column="19" />
+        <mark key="." line="96" column="36" />
       </file>
       <file name="/Python Console" timestamp="1495560116432">
         <mark key="[" line="0" column="0" />
@@ -236,10 +236,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1495767357396">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1496019835948">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="261" column="28" />
+        <mark key="^" line="261" column="28" />
+        <mark key="." line="261" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -345,11 +346,11 @@
       <jump line="154" column="37" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return None, None</text>
       </register>
       <register name="-" type="4">
-        <text>.root</text>
+        <text>return None, None</text>
       </register>
       <register name="/" type="4">
         <text>test_delete</text>
@@ -358,31 +359,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChCaW5hcnlUcmVlKHNlbGYuXzgpLmJmcygpLCAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25vZGUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc28gdGhlIGNhbGxlciBjb3VsZCByZWNvbm5lY3QgdGhlIHBhcmVudCdzIGxlZnQvcmlnaHQgcG9pbnRlciB0byB0aGUgY2hpbGQgb2YgdGhlIG5vZGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmV0dXJucyB0aGUgbm9kZSdzIHBhcmVudCBub2RlIGFuZCBjaGlsZCBwb2ludGVyIGZyb20gdGhlIHBhcmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjb25uZWN0cyB0aGUgbm9kZSdzIHBhcmVudCB0byAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlbGV0ZShzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gc2VsZi5fMS5pbl9vcmRlcl90cmF2ZXJzYWwoKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChzZWxmLl85LmJmcygpLCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChzZWxmLl84LmJmcygpLCAK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlbGV0ZShzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
