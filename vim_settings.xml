@@ -89,11 +89,10 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1496104830635">
-        <mark key="[" line="178" column="29" />
-        <mark key="]" line="175" column="79" />
-        <mark key="." line="175" column="79" />
-        <mark key="^" line="175" column="79" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1496105055953">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -348,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMgdG9kbwo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -360,31 +359,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChCaW5hcnlUcmVlKHNlbGYuXzEpLnByZV9vcmRlcl90cmF2ZXJzYWxfcigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLl8xLCBzZWxmLl8yLCBzZWxmLl80LCBzZWxmLl83LCBzZWxmLl84LCBzZWxmLl85LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl8xMCwgc2VsZi5fNSwgc2VsZi5fMywgc2VsZi5fNiwgc2VsZi5fMTEsIHNlbGYuXzEyXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMgdG9kbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YWNrLmFwcGVuZChub2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YWNrLmFwcGVuZChub2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZSBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZSBpcyBOb25lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rmc19yZWN1cnNlKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rmc19yZWN1cnNlKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlID0gc2VsZi5yb290Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlID0gc2VsZi5yb290Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
