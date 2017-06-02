@@ -22,7 +22,7 @@
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1496285249888">
+      <file name="/Python Console" timestamp="1496289110921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -31,7 +31,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/fragment.py" timestamp="1496284554088">
+      <file name="/fragment.py" timestamp="1496288354604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -94,11 +94,10 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/topological_sort.py" timestamp="1496285609612">
-        <mark key="[" line="101" column="21" />
-        <mark key="]" line="101" column="21" />
-        <mark key="." line="101" column="21" />
-        <mark key="^" line="101" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/topological_sort.py" timestamp="1496289457011">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/.gitignore" timestamp="1485041409049">
         <mark key="[" line="3" column="5" />
@@ -219,11 +218,11 @@
       <file name="$USER_HOME$/git/ansible_scripts/roles/aws_s3/tasks/main.yml" timestamp="1483387743979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496285468295">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="18" column="48" />
-        <mark key="." line="18" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496288679387">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="40" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
         <mark key="[" line="15" column="8" />
@@ -247,7 +246,7 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1496101224350">
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" timestamp="1496369744023">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="342" column="27" />
         <mark key="]" line="342" column="27" />
@@ -358,44 +357,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgIA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZTEuYWRkX2VkZ2UoZWRnZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJyglcykgLS0gJWQgLS0+ICglcyknICUgKHNlbGYubm9kZTEsIHNlbGYud2VpZ2h0LCBzZWxmLm5vZGUyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZSBpbiB1bmV4cAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5leHBsb3JlZC5yZW1vdmUobm9kZSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1bmV4cGxvcmVkLnJlbW92ZShub2RlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5leHBsb3JlZC5yZW1vdmUobm9kZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZSAgICAgICAgICAgICMgYmFjayB0byB0aGUgb3V0ZXIgd2hpbGUgbG9vcAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2RlID0gb3RoZXIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcoJXMpIC0tICVkIC0tICglcyknICUgKHNlbGYubm9kZTEsIHNlbGYud2VpZ2h0LCBzZWxmLm5vZGUyKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX2RpcmVjdGVkOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJygnICsgc2VsZi5ub2RlMSArICcpIC0tICcgKyBzdHIoc2VsZi53ZWlnaHQpICsgJyAtLT4gKCcgKyBzZWxmLm5vZGUyICsgJyknCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIGl0J3MgcG9zc2libGUgdG8gaGF2ZSBtdWx0aXBsZSBub2RlcyB3L28gYW55IGluY29taW5nIGVkZ2VzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b3AK</text>
+        <text encoding="base64">ICAgICAgICAjIGEgc3RhcnRpbmcgbm9kZSBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbci5pZCBmb3IgciBpbiByZXN1bHRdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
