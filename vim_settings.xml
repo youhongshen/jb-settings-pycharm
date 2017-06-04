@@ -131,23 +131,23 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496527157182">
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496528677264">
         <mark key="'" line="80" column="9" />
-        <mark key="[" line="146" column="82" />
-        <mark key="]" line="146" column="89" />
-        <mark key="." line="146" column="89" />
-        <mark key="^" line="146" column="89" />
+        <mark key="[" line="157" column="11" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="149" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/event_list_page.html" timestamp="1476635471811">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496524886590">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496527775230">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/requirements.txt" timestamp="1485127798955">
         <mark key="[" line="1" column="4" />
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRoZSBsb25nZXN0IGZpbmlzaGluZyB0aW1lLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAjIGlmIHN0YWNrIGlzIG5vdCBlbXB0eSwgYWx3YXlzIGxvb2sgYXQgdGhhdCBmaXJzdA==</text>
+        <text>Rename nodes with the finishing time from step 1, and start with the node</text>
       </register>
       <register name="/" type="4">
         <text>other_node</text>
@@ -391,31 +391,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChCaW5hcnlUcmVlKHNlbGYuXzEpLnByZV9vcmRlcl90cmF2ZXJzYWxfcigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLl8xLCBzZWxmLl8yLCBzZWxmLl80LCBzZWxmLl83LCBzZWxmLl84LCBzZWxmLl85LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl8xMCwgc2VsZi5fNSwgc2VsZi5fMywgc2VsZi5fNiwgc2VsZi5fMTEsIHNlbGYuXzEyXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRoZSBsb25nZXN0IGZpbmlzaGluZyB0aW1lLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmQgaWYgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzdGFjay5hcHBlbmQobm9kZSkK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB2aXNpdGVkLmFkZChub2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZiB2aXNpdChub2RlKToK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnb3RvIGxhYmVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
