@@ -22,7 +22,7 @@
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1496289110921">
+      <file name="/Python Console" timestamp="1496615956394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -218,11 +218,11 @@
       <file name="$USER_HOME$/git/ansible_scripts/roles/aws_s3/tasks/main.yml" timestamp="1483387743979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496288679387">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496617224962">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="84" column="44" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
         <mark key="[" line="15" column="8" />
@@ -235,6 +235,13 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496616845549">
+        <mark key="'" line="99" column="131" />
+        <mark key="[" line="100" column="25" />
+        <mark key="]" line="100" column="7" />
+        <mark key="." line="100" column="7" />
+        <mark key="^" line="100" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/supervisor_asiancops.conf" timestamp="1482453924509">
         <mark key="[" line="4" column="12" />
@@ -255,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="13" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="32" column="56" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="40" column="27" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="64" column="25" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
@@ -355,46 +361,47 @@
       <jump line="154" column="37" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" />
       <jump line="283" column="18" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
+      <jump line="99" column="131" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSgxIGluIHJlc3VsdCkKICAgICAgICBzZWxmLmFzc2VydFRydWUoMiBpbiByZXN1bHQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJyglcykgLS0gJWQgLS0+ICglcyknICUgKHNlbGYubm9kZTEsIHNlbGYud2VpZ2h0LCBzZWxmLm5vZGUyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChyZXN1bHQsIFszLCAyLCAxXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSgxIGluIHJlc3VsdCkKICAgICAgICBzZWxmLmFzc2VydFRydWUoMiBpbiByZXN1bHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoMiBpbiByZXN1bHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoMSBpbiByZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcoJXMpIC0tICVkIC0tICglcyknICUgKHNlbGYubm9kZTEsIHNlbGYud2VpZ2h0LCBzZWxmLm5vZGUyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCAyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX2RpcmVjdGVkOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJlc3VsdCA9IGdyYXBoLnRvcG9sb2dpY2FsX3NvcnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJygnICsgc2VsZi5ub2RlMSArICcpIC0tICcgKyBzdHIoc2VsZi53ZWlnaHQpICsgJyAtLT4gKCcgKyBzZWxmLm5vZGUyICsgJyknCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChyZXN1bHQsIFsxLCAyXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGl0J3MgcG9zc2libGUgdG8gaGF2ZSBtdWx0aXBsZSBub2RlcyB3L28gYW55IGluY29taW5nIGVkZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHJhbmdlKDEsKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGEgc3RhcnRpbmcgbm9kZSBpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzdWx0LmluZGV4KDMpIDwgcmVzdWx0LmluZGV4KDYpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzdWx0LmluZGV4KDEpIDwgcmVzdWx0LmluZGV4KDIpKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQuaW5kZXgoMSkgPCByZXN1bHQuaW5kZXgoMykpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHJlc3VsdC5pbmRleCgyKSA8IHJlc3VsdC5pbmRleCg0KSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzdWx0LmluZGV4KDMpIDwgcmVzdWx0LmluZGV4KDQpKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQuaW5kZXgoNSkgPCByZXN1bHQuaW5kZXgoMykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
