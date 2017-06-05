@@ -22,7 +22,7 @@
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1496615956394">
+      <file name="/Python Console" timestamp="1496621780541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -31,7 +31,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/fragment.py" timestamp="1496288354604">
+      <file name="/fragment.py" timestamp="1496621136342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -218,11 +218,11 @@
       <file name="$USER_HOME$/git/ansible_scripts/roles/aws_s3/tasks/main.yml" timestamp="1483387743979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496617224962">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="84" column="44" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496621758247">
+        <mark key="[" line="145" column="66" />
+        <mark key="]" line="145" column="43" />
+        <mark key="^" line="145" column="43" />
+        <mark key="." line="145" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
         <mark key="[" line="15" column="8" />
@@ -236,12 +236,12 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496616845549">
-        <mark key="'" line="99" column="131" />
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="7" />
-        <mark key="." line="100" column="7" />
-        <mark key="^" line="100" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496621750039">
+        <mark key="'" line="258" column="37" />
+        <mark key="[" line="135" column="16" />
+        <mark key="]" line="135" column="16" />
+        <mark key="." line="135" column="16" />
+        <mark key="^" line="131" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/supervisor_asiancops.conf" timestamp="1482453924509">
         <mark key="[" line="4" column="12" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="56" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="40" column="27" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="64" column="25" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="178" column="66" filename="$USER_HOME$/Downloads/create-tim-dash/user.html" />
@@ -362,61 +361,61 @@
       <jump line="283" column="18" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
       <jump line="99" column="131" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
+      <jump line="211" column="37" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSgxIGluIHJlc3VsdCkKICAgICAgICBzZWxmLmFzc2VydFRydWUoMiBpbiByZXN1bHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>break</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>break</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChyZXN1bHQsIFszLCAyLCAxXSkK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RhcnRpbmdfbm9kZV9pZDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCAyKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSgxIGluIHJlc3VsdCkKICAgICAgICBzZWxmLmFzc2VydFRydWUoMiBpbiByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlkeCAhPSAtMTogICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoMiBpbiByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoMSBpbiByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCAyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlc3VsdCA9IGdyYXBoLnRvcG9sb2dpY2FsX3NvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChyZXN1bHQsIFsxLCAyXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHJhbmdlKDEsKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzdWx0LmluZGV4KDMpIDwgcmVzdWx0LmluZGV4KDYpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzdWx0LmluZGV4KDEpIDwgcmVzdWx0LmluZGV4KDIpKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQuaW5kZXgoMSkgPCByZXN1bHQuaW5kZXgoMykpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHJlc3VsdC5pbmRleCgyKSA8IHJlc3VsdC5pbmRleCg0KSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzdWx0LmluZGV4KDMpIDwgcmVzdWx0LmluZGV4KDQpKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQuaW5kZXgoNSkgPCByZXN1bHQuaW5kZXgoMykpCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>image</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
         <entry>ALLO</entry>
@@ -436,6 +435,7 @@
         <entry>id</entry>
         <entry>test_delete</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
