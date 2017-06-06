@@ -22,7 +22,7 @@
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1496621780541">
+      <file name="/Python Console" timestamp="1496718107963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -31,7 +31,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/fragment.py" timestamp="1496621136342">
+      <file name="/fragment.py" timestamp="1496623913688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -218,11 +218,12 @@
       <file name="$USER_HOME$/git/ansible_scripts/roles/aws_s3/tasks/main.yml" timestamp="1483387743979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496621758247">
-        <mark key="[" line="145" column="66" />
-        <mark key="]" line="145" column="43" />
-        <mark key="^" line="145" column="43" />
-        <mark key="." line="145" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496716401871">
+        <mark key="'" line="134" column="34" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+        <mark key="^" line="202" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
         <mark key="[" line="15" column="8" />
@@ -236,12 +237,12 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496621750039">
-        <mark key="'" line="258" column="37" />
-        <mark key="[" line="135" column="16" />
-        <mark key="]" line="135" column="16" />
-        <mark key="." line="135" column="16" />
-        <mark key="^" line="131" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496718137978">
+        <mark key="'" line="288" column="37" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+        <mark key="^" line="177" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/supervisor_asiancops.conf" timestamp="1482453924509">
         <mark key="[" line="4" column="12" />
@@ -262,8 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="27" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
-      <jump line="64" column="25" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
       <jump line="178" column="66" filename="$USER_HOME$/Downloads/create-tim-dash/user.html" />
       <jump line="168" column="17" filename="$USER_HOME$/Downloads/create-tim-dash/user.html" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace_mars/asiancops/home/templates/home/index.html" />
@@ -362,37 +361,39 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinarySearchTree.py" />
       <jump line="99" column="131" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
       <jump line="211" column="37" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
+      <jump line="166" column="43" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" />
+      <jump line="134" column="34" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>break</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsaXN0LnJldmVyc2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>break</text>
+        <text>.append</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</text>
+        <text>2, 5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RhcnRpbmdfbm9kZV9pZDoK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbm9kZTogCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlkeCAhPSAtMTogICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LnJldmVyc2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlzaXQobm9kZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBTdGF0aWMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaGlzIGlzIGFjdHVhbGx5IG5vdCB0aGUgd2F5IHRvIGRldGVjdCBTQ0MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -401,22 +402,21 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBjeWMK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</last-search>
+      <last-search>2, 5</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>2, 5</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
         <entry>ALLO</entry>
         <entry>all</entry>
@@ -436,6 +436,7 @@
         <entry>test_delete</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxlZGdlX2RpcmVjdGlvblw+</entry>
+        <entry>2, 5</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -444,8 +445,8 @@
         <entry>1,$d</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>$</entry>
         <entry>0</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
