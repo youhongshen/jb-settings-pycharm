@@ -16,7 +16,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1495577772195">
+      <file name="/a.dummy" timestamp="1496974917187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -41,6 +41,12 @@
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="63" />
         <mark key="." line="7" column="63" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/test_point.py" timestamp="1496975871419">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/test.py" timestamp="1495577736634">
         <mark key="[" line="10" column="28" />
@@ -124,7 +130,7 @@
         <mark key="^" line="189" column="88" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496720276806">
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496975357024">
         <mark key="'" line="215" column="0" />
         <mark key="[" line="250" column="15" />
         <mark key="]" line="215" column="0" />
@@ -148,13 +154,13 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1496973483874">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="26" column="2" />
-        <mark key="." line="26" column="2" />
-        <mark key="^" line="26" column="2" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1496975446183">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1496719920970">
+      <file name="/Python Console" timestamp="1496975807458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1496623913688">
@@ -228,8 +234,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/examples/object_equality.py" timestamp="1495578204139">
-        <mark key="[" line="1" column="2" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/examples/object_equality.py" timestamp="1496974619322">
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="1" column="2" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="2" />
@@ -363,43 +369,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>('x')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>('x')</text>
       </register>
       <register name="/" type="4">
         <text>raju</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZWRnZV9kaXJlY3Rpb246Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoYS5fX2x0X18oYikoJ3gnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGEuX19sdF9fKGIpKCd4JykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKClhLmRpc3RhbmNlKGIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0TGlzdEVxdWFsKHJlc3VsdFswOjRdLCBbMTIsIDExLCA5LCAzXSkKICAgICAgICAjIHNlbGYuYXNzZXJ0TGlzdEVxdWFsKHJlc3VsdFs0XSwgWzIsIDUsIDYsIDEwXSkKICAgICAgICAjIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0WzVdLCAxKQogICAgICAgICMgc2VsZi5hc3NlcnRMaXN0RXF1YWwocmVzdWx0WzY6XSwgWzQsIDcsIDhdKQo=</text>
+        <text encoding="base64">aW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHJlc3VsdCksIDcpCg==</text>
+        <text encoding="base64">IyAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihyZXN1bHQpLCA3KQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRoLnBvdyhzZWxmLngpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdFs1XSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
