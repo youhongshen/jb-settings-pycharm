@@ -42,11 +42,10 @@
         <mark key="]" line="7" column="63" />
         <mark key="." line="7" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/test_point.py" timestamp="1496975871419">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="21" />
-        <mark key="." line="36" column="21" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/test_point.py" timestamp="1496976273350">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/test.py" timestamp="1495577736634">
         <mark key="[" line="10" column="28" />
@@ -154,13 +153,13 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1496975446183">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1496978363684">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
-      <file name="/Python Console" timestamp="1496975807458">
+      <file name="/Python Console" timestamp="1496976140901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1496623913688">
@@ -369,43 +368,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>('x')</text>
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>('x')</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>raju</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoYS5fX2x0X18oYikoJ3gnKSkK</text>
+        <text encoding="base64">ICAgICAgICBfY2xvc2VzdF9wYWlyKHhfbGVmdCwgeV9sZWZ0KSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGEuX19sdF9fKGIpKCd4JykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYV90b19jID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKClhLmRpc3RhbmNlKGIpCg==</text>
+        <text encoding="base64">IyBAdG90YWxfb3JkZXJpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0VHJ1ZShiLl9fbHRfXyhhKSgneScpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0VHJ1ZShhLl9fbHRfXyhiKSgneCcpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRoLnBvdyhzZWxmLngpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsID0gW2EsIGJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
