@@ -153,11 +153,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1497061837235">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="33" />
-        <mark key="." line="63" column="33" />
-        <mark key="^" line="63" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1497063121488">
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="54" />
+        <mark key="." line="53" column="54" />
+        <mark key="^" line="53" column="62" />
       </file>
       <file name="/Python Console" timestamp="1496976140901">
         <mark key="[" line="0" column="0" />
@@ -368,43 +368,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chain</text>
+        <text>points[1], points[2]</text>
       </register>
       <register name="-" type="4">
-        <text>chain</text>
+        <text>points[1], points[2]</text>
       </register>
       <register name="/" type="4">
         <text>raju</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfY2xvc2VzdF9wYWlyKHhfbGVmdCwgeV9sZWZ0KSAK</text>
+        <text encoding="base64">ICAgICAgICB4X2Jhcl9sID0gaCArIG1pZF9pdGVtX3gueCArIGRlbHRhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkMyA9IHAzLmRpc3RhbmNlKHEzKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBbOmhdLCBwW2grMTpdCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsID0gbGVuKHApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIHRoZXJlIGFyZSBldmVuIG51bWJlciBvZiBpdGVtcywgb25lIHNob3VsZCBiZSBpbiB4LCB0aGUgb3RoZXIgaW4geQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMgPSBsaXN0KGl0ZXJ0b29scy5jaGFpbi5mcm9tX2l0ZXJhYmxlKCkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWN1cnNlKHBvaW50cywgcHgsIHB5KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY2xvc2VzdF9wYWlyKHgsIHkpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICAK</text>
+        <text encoding="base64">ICAgICAgICBkMyA9IHAzLmRpc3RhbmNlKHEzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYV90b19jID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
