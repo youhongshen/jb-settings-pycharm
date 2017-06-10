@@ -54,6 +54,12 @@
         <mark key="." line="128" column="26" />
         <mark key="^" line="128" column="26" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/test_point.py" timestamp="1497113466702">
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/default_page.html" timestamp="1477238156735">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
@@ -131,23 +137,10 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496528677264">
-        <mark key="'" line="80" column="9" />
-        <mark key="[" line="157" column="11" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="149" column="74" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/event_list_page.html" timestamp="1476635471811">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/test_directedGraph.py" timestamp="1496527775230">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/requirements.txt" timestamp="1485127798955">
         <mark key="[" line="1" column="4" />
@@ -163,7 +156,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="/Python Console" timestamp="1496524972195">
+      <file name="/Python Console" timestamp="1497113833141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/calc_array_size.py" timestamp="1495553775128">
@@ -249,6 +242,12 @@
         <mark key="]" line="155" column="43" />
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1497113831400">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="23" />
+        <mark key="^" line="56" column="34" />
+        <mark key="." line="63" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/common/tasks/main.yml" timestamp="1485041221355">
         <mark key="[" line="3" column="21" />
@@ -378,44 +377,44 @@
       <jump line="80" column="9" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRoZSBsb25nZXN0IGZpbmlzaGluZyB0aW1lLgo=</text>
+      <register name="&quot;" type="4">
+        <text>list(a)</text>
       </register>
       <register name="-" type="4">
-        <text>Rename nodes with the finishing time from step 1, and start with the node</text>
+        <text>list(a)</text>
       </register>
       <register name="/" type="4">
         <text>other_node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExpc3RFcXVhbChCaW5hcnlUcmVlKHNlbGYuXzEpLnByZV9vcmRlcl90cmF2ZXJzYWxfcigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLl8xLCBzZWxmLl8yLCBzZWxmLl80LCBzZWxmLl83LCBzZWxmLl84LCBzZWxmLl85LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl8xMCwgc2VsZi5fNSwgc2VsZi5fMywgc2VsZi5fNiwgc2VsZi5fMTEsIHNlbGYuXzEyXSkK</text>
+        <text encoding="base64">ICAgICAgIGYgPSBQb2ludCg4LCAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRoZSBsb25nZXN0IGZpbmlzaGluZyB0aW1lLgo=</text>
+        <text encoding="base64">ICAgICAgIGQgPSBQb2ludCgxLCAyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGIgPSBwb2ludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIHBvaW50cyA9IFtQb2luXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgaWYgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBiZXN0X3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiBzeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHRoZSBsb25nZXN0IGZpbmlzaGluZyB0aW1lLgo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
