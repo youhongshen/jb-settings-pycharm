@@ -54,11 +54,11 @@
         <mark key="." line="128" column="26" />
         <mark key="^" line="128" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/test_point.py" timestamp="1497113466702">
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="25" />
-        <mark key="^" line="46" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/test_point.py" timestamp="1497116406236">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="48" column="29" />
+        <mark key="." line="48" column="29" />
+        <mark key="^" line="48" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/default_page.html" timestamp="1477238156735">
         <mark key="[" line="1" column="15" />
@@ -156,7 +156,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="/Python Console" timestamp="1497115721200">
+      <file name="/Python Console" timestamp="1497116324604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/calc_array_size.py" timestamp="1495553775128">
@@ -243,11 +243,11 @@
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1497115719055">
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="52" column="18" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="52" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/div_and_conquer/closest_pair.py" timestamp="1497116829943">
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="77" column="7" />
+        <mark key="^" line="77" column="7" />
+        <mark key="." line="77" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/common/tasks/main.yml" timestamp="1485041221355">
         <mark key="[" line="3" column="21" />
@@ -378,43 +378,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
         <text>other_node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSA9IHMuX19pdGVyX18oKS5uZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHAsIGQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IGl0ZW1zWzJdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncCA9ICVzLCBxID0gJXMnICUgKHAsIHEpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYiA9IGl0ZW1zWzFdCg==</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZXN0X3BhaXIuZnVuY19jbG9zdXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IGl0ZW1zWzJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMgPSB4ICsgeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYiA9IGl0ZW1zWzFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfaXRlbXMgPSBsZW4ocykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy51cGRhdGUoeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMgPSB4ICsgeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy51cGRhdGUoeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfaXRlbXMgPSBsZW4ocykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy51cGRhdGUoeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMgPSB4ICsgeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy51cGRhdGUoeCkK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
