@@ -56,6 +56,12 @@
         <mark key="]" line="1" column="32" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/test_graph.py" timestamp="1498011209858">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/max/test_scenarios.txt" timestamp="1484526218482">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -129,12 +135,12 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1498010219347">
-        <mark key="'" line="90" column="29" />
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="58" column="62" />
-        <mark key="^" line="58" column="62" />
-        <mark key="." line="58" column="62" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1498010905052">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="83" column="27" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="83" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
         <mark key="[" line="6" column="0" />
@@ -254,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="29" filename="$USER_HOME$/Downloads/create-tim-dash/user.html" />
-      <jump line="39" column="66" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
       <jump line="24" column="40" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
       <jump line="37" column="41" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
@@ -354,16 +358,18 @@
       <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="68" column="34" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="86" column="29" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>build_adjacency_list</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>build_adjacency_list</text>
       </register>
       <register name="/" type="4">
-        <text>_id</text>
+        <text>other_no</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4X2Jhcl9sID0gaCArIG1pZF9pdGVtX3gueCArIGRlbHRhCg==</text>
@@ -372,43 +378,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgIHJldHVybiBzZWxmLl9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGlkKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4gZWRnZS5hCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlzX3BhcmVudCAK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgcmV0dXJuIGVkZ2UuYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWZmX2NsCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBpZiBub2RlLl9pZCA9PSBlZGdlLmEuX2lkOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRlZiBvdGhlcl9ub2RlKGVkZ2UsIG5vZGUpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWZmX2NvbG9yID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfb3RoZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBbOmhdLCBwW2grMTpdCg==</text>
+        <text encoding="base64">ICAgICMgICAgIHJldHVybiBzZWxmLl9pZAo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>_id</last-search>
+      <last-search>other_no</last-search>
       <last-offset />
-      <last-pattern>_id</last-pattern>
+      <last-pattern>other_no</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ALL</entry>
         <entry>stati</entry>
         <entry>list</entry>
         <entry>test</entry>
@@ -428,6 +433,7 @@
         <entry>ko</entry>
         <entry>raju</entry>
         <entry>_id</entry>
+        <entry>other_no</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
