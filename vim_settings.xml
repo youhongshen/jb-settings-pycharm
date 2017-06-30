@@ -16,6 +16,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/4/173770.txt" timestamp="1498851756307" />
       <file name="/a.dummy" timestamp="1498838901155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -108,11 +109,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498850824101">
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="35" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498851630646">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="44" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -234,6 +235,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/124472.txt" timestamp="1498851857049" />
       <file name="$USER_HOME$/PycharmProjects/max/misc_notes.txt" timestamp="1485129413198">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -268,7 +270,7 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" timestamp="1498850968056">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" timestamp="1498851528227">
         <mark key="'" line="282" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/supervisor_asiancops.conf" timestamp="1482453924509">
@@ -388,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>[f])</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>[f])</text>
       </register>
       <register name="/" type="4">
         <text>^To:</text>
