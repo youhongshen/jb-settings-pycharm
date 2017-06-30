@@ -76,12 +76,18 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/test/136394.1.txt" timestamp="1498850180194">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/max/README.md" timestamp="1485129727364">
         <mark key="[" line="130" column="2" />
         <mark key="]" line="128" column="26" />
         <mark key="." line="128" column="26" />
         <mark key="^" line="128" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175429.txt" timestamp="1498849801751" />
       <file name="$USER_HOME$/PycharmProjects/AsianCops/secret-key.txt" timestamp="1482022034400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -102,11 +108,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498847705200">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498850824101">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="35" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -153,10 +159,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1498847662185">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/136394.txt" timestamp="1498850133245" />
+      <file name="/Python Console" timestamp="1498850829871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1498847686064">
+      <file name="/fragment.py" timestamp="1498849736174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -187,6 +194,12 @@
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/test/175419.1.txt" timestamp="1498850724450">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/max.py" timestamp="1485040276032">
         <mark key="'" line="72" column="82" />
@@ -255,6 +268,9 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" timestamp="1498850968056">
+        <mark key="'" line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/supervisor_asiancops.conf" timestamp="1482453924509">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -269,14 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="72" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
-      <jump line="77" column="74" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
-      <jump line="53" column="102" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
-      <jump line="42" column="41" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
-      <jump line="80" column="56" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
-      <jump line="20" column="69" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/templates/hello.html" />
-      <jump line="27" column="54" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="37" column="19" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
       <jump line="4" column="23" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
       <jump line="23" column="30" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
@@ -369,6 +377,14 @@
       <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="127" column="24" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="11" column="59" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="23" column="46" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="113" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="136" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="212" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="233" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="250" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="282" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,52 +394,60 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>^To:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBoID0gcGFyc2VyLnBhcnNlc3RyKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGYgPSBqb2luKGQsICd0ZXN0JywgJzE3NTQxOS4xLnR4dCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9mID0gW2YgZm9yIGYgaW4gX2YgaWYgZi5lbmRzd2l0aCgnLnR4dCcpXQo=</text>
+        <text encoding="base64">U3ViamVjdDogUmU6IEdyZWVucGVhY2UgbGV0dGVycyB0byBFbnJvbiBFdXJvcGUgY29uY2VybmluZyBvdXIgcG9zaXRpb24gb24KS3lvdG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmaWxlcyA9IFtmIGZvciBmIGluIGxpc3RkaXIoZGlyKSBpZiBpc2ZpbGUoam9pbihkaXIsIGYpKSBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRpcm5hbWVzKQo=</text>
+        <text encoding="base64">SmVmZnJleSBLZWVsZXIKMDQvMTcvMjAwMSAwNTowMiBQTQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">LS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlbmFtZXMpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlciA9IEhlYWRlclBhcnNlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcy5leHRlbmQoZmlsZW5hbWVzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoZGlycGF0aCwgZDEsIGZpbGVuYW1lcykgaW4gd2Fsayhqb2luKGRpciwgZGlybmFtZXMpKToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Zm9yIChkLCBkaXJuYW1lcywgZikgaW4gd2FsayhkaXIpOgo=</text>
+      <register name="9" type="4">
+        <text>parser = HeaderParser()
+dir_prefix = &quot;/home/joan/IdeaProjects/mail-analytics/parse/enron_with_categories/&quot;
+dirs = [d for d in listdir(dir_prefix) if isdir(join(dir_prefix, d))]   # first level subdir
+files = []
+for d in dirs:
+    _d = join(dir_prefix, d)
+    _f = [join(_d, f) for f in listdir(_d) if isfile(join(_d, f))]
+    files.extend(_f)
+
+files = [f for f in files if f.endswith('.txt')]    # filter out the *.cats file</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>^To:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>^To:</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>vpc_id</entry>
         <entry>vpc</entry>
         <entry>mail</entry>
@@ -443,6 +467,7 @@
         <entry>other_no</entry>
         <entry>num_ed</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>^To:</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
