@@ -102,11 +102,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498845313695">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498846133365">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -372,7 +372,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -384,31 +384,31 @@
         <text encoding="base64">IyBoID0gcGFyc2VyLnBhcnNlc3RyKGRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zi5jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZiA9IG9wZW4oZGlyICsgZmlsZSkK</text>
+        <text encoding="base64">bQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgZGF0YSA9IGYucmVhZCgpCg==</text>
+        <text encoding="base64">Zi5jCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBoID0gcGFyc2VyLnBhcnNlc3RyKGRhdGEpCg==</text>
+        <text encoding="base64">ZiA9IG9wZW4oZGlyICsgZmlsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcmludCBkYXRhCg==</text>
+        <text encoding="base64">IyAgICAgZGF0YSA9IGYucmVhZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aC5pcwo=</text>
+        <text encoding="base64">IyBoID0gcGFyc2VyLnBhcnNlc3RyKGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQobXNnKQo=</text>
+        <text encoding="base64">IyBwcmludCBkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXNnID0gZW1haWwubWVzc2FnZV9mcm9tX2ZpbGUoZikK</text>
+        <text encoding="base64">aC5pcwo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
