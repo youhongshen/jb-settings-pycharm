@@ -21,7 +21,7 @@
         <mark key="^" line="155" column="41" />
         <mark key="." line="155" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1498097457978">
+      <file name="/Python Console" timestamp="1498838843776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/deploy.yml" timestamp="1485059530226">
@@ -35,7 +35,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1496974917187">
+      <file name="/a.dummy" timestamp="1498838901155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -187,6 +187,9 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498838912505">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
