@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1498863737527">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binarySearchTree.py" timestamp="1496098705227">
         <mark key="'" line="152" column="37" />
         <mark key="[" line="162" column="0" />
@@ -109,11 +112,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498859336473">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498863604543">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -149,8 +153,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/mail-schema.avsc" timestamp="1498859886485">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/mail-schema.avsc" timestamp="1498862896000">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1496104172019">
         <mark key="[" line="65" column="68" />
@@ -164,7 +171,7 @@
         <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/136394.txt" timestamp="1498850133245" />
-      <file name="/Python Console" timestamp="1498858657845">
+      <file name="/Python Console" timestamp="1498863760285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498849736174">
@@ -219,7 +226,7 @@
         <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/4/175307.txt" timestamp="1498843769873" />
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" timestamp="1498852866076">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" timestamp="1498861105718">
         <mark key="'" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1498098793681">
@@ -293,15 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="17" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="18" column="33" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/views.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/views.py" />
-      <jump line="34" column="5" filename="$USER_HOME$/PycharmProjects/foundation/blog/models.py" />
-      <jump line="10" column="48" filename="$USER_HOME$/PycharmProjects/foundation/blog/models.py" />
-      <jump line="76" column="47" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/settings/base.py" />
-      <jump line="58" column="4" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/settings/base.py" />
-      <jump line="162" column="13" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/snippets.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/snippets.py" />
       <jump line="15" column="73" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/pages.py" />
       <jump line="37" column="51" filename="$USER_HOME$/git/pypiserver/setup.py" />
       <jump line="224" column="34" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/snippets.py" />
@@ -393,61 +391,69 @@
       <jump line="13" column="10" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
       <jump line="14" column="13" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
       <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="36" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="54" column="25" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="61" column="57" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="64" column="13" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="5" column="28" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="6" column="31" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="14" column="19" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.replace('\t')</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>.replace('\t')</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>kean</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbFsnY2MnXSA9IGNjICsgYmNjCg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbFsnc3ViamVjdCddID0gbXNnWydTdWJqZWN0J10ucmVwbGFjZSgnXG4nLCAnICcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYyA9ICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbFsndG8nXSA9IAo=</text>
+        <text encoding="base64">ZnJvbSBhdnJvLmlvIGltcG9ydCBEYXR1bVdyaXRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnJvbSBhdnJvLmRhdGFmaWxlIGltcG9ydCBEYXRhRmlsZVdyaXRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NjJwo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RvJzogbXNnWydYLVRvJ10sCg==</text>
+        <text encoding="base64">aW1wb3J0IGF2cm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zyb20nOiBtc2dbJ1gtRnJvbSddLAo=</text>
+        <text encoding="base64">ICAgIHsibmFtZSI6ICJ0byIsICJ0eXBlIjogImFycmF5In0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtc2dbJyddCg==</text>
+        <text encoding="base64">ICAgIHsibmFtZSI6ICJuYW1lIiwgInR5cGUiOiAic3RyaW5nIn0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KG1zZy5rZXlzKCkpCg==</text>
+        <text encoding="base64">ICAgIGRpcl9wcmVmaXggPSAiL2hvbWUvam9hbi9JZGVhUHJvamVjdHMvbWFpbC1hbmFseXRpY3MvcGFyc2UvZW5yb25fd2l0aF9jYXRlZ29yaWVzLyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VfcmVwbHkoZikK</text>
+        <text encoding="base64">ICAgIGQgPSAiL2hvbWUvam9hbi9JZGVhUHJvamVjdHMvbWFpbC1hbmFseXRpY3MvcGFyc2UvZW5yb25fd2l0aF9jYXRlZ29yaWVzLyIK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>kean</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern>kean</last-pattern>
+      <last-pattern>parse</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vpc</entry>
         <entry>mail</entry>
         <entry>EMAIL</entry>
         <entry>url</entry>
@@ -467,6 +473,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>^To:</entry>
         <entry>kean</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
