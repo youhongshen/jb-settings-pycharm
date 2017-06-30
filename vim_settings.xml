@@ -216,13 +216,16 @@
         <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/4/175307.txt" timestamp="1498843769873" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" timestamp="1498852815379">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1498098793681">
         <mark key="'" line="138" column="24" />
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498843673313">
+      <file name="/Dummy.txt" timestamp="1498852699202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
@@ -287,13 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="23" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="23" column="30" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="14" column="5" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="20" column="13" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
-      <jump line="22" column="27" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
       <jump line="29" column="17" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/static/js/hello.js" />
       <jump line="18" column="33" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/views.py" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace_mars/HelloDjango/inventory/views.py" />
@@ -387,6 +383,13 @@
       <jump line="233" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="250" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="282" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="2" column="13" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="8" column="17" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="12" column="34" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="13" column="10" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="14" column="13" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -396,7 +399,7 @@
         <text>[f])</text>
       </register>
       <register name="/" type="4">
-        <text>^To:</text>
+        <text>kean</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGYgPSBqb2luKGQsICd0ZXN0JywgJzE3NTQxOS4xLnR4dCcpCg==</text>
@@ -438,19 +441,18 @@ for d in dirs:
 files = [f for f in files if f.endswith('.txt')]    # filter out the *.cats file</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>^To:</last-search>
+      <last-search>kean</last-search>
       <last-offset />
-      <last-pattern>^To:</last-pattern>
+      <last-pattern>kean</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vpc_id</entry>
         <entry>vpc</entry>
         <entry>mail</entry>
         <entry>EMAIL</entry>
@@ -470,6 +472,7 @@ files = [f for f in files if f.endswith('.txt')]    # filter out the *.cats file
         <entry>num_ed</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>^To:</entry>
+        <entry>kean</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -480,6 +483,7 @@ files = [f for f in files if f.endswith('.txt')]    # filter out the *.cats file
         <entry>w</entry>
         <entry>0</entry>
         <entry>$</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
