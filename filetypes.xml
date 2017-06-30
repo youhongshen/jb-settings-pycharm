@@ -12,13 +12,14 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="avsc" type="JSON" />
       <mapping pattern="file.json" type="PLAIN_TEXT" />
       <mapping pattern="tmpfile" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
-      <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

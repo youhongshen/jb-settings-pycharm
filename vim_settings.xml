@@ -109,11 +109,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498851630646">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="44" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498859336473">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -149,6 +149,9 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/mail-schema.avsc" timestamp="1498859886485">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1496104172019">
         <mark key="[" line="65" column="68" />
         <mark key="]" line="65" column="68" />
@@ -161,7 +164,7 @@
         <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/136394.txt" timestamp="1498850133245" />
-      <file name="/Python Console" timestamp="1498850829871">
+      <file name="/Python Console" timestamp="1498858657845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498849736174">
@@ -393,52 +396,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[f])</text>
+        <text>.replace('\t')</text>
       </register>
       <register name="-" type="4">
-        <text>[f])</text>
+        <text>.replace('\t')</text>
       </register>
       <register name="/" type="4">
         <text>kean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGYgPSBqb2luKGQsICd0ZXN0JywgJzE3NTQxOS4xLnR4dCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbFsnY2MnXSA9IGNjICsgYmNjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3ViamVjdDogUmU6IEdyZWVucGVhY2UgbGV0dGVycyB0byBFbnJvbiBFdXJvcGUgY29uY2VybmluZyBvdXIgcG9zaXRpb24gb24KS3lvdG8K</text>
+        <text encoding="base64">ICAgICAgICBjYyA9ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbFsndG8nXSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SmVmZnJleSBLZWVsZXIKMDQvMTcvMjAwMSAwNTowMiBQTQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NjJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RvJzogbXNnWydYLVRvJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IEhlYWRlclBhcnNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zyb20nOiBtc2dbJ1gtRnJvbSddLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2dbJyddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KG1zZy5rZXlzKCkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>parser = HeaderParser()
-dir_prefix = &quot;/home/joan/IdeaProjects/mail-analytics/parse/enron_with_categories/&quot;
-dirs = [d for d in listdir(dir_prefix) if isdir(join(dir_prefix, d))]   # first level subdir
-files = []
-for d in dirs:
-    _d = join(dir_prefix, d)
-    _f = [join(_d, f) for f in listdir(_d) if isfile(join(_d, f))]
-    files.extend(_f)
-
-files = [f for f in files if f.endswith('.txt')]    # filter out the *.cats file</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgcGFyc2VfcmVwbHkoZikK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
