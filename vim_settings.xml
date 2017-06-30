@@ -102,11 +102,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498843589600">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498845313695">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -153,10 +153,10 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1498843395872">
+      <file name="/Python Console" timestamp="1498845304650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1498843418134">
+      <file name="/fragment.py" timestamp="1498845315389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -371,44 +371,44 @@
       <jump line="127" column="24" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3111</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3111</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>num_ed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlsZSA9ICIxLzMxMTEudHh0Igo=</text>
+        <text encoding="base64">IyBoID0gcGFyc2VyLnBhcnNlc3RyKGRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBwcmludCgiJXMgIiAlIGl0ZW0sIGVuZD0nJykK</text>
+        <text encoding="base64">Zi5jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgc3VtICs9IGl0ZW0uc3VtCg==</text>
+        <text encoding="base64">ZiA9IG9wZW4oZGlyICsgZmlsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBpZiBpdGVtLmNvbG9yX2NoYW5nZWQ6Cg==</text>
+        <text encoding="base64">IyAgICAgZGF0YSA9IGYucmVhZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBoID0gcGFyc2VyLnBhcnNlc3RyKGRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHBbaV1bbnVtX2VkZ2VzX2luX3BhdGhdIAo=</text>
+        <text encoding="base64">IyBwcmludCBkYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aC5pcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBsYXN0X25vZGUgPSBkcFtpXVtudW1fZWRnZXNfaW5fcGF0aF0gICMgRHBJdGVtCg==</text>
+        <text encoding="base64">cHJpbnQobXNnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyZW50X29yZGVyID0gaXRlbS5wYXJlCg==</text>
+        <text encoding="base64">bXNnID0gZW1haWwubWVzc2FnZV9mcm9tX2ZpbGUoZikK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
