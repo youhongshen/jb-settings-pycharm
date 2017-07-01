@@ -110,12 +110,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498935577330">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498936310922">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="38" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="30" column="38" />
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="27" column="66" />
+        <mark key="^" line="27" column="66" />
+        <mark key="." line="27" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -156,6 +156,9 @@
         <mark key="]" line="33" column="18" />
         <mark key="." line="33" column="18" />
         <mark key="^" line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/174185.txt" timestamp="1498936237688">
+        <mark key="'" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1496104172019">
         <mark key="[" line="65" column="68" />
@@ -295,8 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="73" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/pages.py" />
-      <jump line="37" column="51" filename="$USER_HOME$/git/pypiserver/setup.py" />
       <jump line="224" column="34" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/snippets.py" />
       <jump line="92" column="21" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/snippets.py" />
       <jump line="30" column="36" filename="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/pages.py" />
@@ -395,6 +396,8 @@
       <jump line="13" column="4" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
       <jump line="14" column="19" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
       <jump line="18" column="25" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
+      <jump line="1" column="5" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/174185.txt" />
+      <jump line="8" column="2" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/174185.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -404,7 +407,7 @@
         <text>eger</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>^to</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiaXRlbXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJyZWNpcGllbnQiLAogICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgIH0K</text>
@@ -437,20 +440,18 @@
         <text encoding="base64">ICAgICAgIm5hbWUiOiAiY2MiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>^to</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>^to</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
-        <entry>EMAIL</entry>
         <entry>url</entry>
         <entry>We rece</entry>
         <entry>respond</entry>
@@ -469,17 +470,19 @@
         <entry>^To:</entry>
         <entry>kean</entry>
         <entry>parse</entry>
+        <entry>To:</entry>
+        <entry>^to</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
         <entry>.,$d</entry>
         <entry>3,$d</entry>
         <entry>1,$d</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>0</entry>
         <entry>$</entry>
         <entry>set ic</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
