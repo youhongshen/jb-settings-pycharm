@@ -19,7 +19,6 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/4/173770.txt" timestamp="1498851756307" />
       <file name="/a.dummy" timestamp="1498838901155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -91,7 +90,6 @@
         <mark key="." line="128" column="26" />
         <mark key="^" line="128" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175429.txt" timestamp="1498849801751" />
       <file name="$USER_HOME$/PycharmProjects/AsianCops/secret-key.txt" timestamp="1482022034400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -112,12 +110,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498870578420">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1498935577330">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="27" column="60" />
-        <mark key="]" line="28" column="67" />
-        <mark key="^" line="28" column="67" />
-        <mark key="." line="28" column="67" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -153,11 +151,11 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/mail-schema.avsc" timestamp="1498870248006">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/mail-schema.avsc" timestamp="1498935617788">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1496104172019">
         <mark key="[" line="65" column="68" />
@@ -170,8 +168,7 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/136394.txt" timestamp="1498850133245" />
-      <file name="/Python Console" timestamp="1498869658398">
+      <file name="/Python Console" timestamp="1498934881768">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498849736174">
@@ -225,7 +222,6 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/4/175307.txt" timestamp="1498843769873" />
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" timestamp="1498861105718">
         <mark key="'" line="24" column="0" />
       </file>
@@ -248,7 +244,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/124472.txt" timestamp="1498851857049" />
       <file name="$USER_HOME$/PycharmProjects/max/misc_notes.txt" timestamp="1485129413198">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -402,11 +397,11 @@
       <jump line="18" column="25" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaXRlbXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJyZWNpcGllbnQiLAogICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>eger</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;array&quot;</text>
+        <text>eger</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
@@ -415,31 +410,31 @@
         <text encoding="base64">ICAgICAgICAiaXRlbXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJyZWNpcGllbnQiLAogICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsibmFtZSI6ICJ0byIsICJ0eXBlIjogImFycmF5In0sCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhdnJvLmlvIGltcG9ydCBEYXR1bVdyaXRlcgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhdnJvLmRhdGFmaWxlIGltcG9ydCBEYXRhRmlsZVdyaXRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV1dGlsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogInJlY2lwaWVudCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGF2cm8K</text>
+        <text encoding="base64">ICAgICAgICAiaXRlbXMiOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsibmFtZSI6ICJ0byIsICJ0eXBlIjogImFycmF5In0sCg==</text>
+        <text encoding="base64">ICAgICAgICAidHlwZSI6ICJhcnJheSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsibmFtZSI6ICJuYW1lIiwgInR5cGUiOiAic3RyaW5nIn0sCg==</text>
+        <text encoding="base64">ICAgICAgInR5cGUiOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpcl9wcmVmaXggPSAiL2hvbWUvam9hbi9JZGVhUHJvamVjdHMvbWFpbC1hbmFseXRpY3MvcGFyc2UvZW5yb25fd2l0aF9jYXRlZ29yaWVzLyIK</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiAiY2MiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
