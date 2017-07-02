@@ -19,6 +19,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/3/121748.txt" timestamp="1499026974535" />
       <file name="/a.dummy" timestamp="1498838901155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -257,6 +258,9 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/6/192024.txt" timestamp="1498952623137" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499027192530">
+        <mark key="'" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -302,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="55" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/templates/home/carousel.html" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/AsianCops/MANIFEST.in" />
       <jump line="38" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
       <jump line="27" column="4" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
@@ -402,6 +405,7 @@
       <jump line="171" column="14" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
       <jump line="172" column="14" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
       <jump line="3430" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
+      <jump line="3" column="26" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -411,7 +415,7 @@
         <text>subject</text>
       </register>
       <register name="/" type="4">
-        <text>num</text>
+        <text>jeff.da</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIm5hbWUiOiAic3ViamVjdCIsCiAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
@@ -448,15 +452,14 @@
       </register>
     </registers>
     <search>
-      <last-search>num</last-search>
+      <last-search>jeff.da</last-search>
       <last-offset />
-      <last-pattern>num</last-pattern>
+      <last-pattern>jeff.da</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>raju</entry>
         <entry>_id</entry>
         <entry>other_no</entry>
         <entry>num_ed</entry>
@@ -476,6 +479,7 @@
         <entry>COMM</entry>
         <entry>comm</entry>
         <entry>num</entry>
+        <entry>jeff.da</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
