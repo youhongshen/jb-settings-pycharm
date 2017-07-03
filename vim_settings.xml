@@ -55,11 +55,12 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/design.txt" timestamp="1499100437243">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/design.txt" timestamp="1499118182883">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="9" column="96" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/common/tasks/main.yml" timestamp="1485041221355">
         <mark key="[" line="3" column="21" />
@@ -271,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
       <jump line="27" column="4" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
       <jump line="37" column="25" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
       <jump line="26" column="29" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/circle/tasks/main.yml" />
@@ -371,43 +371,44 @@
       <jump line="3430" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
       <jump line="3" column="26" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" />
       <jump line="3776" column="33" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/design.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>the email header and</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>the email header and</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>--</text>
+        <text encoding="base64">XDwxXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAic3ViamVjdCIsCiAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
+        <text encoding="base64">PT09PT09PT0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ky0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
+        <text encoding="base64">MikgQXZybyBzdG9yZXMgdGhlIGRhdGEgaW4gYSBjb21wYWN0LCBiaW5hcnkgZm9ybWF0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fDMvMTIyOTEzLnR4dHw0LzEyMjkyMy50eHR8SmVmZiBEYXNvdmljaHxQYXVsIEthdWZtYW4gfDMwMDAgICAgIHxFZWVnYWRzLi4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fDMvMTIxNzQ4LnR4dHwxLzEyMTc0OS50eHR8SmVmZiBEYXNvdmljaHxLYXJlbiBEZW5uZSAgfDY2MCAgICAgIHxSZTogQ09ORklERU5USUFMIC0gUmVzaWRlbnRpYWwgaW4gQ0EgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fDEvMjIxNjY5LnR4dHwxLzE5OTkxMS50eHR8VGhhbmUgVHdpZ2dzIHxEYW5hIERhdmlzICAgfDM2MCAgICAgIHxJU08tTkUgZmFpbHVyZSB0byBtaXRpZ2F0ZSBJQ0FQIG1hcmtldCAtLSBSZWxlYXNlIG9mIElTTyBORSAgIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbnwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fDQvMTIyOTIzLnR4dHwzLzEyMjkyNi50eHR8UGF1bCBLYXVmbWFuIHxKZWZmIERhc292aWNofDI0MCAgICAgIHxSRTogRWVlZ2Fkcy4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fDEvMTIxNzQ3LnR4dHwzLzEyMTc0OC50eHR8S2FyZW4gRGVubmUgIHxKZWZmIERhc292aWNofDI0MCAgICAgIHxSZTogQ09ORklERU5USUFMIC0gUmVzaWRlbnRpYWwgaW4gQ0EgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Ky0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fDMvMTIyOTEzLnR4dHw0LzEyMjkyMy50eHR8SmVmZiBEYXNvdmljaHxQYXVsIEthdWZtYW4gfDMwMDAgICAgIHxFZWVnYWRzLi4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fDMvMTIxNzQ4LnR4dHwxLzEyMTc0OS50eHR8SmVmZiBEYXNvdmljaHxLYXJlbiBEZW5uZSAgfDY2MCAgICAgIHxSZTogQ09ORklERU5USUFMIC0gUmVzaWRlbnRpYWwgaW4gQ0EgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fDEvMjIxNjY5LnR4dHwxLzE5OTkxMS50eHR8VGhhbmUgVHdpZ2dzIHxEYW5hIERhdmlzICAgfDM2MCAgICAgIHxJU08tTkUgZmFpbHVyZSB0byBtaXRpZ2F0ZSBJQ0FQIG1hcmtldCAtLSBSZWxlYXNlIG9mIElTTyBORSAgIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbnwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fDQvMTIyOTIzLnR4dHwzLzEyMjkyNi50eHR8UGF1bCBLYXVmbWFuIHxKZWZmIERhc292aWNofDI0MCAgICAgIHxSRTogRWVlZ2Fkcy4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fG9yaWdfZW1haWwgIHxyZXBsaWVkX2VtYWlsfGZyb20gICAgICAgICB8cmVjaXBpZW50ICAgIHxyZXNwX3RpbWV8c3ViamVjdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">fDEvMTIxNzQ3LnR4dHwzLzEyMTc0OC50eHR8S2FyZW4gRGVubmUgIHxKZWZmIERhc292aWNofDI0MCAgICAgIHxSZTogQ09ORklERU5USUFMIC0gUmVzaWRlbnRpYWwgaW4gQ0EgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Ky0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
@@ -417,15 +418,14 @@
       </register>
     </registers>
     <search>
-      <last-search>--</last-search>
+      <last-search encoding="base64">XDwxXD4=</last-search>
       <last-offset />
-      <last-pattern>--</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>other_no</entry>
         <entry>num_ed</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>^To:</entry>
@@ -445,6 +445,7 @@
         <entry>num</entry>
         <entry>jeff.da</entry>
         <entry>--</entry>
+        <entry encoding="base64">XDwxXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
