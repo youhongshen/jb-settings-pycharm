@@ -195,20 +195,15 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" timestamp="1499095058960">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" timestamp="1499096655072">
+        <mark key="'" line="3776" column="33" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="3776" column="33" />
+        <mark key="." line="3776" column="33" />
+        <mark key="^" line="3776" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/177802.txt" timestamp="1498861105718">
         <mark key="'" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" timestamp="1498098793681">
-        <mark key="'" line="138" column="24" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1498952958767">
         <mark key="[" line="0" column="0" />
@@ -269,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/AsianCops/MANIFEST.in" />
       <jump line="38" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
       <jump line="27" column="4" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
       <jump line="37" column="25" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/base.py" />
@@ -369,6 +363,7 @@
       <jump line="172" column="14" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
       <jump line="3430" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
       <jump line="3" column="26" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" />
+      <jump line="3776" column="33" filename="$USER_HOME$/IdeaProjects/mail-analytics/test.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +373,7 @@
         <text>float</text>
       </register>
       <register name="/" type="4">
-        <text>jeff.da</text>
+        <text>--</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIm5hbWUiOiAic3ViamVjdCIsCiAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
@@ -415,15 +410,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jeff.da</last-search>
+      <last-search>--</last-search>
       <last-offset />
-      <last-pattern>jeff.da</last-pattern>
+      <last-pattern>--</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_id</entry>
         <entry>other_no</entry>
         <entry>num_ed</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -443,6 +437,7 @@
         <entry>comm</entry>
         <entry>num</entry>
         <entry>jeff.da</entry>
+        <entry>--</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
