@@ -290,13 +290,13 @@
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499279643552">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499284181703">
         <mark key="'" line="16" column="29" />
         <mark key="i" line="22" column="29" />
-        <mark key="[" line="28" column="64" />
-        <mark key="]" line="28" column="63" />
-        <mark key="^" line="28" column="63" />
-        <mark key="." line="28" column="63" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
