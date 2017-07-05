@@ -290,12 +290,13 @@
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499277366063">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499279643552">
         <mark key="'" line="16" column="29" />
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="22" column="12" />
+        <mark key="i" line="22" column="29" />
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="28" column="63" />
+        <mark key="^" line="28" column="63" />
+        <mark key="." line="28" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
@@ -442,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>calculating relevance is the heart of this f</text>
+        <text encoding="base64">bGVzcyB3ZWlnaHQgaWYg</text>
       </register>
       <register name="-" type="4">
-        <text>calculating relevance is the heart of this f</text>
+        <text encoding="base64">bGVzcyB3ZWlnaHQgaWYg</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
