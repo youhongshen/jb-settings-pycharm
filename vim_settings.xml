@@ -130,12 +130,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1499097437944">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" timestamp="1499724393456">
         <mark key="'" line="20" column="25" />
-        <mark key="[" line="39" column="55" />
-        <mark key="]" line="27" column="81" />
+        <mark key="[" line="76" column="57" />
+        <mark key="]" line="76" column="57" />
         <mark key="^" line="27" column="81" />
-        <mark key="." line="27" column="81" />
+        <mark key="." line="76" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
         <mark key="[" line="12" column="0" />
@@ -211,11 +211,11 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/new_feature.md" timestamp="1499275914117">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="55" />
-        <mark key="^" line="3" column="70" />
-        <mark key="." line="3" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/new_feature.md" timestamp="1499723967996">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="55" column="4" />
+        <mark key="." line="55" column="4" />
+        <mark key="^" line="54" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" timestamp="1499125026839">
         <mark key="'" line="19" column="43" />
@@ -290,13 +290,9 @@
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499647997873">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499721205934">
         <mark key="'" line="16" column="29" />
         <mark key="i" line="22" column="29" />
-        <mark key="[" line="121" column="81" />
-        <mark key="]" line="122" column="24" />
-        <mark key="." line="122" column="24" />
-        <mark key="^" line="122" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
@@ -443,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
@@ -455,31 +451,31 @@
         <text encoding="base64">PT09PT09PT0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogZXZlcnkgbmlnaHQsIAo=</text>
+        <text encoding="base64">ICAgICBmb3IgYWxsIG90aGVyIHVzZXJzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICBjb3VudCAK</text>
+        <text encoding="base64">VGhlIHB1cnBvc2Ugb2YgdGhpcyBxdWVyeSBpcyB0byBnZXQgYSBsaXN0IG9mIHRoZSB0b3AgMyBwZW9wbGUgd2hvIHRoZSB1c2VyIGhhZCBtb3N0IGNvbnZlcnNhdGlvbiBpbiB0aGUgcGFzdCAyNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICB0aGF0IHN0b3JlcyB0aGUgdXNlcidzIFBvcHVsYXRlIHRoZSAK</text>
+        <text encoding="base64">dGhlIG5leHQgc3RlcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGJlIG1vcmUK</text>
+        <text encoding="base64">V2hlbiBkb2luZyBzZWFyY2gsIGFkZCB0aGUgZm9sbG93aW5nIHF1ZXJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SSdtIGluIGEgdGVhbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSB0d28gYXBwcm9hY2hlcyB0byBnZXQgdGhlIGNvdW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGV2ZWxvcG1lbnQgdGVhbSBpcyApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2UgYXJlIHdvcmtpbmcgb24gYSB3ZWIgc2l0ZSB1c2luZyBkamFuZ28uCg==</text>
+        <text encoding="base64">V2hhdCdzIG5lZWRlZCBmb3IgdGhpcyBmZWF0dXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhpcyBmZWF0dXJlIGlzIGxpbWl0ZWQgdG8gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -527,8 +523,8 @@
         <entry>1,.d</entry>
         <entry>.,$d</entry>
         <entry>1,$d</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
