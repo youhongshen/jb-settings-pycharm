@@ -310,6 +310,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Personal/doc/resume.md" timestamp="1499728490941">
+        <mark key="[" line="87" column="84" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="9" column="0" />
@@ -439,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
