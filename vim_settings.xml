@@ -310,11 +310,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Personal/doc/resume.md" timestamp="1499728490941">
-        <mark key="[" line="87" column="84" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Dropbox/Personal/doc/resume.md" timestamp="1499729628441">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="33" column="111" />
+        <mark key="]" line="32" column="107" />
+        <mark key="." line="32" column="107" />
+        <mark key="^" line="32" column="107" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
         <mark key="[" line="15" column="8" />
@@ -342,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="18" filename="$USER_HOME$/git/ansible/contrib/inventory/ec2.py" />
       <jump line="18" column="25" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="43" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="47" column="10" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
@@ -442,61 +442,61 @@
       <jump line="17" column="78" filename="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" />
       <jump line="19" column="43" filename="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" />
       <jump line="16" column="29" filename="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" />
+      <jump line="11" column="2" filename="$USER_HOME$/Dropbox/Personal/doc/resume.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LSA=</text>
       </register>
       <register name="/" type="4">
-        <text>Start</text>
+        <text encoding="base64">XDxUd2VsdmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PT09PT09PT0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBmb3IgYWxsIG90aGVyIHVzZXJzLgo=</text>
+        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGI+Sm9hbiBTaGVuPC9iPjwvcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIHB1cnBvc2Ugb2YgdGhpcyBxdWVyeSBpcyB0byBnZXQgYSBsaXN0IG9mIHRoZSB0b3AgMyBwZW9wbGUgd2hvIHRoZSB1c2VyIGhhZCBtb3N0IGNvbnZlcnNhdGlvbiBpbiB0aGUgcGFzdCAyNAo=</text>
+        <text encoding="base64">ICAgICBmb3IgYWxsIG90aGVyIHVzZXJzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGhlIG5leHQgc3RlcAo=</text>
+        <text encoding="base64">VGhlIHB1cnBvc2Ugb2YgdGhpcyBxdWVyeSBpcyB0byBnZXQgYSBsaXN0IG9mIHRoZSB0b3AgMyBwZW9wbGUgd2hvIHRoZSB1c2VyIGhhZCBtb3N0IGNvbnZlcnNhdGlvbiBpbiB0aGUgcGFzdCAyNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V2hlbiBkb2luZyBzZWFyY2gsIGFkZCB0aGUgZm9sbG93aW5nIHF1ZXJ5Cg==</text>
+        <text encoding="base64">dGhlIG5leHQgc3RlcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V2hlbiBkb2luZyBzZWFyY2gsIGFkZCB0aGUgZm9sbG93aW5nIHF1ZXJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSB0d28gYXBwcm9hY2hlcyB0byBnZXQgdGhlIGNvdW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGV2ZWxvcG1lbnQgdGVhbSBpcyApCg==</text>
+        <text encoding="base64">LSB0d28gYXBwcm9hY2hlcyB0byBnZXQgdGhlIGNvdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">V2hhdCdzIG5lZWRlZCBmb3IgdGhpcyBmZWF0dXJlCg==</text>
+        <text encoding="base64">ZGV2ZWxvcG1lbnQgdGVhbSBpcyApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V2hhdCdzIG5lZWRlZCBmb3IgdGhpcyBmZWF0dXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>Start</last-search>
+      <last-search encoding="base64">XDxUd2VsdmVcPg==</last-search>
       <last-offset />
-      <last-pattern>Start</last-pattern>
+      <last-pattern encoding="base64">XDxUd2VsdmVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry>^To:</entry>
         <entry>kean</entry>
         <entry>parse</entry>
@@ -516,6 +516,7 @@
         <entry>--</entry>
         <entry encoding="base64">XDwxXD4=</entry>
         <entry>Start</entry>
+        <entry encoding="base64">XDxUd2VsdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
