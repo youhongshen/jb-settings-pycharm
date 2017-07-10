@@ -290,13 +290,13 @@
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499391624333">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499647997873">
         <mark key="'" line="16" column="29" />
         <mark key="i" line="22" column="29" />
-        <mark key="[" line="48" column="92" />
-        <mark key="]" line="48" column="92" />
-        <mark key="." line="48" column="92" />
-        <mark key="^" line="48" column="96" />
+        <mark key="[" line="121" column="81" />
+        <mark key="]" line="122" column="24" />
+        <mark key="." line="122" column="24" />
+        <mark key="^" line="122" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
@@ -443,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>behav</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="-" type="4">
-        <text>behav</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>Start</text>
@@ -455,19 +455,19 @@
         <text encoding="base64">PT09PT09PT0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogZXZlcnkgbmlnaHQsIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV3IHJhbmtpbmcgc2lnbmFsIHRvIHBvd2VyIHNlYXJjaAo=</text>
+        <text encoding="base64">ICAgICBjb3VudCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBkZWZpbmUgYSAiYnJlYWsgcGVyaW9kIiB0byBzcGxpdCBtZXNzYWdlcyBpbnRvIGNvbnZlcnNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICB0aGF0IHN0b3JlcyB0aGUgdXNlcidzIFBvcHVsYXRlIHRoZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IGJlIG1vcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SSdtIGluIGEgdGVhbQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -476,10 +476,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SXQgdG9vayBhYm91dCAyMCBzZWNvbmRzIChyb3VnaGx5IG1lYXN1cmVkIHdpdGggdGhlIHRpbWVzdGFtcCBpbiB0aGUgU3BhcmsgSU5GTyBsb2cpLgo=</text>
+        <text encoding="base64">d2UgYXJlIHdvcmtpbmcgb24gYSB3ZWIgc2l0ZSB1c2luZyBkamFuZ28uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KHdpdGggdGhlICJ0ZXN0IHRoZSBiYXNpY3MiIHRlc3QgY2FzZSBhbmQgY2FsbGluZyBBbmFseXplLmZpbmRSZXNwb25zZVRpbWUgb25jZSkuIAo=</text>
+        <text encoding="base64">VGhpcyBmZWF0dXJlIGlzIGxpbWl0ZWQgdG8gCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
