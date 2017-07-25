@@ -19,7 +19,6 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/3/121748.txt" timestamp="1499099669528" />
       <file name="/a.dummy" timestamp="1498838901155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -98,7 +97,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/3/165052.txt" timestamp="1498952633090" />
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/unit-test.log" timestamp="1499125077975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -230,7 +228,6 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/116997.txt" timestamp="1498953936845" />
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -292,13 +289,16 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/6/192024.txt" timestamp="1498952623137" />
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
         <mark key="'" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1499721205934">
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1501005790196">
         <mark key="'" line="16" column="29" />
         <mark key="i" line="22" column="29" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="98" column="40" />
+        <mark key="." line="98" column="40" />
+        <mark key="^" line="98" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
@@ -467,28 +467,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG1vZGVybi5zdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGVzdCBjYXNlcyBwbGFubmluZy9leGVjdXRpb24gdXNpbmcgYm90aCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGI+Sm9hbiBTaGVuPC9iPjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBmb3IgYWxsIG90aGVyIHVzZXJzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIHB1cnBvc2Ugb2YgdGhpcyBxdWVyeSBpcyB0byBnZXQgYSBsaXN0IG9mIHRoZSB0b3AgMyBwZW9wbGUgd2hvIHRoZSB1c2VyIGhhZCBtb3N0IGNvbnZlcnNhdGlvbiBpbiB0aGUgcGFzdCAyNAo=</text>
+        <text encoding="base64">bG1vZGVybi5zdHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGhlIG5leHQgc3RlcAo=</text>
+        <text encoding="base64">VGVzdCBjYXNlcyBwbGFubmluZy9leGVjdXRpb24gdXNpbmcgYm90aCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">V2hlbiBkb2luZyBzZWFyY2gsIGFkZCB0aGUgZm9sbG93aW5nIHF1ZXJ5Cg==</text>
+        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGI+Sm9hbiBTaGVuPC9iPjwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBmb3IgYWxsIG90aGVyIHVzZXJzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
