@@ -19,6 +19,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
+      <file name="/usr/local/lib/python3.4/dist-packages/pandas/core/generic.py" timestamp="1502156108441" />
       <file name="/a.dummy" timestamp="1498838901155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -184,10 +185,10 @@
         <mark key="." line="65" column="68" />
         <mark key="^" line="64" column="64" />
       </file>
-      <file name="/Python Console" timestamp="1502154588177">
+      <file name="/Python Console" timestamp="1502158035953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1502153806311">
+      <file name="/fragment.py" timestamp="1502157586169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -228,11 +229,11 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1502154616648">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1502158113995">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -244,6 +245,7 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="/usr/local/lib/python3.4/dist-packages/numpy/lib/arraysetops.py" timestamp="1502156916673" />
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/test/175419.1.txt" timestamp="1498850724450">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="1" column="3" />
@@ -457,44 +459,44 @@
       <jump line="11" column="2" filename="$USER_HOME$/Dropbox/Personal/doc/resume.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHJhaW5bJ2VtYmFya2VkX1MnXSA9IGVtYmFya19hc19jYXRbMF0K</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Ticket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2VsdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFuZG9jIC1zIC1TIHJlc3VtZS5tZCAtbyByZXN1bWVfZ2VuLmRvY3gK</text>
+        <text encoding="base64">dHJhaW5bJ2VtYmFya2VkX1MnXSA9IGVtYmFya19hc19jYXRbMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmludCgodHJhaW5bWzEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwLCAxMV1dID09IG51bXB5Lk5hTikpCg==</text>
+        <text encoding="base64">dHJhaW4uZHJvcG5hKCdFbWJhcmtlZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJhaW4gPSB0cmFpbi5kcm9wKCdOYW1lJywgYXhpcz0xKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJhaW4gPSB0cmFpbi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcmludCh0cmFpbi5kZXNjcmliZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodHJhaW4uaGVhZCgyMCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodHJhaW4uaXNudWxsKCkuc3VtKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG1vZGVybi5zdHkK</text>
+        <text encoding="base64">dmFsdWVzID0gdHJhaW4udmFsdWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGVzdCBjYXNlcyBwbGFubmluZy9leGVjdXRpb24gdXNpbmcgYm90aCAK</text>
+        <text encoding="base64">dHJhaW5bJ2ZlbWFsZSddID0gc2V4X2FzX2NhdFsxXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGI+Sm9hbiBTaGVuPC9iPjwvcD4K</text>
+        <text encoding="base64">dHJhaW4gPSB0cmFpbi5hcHBlbmQoc2V4X2FzX2NhdCkK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
