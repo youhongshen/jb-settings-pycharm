@@ -229,11 +229,10 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1502158113995">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="25" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506642519226">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -460,43 +459,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHJhaW5bJ2VtYmFya2VkX1MnXSA9IGVtYmFya19hc19jYXRbMF0K</text>
+        <text encoding="base64">cHJpbnQodmFsdWVzWzosIDY6N10pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Ticket</text>
+        <text>train[['Embarked']])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2VsdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHJhaW5bJ2VtYmFya2VkX1MnXSA9IGVtYmFya19hc19jYXRbMF0K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">dHJhaW4uZHJvcG5hKCdFbWJhcmtlZCcpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dHJhaW4gPSB0cmFpbi5kcm9wKCdOYW1lJywgYXhpcz0xKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dHJhaW4gPSB0cmFpbi4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBwcmludCh0cmFpbi5kZXNjcmliZSgpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJpbnQodHJhaW4uaGVhZCgyMCkpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">cHJpbnQodHJhaW4uaXNudWxsKCkuc3VtKCkpCg==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQodmFsdWVzWzosIDY6N10pCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZW1iYXJrX2FzX2NhdCA9IGNhdF90b19udW0odHJhaW5bWydFbWJhcmtlZCddXSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBlbWJhcmtfYXNfY2F0ID0gY2F0X3RvX251bSh0cmFpbltbJ0VtYmFya2VkJ11dKQojIHRyYWluWydlbWJhcmtlZF9DJ10gPSBlbWJhcmtfYXNfY2F0WzBdCiMgdHJhaW5bJ2VtYmFya2VkX1EnXSA9IGVtYmFya19hc19jYXRbMV0KIyB0cmFpblsnZW1iYXJrZWRfUyddID0gZW1iYXJrX2FzX2NhdFsyXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoYWdlX3RyYW5zLmlzbnVsbCgpLnN1bSgpKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsdWVzID0gdHJhaW4udmFsdWVzCg==</text>
+        <text encoding="base64">IyBwcmludCh2YWx1ZXNbOiwgMjozXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaW5bJ2ZlbWFsZSddID0gc2V4X2FzX2NhdFsxXQo=</text>
+        <text encoding="base64">dHJhaW4uZHJvcG5hKCdFbWJhcmtlZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJhaW4gPSB0cmFpbi5hcHBlbmQoc2V4X2FzX2NhdCkK</text>
+        <text encoding="base64">dHJhaW4gPSB0cmFpbi5kcm9wKCdOYW1lJywgYXhpcz0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
