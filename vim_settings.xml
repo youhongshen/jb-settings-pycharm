@@ -185,10 +185,10 @@
         <mark key="." line="65" column="68" />
         <mark key="^" line="64" column="64" />
       </file>
-      <file name="/Python Console" timestamp="1502158035953">
+      <file name="/Python Console" timestamp="1506644015995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1502157586169">
+      <file name="/fragment.py" timestamp="1506644228942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -222,6 +222,12 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="54" column="62" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506643625952">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" timestamp="1499125026839">
         <mark key="'" line="19" column="43" />
         <mark key="[" line="0" column="0" />
@@ -229,10 +235,12 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506642519226">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506644346523">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -356,9 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="25" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
-      <jump line="43" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
-      <jump line="47" column="10" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="4" column="16" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="24" column="16" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="44" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
@@ -456,62 +461,63 @@
       <jump line="19" column="43" filename="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" />
       <jump line="16" column="29" filename="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" />
       <jump line="11" column="2" filename="$USER_HOME$/Dropbox/Personal/doc/resume.md" />
+      <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
+      <jump line="20" column="48" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodmFsdWVzWzosIDY6N10pCg==</text>
+      <register name="&quot;" type="4">
+        <text>va</text>
       </register>
       <register name="-" type="4">
-        <text>train[['Embarked']])</text>
+        <text>va</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUd2VsdmVcPg==</text>
+        <text>numpy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQodHJhaW4uaXNudWxsKCkuc3VtKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQodmFsdWVzWzosIDY6N10pCg==</text>
+        <text encoding="base64">ICAgICAgICBYWzBdLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnAuZHR5cGUoMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW1iYXJrX2FzX2NhdCA9IGNhdF90b19udW0odHJhaW5bWydFbWJhcmtlZCddXSkK</text>
+        <text encoding="base64">dHJhaW4gPSBwZC5yZWFkX2NzdignLi4vZGF0YS90cmFpbi5jc3YnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBlbWJhcmtfYXNfY2F0ID0gY2F0X3RvX251bSh0cmFpbltbJ0VtYmFya2VkJ11dKQojIHRyYWluWydlbWJhcmtlZF9DJ10gPSBlbWJhcmtfYXNfY2F0WzBdCiMgdHJhaW5bJ2VtYmFya2VkX1EnXSA9IGVtYmFya19hc19jYXRbMV0KIyB0cmFpblsnZW1iYXJrZWRfUyddID0gZW1iYXJrX2FzX2NhdFsyXQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoYWdlX3RyYW5zLmlzbnVsbCgpLnN1bSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwcmludCh2YWx1ZXNbOiwgMjozXSkK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaW4uZHJvcG5hKCdFbWJhcmtlZCcpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJhaW4gPSB0cmFpbi5kcm9wKCdOYW1lJywgYXhpcz0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUd2VsdmVcPg==</last-search>
+      <last-search>numpy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUd2VsdmVcPg==</last-pattern>
+      <last-pattern>numpy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>^To:</entry>
-        <entry>kean</entry>
         <entry>parse</entry>
         <entry>To:</entry>
         <entry>^to</entry>
@@ -530,6 +536,8 @@
         <entry encoding="base64">XDwxXD4=</entry>
         <entry>Start</entry>
         <entry encoding="base64">XDxUd2VsdmVcPg==</entry>
+        <entry>rea</entry>
+        <entry>numpy</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
