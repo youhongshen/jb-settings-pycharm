@@ -159,6 +159,7 @@
         <mark key="^" line="189" column="88" />
         <mark key="." line="190" column="0" />
       </file>
+      <file name="/usr/local/lib/python3.4/dist-packages/keras/layers/core.py" timestamp="1506744159979" />
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" timestamp="1496975357024">
         <mark key="'" line="215" column="0" />
         <mark key="[" line="250" column="15" />
@@ -177,16 +178,13 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/174185.txt" timestamp="1498936237688">
-        <mark key="'" line="8" column="2" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/test_binaryTree.py" timestamp="1496104172019">
         <mark key="[" line="65" column="68" />
         <mark key="]" line="65" column="68" />
         <mark key="." line="65" column="68" />
         <mark key="^" line="64" column="64" />
       </file>
-      <file name="/Python Console" timestamp="1506653208539">
+      <file name="/Python Console" timestamp="1506742120414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -226,13 +224,11 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="54" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506730644572">
-        <mark key="'" line="23" column="2" />
-        <mark key="i" line="23" column="2" />
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="23" />
-        <mark key="^" line="31" column="43" />
-        <mark key="." line="31" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506745054870">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" timestamp="1499125026839">
         <mark key="'" line="19" column="43" />
@@ -241,12 +237,12 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506729125803">
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506744845730">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="75" column="3" />
-        <mark key="." line="75" column="0" />
+        <mark key="[" line="48" column="77" />
+        <mark key="]" line="104" column="14" />
+        <mark key="^" line="104" column="14" />
+        <mark key="." line="104" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -309,9 +305,6 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
-        <mark key="'" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1501005790196">
         <mark key="'" line="16" column="29" />
@@ -473,43 +466,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1500</text>
+        <text>train</text>
       </register>
       <register name="-" type="4">
-        <text>1500</text>
+        <text>train</text>
       </register>
       <register name="/" type="4">
         <text>numpy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKERlbnNlKDUsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">dGVzdF94ID0gdGVzdC52YWx1ZXNbOiwgMTpdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2NvcmVzID0gbW9kZWwuZXZhbHVhdGUoWCwgWSkK</text>
+        <text encoding="base64">IyBidWlsZF9tb2RlbChYLCB5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBldmFsdWF0ZSB0aGUgbW9kZWwK</text>
+        <text encoding="base64">IyBmcm9tIHBhbmRhcyBpbXBvcnQgcmVhZF9jc3YK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgTGluZWFyUmVncmVzc2lvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChzY2FsZV9hZ2UpCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSgxMiwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSgxMiwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzY2FsZV9hZ2UgPSBwcmVwcm9jZXNzaW5nLnNjYWxlKG5vcm1fYWdlKQo=</text>
+        <text encoding="base64">ICAgIGRhdGEuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQodHJhaW4uaGVhZCgyMCkpCg==</text>
+        <text encoding="base64">ICAgIFggPSBkYXRhLnZhbHVlc1s6LCAxOl0KICAgIHkgPSBkYXRhLnZhbHVlc1s6LCAwOjFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KFgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
