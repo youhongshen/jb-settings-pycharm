@@ -226,11 +226,13 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="54" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506729195012">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="18" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506730644572">
+        <mark key="'" line="23" column="2" />
+        <mark key="i" line="23" column="2" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" timestamp="1499125026839">
         <mark key="'" line="19" column="43" />
@@ -368,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="16" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="24" column="16" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="44" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="9" column="54" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/common/defaults/main.yml" />
@@ -468,43 +469,44 @@
       <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
       <jump line="20" column="48" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
       <jump line="0" column="7" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
+      <jump line="21" column="2" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBwcmludCh0cmFpbi5oZWFkKDIwKSkK</text>
+      <register name="&quot;" type="4">
+        <text>1500</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>1500</text>
       </register>
       <register name="/" type="4">
         <text>numpy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBwcmludCh0cmFpbi5oZWFkKDIwKSkK</text>
+        <text encoding="base64">bW9kZWwuYWRkKERlbnNlKDUsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBwcmludChzY2FsZV9hZ2UpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">c2NvcmVzID0gbW9kZWwuZXZhbHVhdGUoWCwgWSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBldmFsdWF0ZSB0aGUgbW9kZWwK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBzY2FsZV9hZ2UgPSBwcmVwcm9jZXNzaW5nLnNjYWxlKG5vcm1fYWdlKQo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQodHJhaW4uaGVhZCgyMCkpCg==</text>
+        <text encoding="base64">IyBwcmludChzY2FsZV9hZ2UpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJhaW5bJ0ZhcmUnXSA9IG5vcm1fZmFyZQo=</text>
+        <text encoding="base64">IyBzY2FsZV9hZ2UgPSBwcmVwcm9jZXNzaW5nLnNjYWxlKG5vcm1fYWdlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaW5bJ0FnZSddID0gbm9ybV9hZ2UK</text>
+        <text encoding="base64">cHJpbnQodHJhaW4uaGVhZCgyMCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
