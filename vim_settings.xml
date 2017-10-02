@@ -191,13 +191,13 @@
         <mark key="." line="65" column="68" />
         <mark key="^" line="64" column="64" />
       </file>
-      <file name="/Python Console" timestamp="1506906990180">
+      <file name="/Python Console" timestamp="1506908069192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/fragment.py" timestamp="1506907099333">
+      <file name="/fragment.py" timestamp="1506908203380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -231,11 +231,11 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="54" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506906871787">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506908748967">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" timestamp="1499125026839">
         <mark key="'" line="19" column="43" />
@@ -244,12 +244,12 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506907156664">
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506909640466">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="93" column="38" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="29" />
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
+        <mark key="^" line="111" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -267,6 +267,11 @@
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/stuff.py" timestamp="1506908851085">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/max.py" timestamp="1485040276032">
         <mark key="'" line="72" column="82" />
@@ -288,7 +293,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498952958767">
+      <file name="/Dummy.txt" timestamp="1506908251853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
@@ -473,43 +478,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>512</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>numpy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vcm1fZGF0YSA9IHByZXByb2Nlc3Npbmcubm9ybWFsaXplKGRhdGEudmFsdWVzWzosIDE6NV0sIGF4aXM9MCkK</text>
+        <text encoding="base64">cHJpbnQodGVzdC5pc251bGwoKS5zdW0oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHlfaGF0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZGF0YS5pc251bGwoKS5zdW0oKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBwcmludCh0cmFpbi5pc251bGwoKS5zdW0oKSkK</text>
+        <text encoding="base64">cHJpbnQodGVzdC5oZWFkKDIwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcmludCh0cmFpbi5oZWFkKDIwKSkK</text>
+        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tIHRlc3QgYWZ0ZXIgbm9ybWFsaXplIC0tLS0tLS0tLScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCA9IG5vcm1hbGl6ZSh0ZXN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcmludCh0ZXN0KQo=</text>
+        <text encoding="base64">dGVzdCA9IGltcHV0ZSh0ZXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwcmludCh0cmFpbikK</text>
+        <text encoding="base64">IyBwcmludCh0ZXN0LmlzbnVsbCgpLnN1bSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlc3RfWCkK</text>
+        <text encoding="base64">IyBJbiBbMzA1XTogdHJhaW4sIHZhbGlkYXRlLCB0ZXN0ID0gbnAuc3BsaXQoZGYuc2FtcGxlKGZyYWM9MSksIFtpbnQoLjYqbGVuKGRmKSksIGludCguOCpsZW4oZGYpKV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
