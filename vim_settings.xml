@@ -244,12 +244,12 @@
         <mark key="^" line="1312" column="33" />
         <mark key="." line="1312" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506911583606">
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506913387945">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="8" />
-        <mark key="." line="116" column="8" />
-        <mark key="^" line="116" column="20" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+        <mark key="^" line="100" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
         <mark key="[" line="0" column="0" />
@@ -268,11 +268,11 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/stuff.py" timestamp="1506911447231">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/stuff.py" timestamp="1506912857220">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/max.py" timestamp="1485040276032">
         <mark key="'" line="72" column="82" />
@@ -479,43 +479,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print(rounded)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>print(rounded)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>numpy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg2LCBhY3RpdmF0aW9uPSdyZWx1JykpCg==</text>
+        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tIHRlc3QgZGF0YSAtLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnQgPSBwYW5kYXMucmVhZF9jc3YoJy4uL2RhdGEvdGVzdCcpCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlcyA9IGRhdGEudmFsdWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tIHRlc3QgZGF0YSAtLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YS5pc251bGwoKS5zdW0oKSkK</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQodGVzdC5oZWFkKDIwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tIHRlc3QgYWZ0ZXIgbm9ybWFsaXplIC0tLS0tLS0tLScpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiByb3VuZGVkOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdCA9IG5vcm1hbGl6ZSh0ZXN0KQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdCA9IGltcHV0ZSh0ZXN0KQo=</text>
+        <text encoding="base64">ICAgIGlmIHRlc3RfeSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcmludCh0ZXN0LmlzbnVsbCgpLnN1bSgpKQo=</text>
+        <text encoding="base64">cnQgPSBwYW5kYXMucmVhZF9jc3YoJy4uL2RhdGEvdGVzdCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBJbiBbMzA1XTogdHJhaW4sIHZhbGlkYXRlLCB0ZXN0ID0gbnAuc3BsaXQoZGYuc2FtcGxlKGZyYWM9MSksIFtpbnQoLjYqbGVuKGRmKSksIGludCguOCpsZW4oZGYpKV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
