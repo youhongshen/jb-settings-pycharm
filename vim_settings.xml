@@ -156,12 +156,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" timestamp="1507000886682">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="86" column="81" />
-        <mark key="]" line="86" column="81" />
-        <mark key="^" line="86" column="80" />
-        <mark key="." line="86" column="81" />
+      <file name="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" timestamp="1507083250549">
+        <mark key="'" line="87" column="4" />
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="88" column="22" />
+        <mark key="^" line="88" column="34" />
+        <mark key="." line="88" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1501005790196">
         <mark key="'" line="16" column="29" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="27" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/aws/tasks/main.yml" />
       <jump line="9" column="54" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/common/defaults/main.yml" />
       <jump line="7" column="1" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/config.json" />
       <jump line="39" column="27" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/settings/base.py" />
@@ -293,22 +292,23 @@
       <jump line="0" column="7" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
       <jump line="21" column="2" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" />
       <jump line="4" column="12" filename="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSgxMiwgaW5wdXRfZGltPTEyLCBhY3RpdmF0aW9uPSdyZWx1Jywga2VybmVsX2luaXRpYWxpemVyPSdoZV91bmlmb3JtJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">ICAgICMgbm9ybV9kYXRhID0gbW9kZWxzLnNjYWxlKG5vcm1fZGF0YSwgYXhpcz0wKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
@@ -320,19 +320,19 @@
         <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKDQyKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBkLnRvX2NzdigpCg==</text>
+        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKDQyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0KG1vZGVsLCBydCkK</text>
+        <text encoding="base64">ICAgIHBkLnRvX2NzdigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0KG1vZGVsLCBydCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHByZWRpY3QobW9kZWwsIHRlc3QpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
