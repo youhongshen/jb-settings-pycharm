@@ -37,7 +37,7 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.4/dist-packages/keras/models.py" timestamp="1506905347114" />
+      <file name="/usr/local/lib/python3.4/dist-packages/keras/models.py" timestamp="1507083683231" />
       <file name="/usr/local/lib/python3.4/dist-packages/sklearn/preprocessing/imputation.py" timestamp="1506652813465" />
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/test/136394.1.txt" timestamp="1498850180194">
         <mark key="[" line="0" column="0" />
@@ -96,6 +96,9 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/174185.txt" timestamp="1498936237688">
+        <mark key="'" line="8" column="2" />
+      </file>
       <file name="/Python Console" timestamp="1506908069192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -117,6 +120,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" timestamp="1507083760424">
+        <mark key="'" line="39" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506913387945">
         <mark key="'" line="0" column="7" />
@@ -156,20 +162,15 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" timestamp="1507083250549">
+      <file name="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" timestamp="1507084276759">
         <mark key="'" line="87" column="4" />
-        <mark key="[" line="88" column="21" />
-        <mark key="]" line="88" column="22" />
-        <mark key="^" line="88" column="34" />
-        <mark key="." line="88" column="22" />
+        <mark key="[" line="90" column="20" />
+        <mark key="]" line="90" column="20" />
+        <mark key="^" line="89" column="21" />
+        <mark key="." line="90" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" timestamp="1501005790196">
-        <mark key="'" line="16" column="29" />
-        <mark key="i" line="22" column="29" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="98" column="40" />
-        <mark key="." line="98" column="40" />
-        <mark key="^" line="98" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
+        <mark key="'" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
         <mark key="[" line="20" column="0" />
@@ -193,12 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="54" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/common/defaults/main.yml" />
-      <jump line="7" column="1" filename="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/config.json" />
-      <jump line="39" column="27" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/settings/base.py" />
-      <jump line="87" column="9" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/settings/base.py" />
-      <jump line="143" column="24" filename="$USER_HOME$/PycharmProjects/HelloWagtail/HelloWagtail/settings/base.py" />
-      <jump line="20" column="38" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/AsianCops/settings/base.py" />
       <jump line="123" column="24" filename="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/AsianCops/settings/base.py" />
       <jump line="17" column="37" filename="$USER_HOME$/PycharmProjects/max/max.py" />
       <jump line="19" column="43" filename="$USER_HOME$/PycharmProjects/max/max.py" />
@@ -293,61 +288,66 @@
       <jump line="21" column="2" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" />
       <jump line="4" column="12" filename="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" />
       <jump line="87" column="4" filename="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" />
+      <jump line="56" column="42" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
+      <jump line="19" column="11" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
+      <jump line="23" column="16" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
+      <jump line="29" column="23" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
+      <jump line="35" column="22" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
+      <jump line="39" column="29" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>accuracy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSgxMiwgaW5wdXRfZGltPTEyLCBhY3RpdmF0aW9uPSdyZWx1Jywga2VybmVsX2luaXRpYWxpemVyPSdoZV91bmlmb3JtJykpCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0MCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbm9ybV9kYXRhID0gbW9kZWxzLnNjYWxlKG5vcm1fZGF0YSwgYXhpcz0wKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKDQyKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBkLnRvX2NzdigpCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBkYXRhLmRyb3AoJ0FnZScsIGF4aXM9MSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0KG1vZGVsLCBydCkK</text>
+        <text encoding="base64">ICAgICMgbm9ybV9kYXRhID0gbW9kZWxzLnNjYWxlKG5vcm1fZGF0YSwgYXhpcz0wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>accuracy</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>accuracy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>To:</entry>
         <entry>^to</entry>
         <entry>to[0</entry>
         <entry>---</entry>
@@ -367,6 +367,7 @@
         <entry>rea</entry>
         <entry>numpy</entry>
         <entry>random</entry>
+        <entry>accuracy</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
