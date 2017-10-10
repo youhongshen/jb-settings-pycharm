@@ -185,6 +185,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/misc/three_sum.py" timestamp="1507600248118">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/test_graph.py" timestamp="1498096568737">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="23" column="33" />
@@ -204,7 +210,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="/Python Console" timestamp="1499095192054">
+      <file name="/Python Console" timestamp="1507600048287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloLambda/test.py" timestamp="1485037943100">
@@ -305,11 +311,11 @@
       <file name="/Dummy.txt" timestamp="1498952958767">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/misc/test_closest.py" timestamp="1507598034355">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/misc/test_closest.py" timestamp="1507600108372">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/new_feature.md" timestamp="1499723967996">
         <mark key="[" line="55" column="3" />
@@ -457,8 +463,8 @@
       <jump line="11" column="2" filename="$USER_HOME$/Dropbox/Personal/doc/resume.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nums</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChrZWVwLCBkZWx0YSkK</text>
       </register>
       <register name="-" type="4">
         <text>nums</text>
@@ -467,7 +473,7 @@
         <text encoding="base64">XDxUd2VsdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrZWVwLCBkZWx0YSA9IGNsb3Nlc3QobnVtcywgOSkKICAgICAgICBwcmludChrZWVwLCBkZWx0YSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZWVwLCBkZWx0YSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
