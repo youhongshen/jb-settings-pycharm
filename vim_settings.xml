@@ -287,6 +287,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/models/decision_tree.py" timestamp="1507689438219">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/foundation/home/templates/home/home_page.html" timestamp="1469230790523">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -464,10 +469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZWVwLCBkZWx0YSkK</text>
+        <text encoding="base64">dHJlZS4K</text>
       </register>
       <register name="-" type="4">
-        <text>nums</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2VsdmVcPg==</text>
@@ -476,7 +481,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChrZWVwLCBkZWx0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJlZS4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -491,16 +496,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG1vZGVybi5zdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGVzdCBjYXNlcyBwbGFubmluZy9leGVjdXRpb24gdXNpbmcgYm90aCAK</text>
+        <text encoding="base64">bG1vZGVybi5zdHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGI+Sm9hbiBTaGVuPC9iPjwvcD4K</text>
+        <text encoding="base64">VGVzdCBjYXNlcyBwbGFubmluZy9leGVjdXRpb24gdXNpbmcgYm90aCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBmb3IgYWxsIG90aGVyIHVzZXJzLgo=</text>
+        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGI+Sm9hbiBTaGVuPC9iPjwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
