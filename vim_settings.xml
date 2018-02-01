@@ -322,11 +322,11 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/cake/36_poker.py" timestamp="1517503861535">
-        <mark key="[" line="84" column="43" />
-        <mark key="]" line="84" column="43" />
-        <mark key="^" line="84" column="23" />
-        <mark key="." line="84" column="43" />
+      <file name="$USER_HOME$/git/leetcode/python/cake/36_poker.py" timestamp="1517504621229">
+        <mark key="[" line="44" column="74" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="44" column="73" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/new_feature.md" timestamp="1499723967996">
         <mark key="[" line="55" column="3" />
@@ -486,11 +486,11 @@
       <jump line="11" column="2" filename="$USER_HOME$/Dropbox/Personal/doc/resume.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10, 5, 9, 4, 8, 3, 7, 2, 6, 1]))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFRoZSBzb2x1dGlvbiBpcyB0aHVzIGxvb2sgYXQgdGhlIHNodWZmbGVkX2RlY2suICBJZiB0aGUgdG9wIGNhcmQgaXMgdGhlIHNhbWUgYXMgdGhlIHRvcCBjYXJkIG9mIHNoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10, 5, 9, 4, 8, 3, 7, 2, 6, 1]))</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2VsdmVcPg==</text>
@@ -499,31 +499,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoaXNfc2luZ2xlX3JpZmZsZShbMTAsIDUsIDksIDQsIDgsIDMsIDcsIDIsIDYsIDFdKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X2hpZ2hlc3QgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgIFRoZSBzb2x1dGlvbiBpcyB0aHVzIGxvb2sgYXQgdGhlIHNodWZmbGVkX2RlY2suICBJZiB0aGUgdG9wIGNhcmQgaXMgdGhlIHNhbWUgYXMgdGhlIHRvcCBjYXJkIG9mIHNoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X2hpZ2hlc3QgPSBjYXJkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjIgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBsYXN0X2xvd2VzdCA9PSBwdHIyICsgMToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjIgPSBjYXJkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjEgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBsYXN0X2xvd2VzdCA9PSBwdHIyICsgMToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGFzdF9sb3dlc3QgPT0gcHRyMSArIDE6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjEgPSBjYXJkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjIgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGFzdF9sb3dlc3QgPT0gcHRyMSArIDE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
