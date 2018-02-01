@@ -271,6 +271,12 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="$USER_HOME$/git/leetcode/python/cake/1_apple_stock.py" timestamp="1517507934397">
+        <mark key="[" line="44" column="78" />
+        <mark key="]" line="44" column="79" />
+        <mark key="^" line="44" column="73" />
+        <mark key="." line="44" column="79" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/unit-test.log" timestamp="1499125077975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -487,43 +493,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRoZSBzb2x1dGlvbiBpcyB0aHVzIGxvb2sgYXQgdGhlIHNodWZmbGVkX2RlY2suICBJZiB0aGUgdG9wIGNhcmQgaXMgdGhlIHNhbWUgYXMgdGhlIHRvcCBjYXJkIG9mIHNoCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhnZXRfbWF4X3Byb2ZpdChbMTAsIDhdKSwgMCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>price is equal or higher than the low, mov</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2VsdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoaXNfc2luZ2xlX3JpZmZsZShbMTAsIDUsIDksIDQsIDgsIDMsIDcsIDIsIDYsIDFdKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhnZXRfbWF4X3Byb2ZpdChbMTAsIDhdKSwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRoZSBzb2x1dGlvbiBpcyB0aHVzIGxvb2sgYXQgdGhlIHNodWZmbGVkX2RlY2suICBJZiB0aGUgdG9wIGNhcmQgaXMgdGhlIHNhbWUgYXMgdGhlIHRvcCBjYXJkIG9mIHNoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X2hpZ2hlc3QgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmljZSA9IHByaWNlc1tjdXJyXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjIgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBsYXN0X2xvd2VzdCA9PSBwdHIyICsgMToK</text>
+        <text encoding="base64">ICAgIFRoZSBzb2x1dGlvbiBpcyB0aHVzIGxvb2sgYXQgdGhlIHNodWZmbGVkX2RlY2suICBJZiB0aGUgdG9wIGNhcmQgaXMgdGhlIHNhbWUgYXMgdGhlIHRvcCBjYXJkIG9mIHNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB0cjEgPSBjYXJkCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X2hpZ2hlc3QgPSBjYXJkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGFzdF9sb3dlc3QgPT0gcHRyMSArIDE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
