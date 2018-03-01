@@ -6,53 +6,122 @@
       <file name="/start_script.py" timestamp="1507347025012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.4/dist-packages/pandas/core/generic.py" timestamp="1502156108441" />
+      <file name="/Python Console" timestamp="1506908069192">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="/fragment.py" timestamp="1506908203380">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1506995478934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Personal/doc/notes.txt" timestamp="1511756081112" />
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/event_list_page.html" timestamp="1476635471811">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/home_page.html" timestamp="1477275868057">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/max/test_scenarios.txt" timestamp="1484526218482">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506908748967">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/manage.py" timestamp="1482429803606">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="63" />
         <mark key="." line="7" column="63" />
+      </file>
+      <file name="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" timestamp="1507083760424">
+        <mark key="'" line="39" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506913387945">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+        <mark key="^" line="100" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/event_detail_page.html" timestamp="1477238163146">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/tree/BinaryTree.py" timestamp="1496105055953">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.4/dist-packages/keras/models.py" timestamp="1507083683231" />
-      <file name="/usr/local/lib/python3.4/dist-packages/sklearn/preprocessing/imputation.py" timestamp="1506652813465" />
+      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/topological_sort.py" timestamp="1496289457011">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/stuff.py" timestamp="1506912857220">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/test/136394.1.txt" timestamp="1498850180194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506908251853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1507346992365">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/unit-test.log" timestamp="1499125077975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/about_us_page.html" timestamp="1477275132200">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/secret-key.txt" timestamp="1482022034400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" timestamp="1507345451031">
+        <mark key="'" line="87" column="4" />
+        <mark key="[" line="90" column="20" />
+        <mark key="]" line="90" column="20" />
+        <mark key="^" line="89" column="21" />
+        <mark key="." line="90" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/__init__.py" timestamp="1482515484315">
         <mark key="[" line="0" column="0" />
@@ -70,12 +139,25 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
+        <mark key="'" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/__init__.py" timestamp="1480870878544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWagtail/todo.md" timestamp="1482517828939">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/pages.py" timestamp="1480871241993">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -90,7 +172,17 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.4/dist-packages/keras/layers/core.py" timestamp="1506999560098" />
+      <file name="$USER_HOME$/Dropbox/Personal/doc/resume.md" timestamp="1519879512351">
+        <mark key="[" line="55" column="68" />
+        <mark key="]" line="55" column="68" />
+        <mark key="^" line="55" column="59" />
+        <mark key="." line="55" column="68" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/WagtailTest/home/models.py" timestamp="1470328777343">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="43" />
@@ -98,97 +190,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/7/174185.txt" timestamp="1498936237688">
         <mark key="'" line="8" column="2" />
-      </file>
-      <file name="/Python Console" timestamp="1506908069192">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="/fragment.py" timestamp="1506908203380">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/home_page.html" timestamp="1477275868057">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/preprocess.py" timestamp="1506908748967">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" timestamp="1507083760424">
-        <mark key="'" line="39" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" timestamp="1506913387945">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="102" column="22" />
-        <mark key="." line="102" column="22" />
-        <mark key="^" line="100" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/__init__.py" timestamp="1480870881339">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/topological_sort.py" timestamp="1496289457011">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-      </file>
-      <file name="/usr/local/lib/python3.4/dist-packages/numpy/lib/arraysetops.py" timestamp="1502156916673" />
-      <file name="$USER_HOME$/PycharmProjects/titanic/preprocessing/stuff.py" timestamp="1506912857220">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1506908251853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1507346992365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/models/stuff.py" timestamp="1506995500801" />
-      <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/files/supervisor/logrotate" timestamp="1482426496413">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/templates/home/about_us_page.html" timestamp="1477275132200">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/titanic/models/deep_learning.py" timestamp="1507345451031">
-        <mark key="'" line="87" column="4" />
-        <mark key="[" line="90" column="20" />
-        <mark key="]" line="90" column="20" />
-        <mark key="^" line="89" column="21" />
-        <mark key="." line="90" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/121747.txt" timestamp="1499099661084">
-        <mark key="'" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/HelloWagtail/home/models/blocks.py" timestamp="1476554618403">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AsianCops/home/models/pages.py" timestamp="1480871241993">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AsianCops/AsianCops/settings/dev.py" timestamp="1482011118151">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AsianCops/configure/roles/web/templates/supervisor_asiancops.conf" timestamp="1482453924509">
         <mark key="[" line="4" column="12" />
@@ -300,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>top 15%.</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>top 15%.</text>
       </register>
       <register name="/" type="4">
         <text>accuracy</text>
@@ -312,31 +313,31 @@
         <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0MCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">LSBEZXZlbG9wZWQgdmFyaW91cyB0b29scyBpbiBQZXJsIGFuZCBFeHBlY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">ICAgICogV3JvdGUgYSB0b29sIGluIFBlcmwgdG8gZGVjb2RlIGNhbGxlciBpZCBhbmQgdmlzdWFsIHZvaWNlbWFpbCBpbmRpY2F0b3IgbWVzc2FnZXMgZnJvbSBoZXggb3V0cHV0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">ICAgICogV3JvdGUgYSB0b29sIGluIFBlcmwgdG8gZXh0cmFjdCByZXF1aXJlbWVudHMgaW50byB0ZXN0IGNhc2VzLCBhbmQgaW1wb3J0IHRoZSB0ZXN0IGNhc2VzIGludG8gYSB0ZXN0IGNhc2UgZGF0YWJhc2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">ICAgICogV3JvdGUgYSB0b29sIHRvIGF1dG9tYXRlIHBhY2thZ2UgcmVtb3ZhbC9pbnN0YWxsYXRpb24gb24gU29sYXJpcyBpbiBFeHBlY3QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">ICAgIEkgd3JvdGUgYSB0b29sIHRvIHBhcnNlIHRoZSBsb2dzIGFuZCBvdXRwdXQgZGlmZmVyZW50IGNhbGwgbGVncyBpbiBkaWZmZXJlbnQgY29sb3JzIHVzaW5nIEFOU0kgY29sb3JzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">ICAgICogSXQgd2FzIGEgdGltZSBjb25zdW1pbmcgdGFzayB0byBzb3J0IHRocm91Z2ggdHJhY2VzIHRoYXQgaW52b2x2ZWQgbXVsdGlwbGUgY2FsbCBsZWdzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBkYXRhLmRyb3AoJ0FnZScsIGF4aXM9MSkK</text>
+        <text encoding="base64">Q3J5cHRvZ3JhcGh5IDEsIERhdGEgc2NpZW5jZSBzcGVjaWFsaXphdGlvbiBmcm9tIEpvaG5zIEhvcGtpbnMgKHByb2dyYW1taW5nIHVzaW5nIFIsIGRhdGEgZXhwbG9yYXRpb24vdmlzdWFsaXphdGlvbiksIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbm9ybV9kYXRhID0gbW9kZWxzLnNjYWxlKG5vcm1fZGF0YSwgYXhpcz0wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0OCwgYWN0aXZhdGlvbj0ncmVsdScpKQo=</text>
+        <text encoding="base64">LSBTaXggeWVhcnMgb2YgZXhwZXJpZW5jZSBhcyBhIHNvZnR3YXJlIGRldmVsb3BlciB1c2luZyBtb3N0bHkgSmF2YSBhbmQgc29tZSBQeXRob24gYW5kIFNjYWxhCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
