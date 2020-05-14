@@ -168,10 +168,11 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1589485750980">
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="406" column="0" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1589486341765">
+        <mark key="[" line="362" column="21" />
+        <mark key="]" line="362" column="31" />
+        <mark key="^" line="362" column="31" />
+        <mark key="." line="362" column="30" />
       </file>
       <file name="/code.py" timestamp="1507346992365">
         <mark key="[" line="0" column="0" />
@@ -294,43 +295,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>19&quot;,</text>
+        <text>clause_table</text>
       </register>
       <register name="-" type="4">
-        <text>19&quot;,</text>
+        <text>clause_table</text>
       </register>
       <register name="/" type="4">
         <text>accuracy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFkZChEZW5zZSg0MCwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9yZWd1bGFyaXplcj1sMihsPTAuMDEpLCBrZXJuZWxfaW5pdGlhbGl6ZXI9J2hlX3VuaWZvcm0nKSkK</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZXNbJ2NsYXVzZV90YWJsZSddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiaWQiOiAiICBcImlkXCI6IFwiXCIsbiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAnYmV0YS1kMTZnLW9tcy1jbGF1c2UtdGFibGUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAicmVmSWQiOiAiMTEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAnYmV0YS1kMTZnLW9tcy1ydWxlLXRhYmxlJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYmV0YS1kMTZnLW9tcy1ydWxlLXNldC10YWJsZScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICBjbGllbnQucHV0X2l0ZW0oVGFibGVOYW1lPSdiZXRhLWQxNmctb21zLXJ1bGUtc2V0LXRhYmxlJywgSXRlbT1kZGJfanNvbikK</text>
+        <text encoding="base64">ICAgICAgICAnYmV0YS1kMTZnLW9tcy1wcmlvcml0eS1ncm91cC10YWJsZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICBkZGJfanNvbiA9IGNyZWF0ZV9ydWxlc2V0X2pzb24ocnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZU5hbWU9J2JldGEtZDE2Zy1vbXMtY2xhdXNlLXRhYmxlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIGZvciBycyBpbiBkYXRhOgo=</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZU5hbWU9dGFibGVfcHJlZml4ICsgJy1kMTZnLW9tcy1ydWxlLXRhYmxlJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgIGRhdGEgPSBqc29uLmxvYWQoZGVmYXVsdF9yc19maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZU5hbWU9dGFibGVfcHJlZml4ICsgJy1kMTZnLW9tcy1ydWxlLXNldC10YWJsZScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKGpvaW4oZGF0YV9kaXIsICdydWxlU2V0Lmpzb24nKSwgJ3InKSBhcyBkZWZhdWx0X3JzX2ZpbGU6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbG9hZCAnbm8gcmV2aWV3IHJlcXVpcmVkJyBSUyBkYXRhLCBvbmUgcm93IGZvciBlYWNoIFBHCg==</text>
+        <text encoding="base64">ICAiaWQiOiAiICBcImlkXCI6IFwiXCIsbiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
