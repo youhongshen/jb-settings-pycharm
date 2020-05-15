@@ -166,10 +166,10 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/RS10.json" timestamp="1589577991378">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="8" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/RS10.json" timestamp="1589580408367">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
         <mark key="^" line="1" column="9" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1589500558960">
@@ -299,10 +299,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>beta</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>beta</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>test_create</text>
