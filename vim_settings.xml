@@ -171,10 +171,10 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1589495185227">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1589500558960">
         <mark key="[" line="377" column="20" />
         <mark key="]" line="377" column="20" />
-        <mark key="^" line="362" column="31" />
+        <mark key="^" line="376" column="35" />
         <mark key="." line="377" column="20" />
       </file>
       <file name="/code.py" timestamp="1507346992365">
@@ -298,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>gamma</text>
+        <text>beta</text>
       </register>
       <register name="-" type="4">
-        <text>gamma</text>
+        <text>beta</text>
       </register>
       <register name="/" type="4">
         <text>test_create</text>
