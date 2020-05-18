@@ -102,12 +102,12 @@
         <mark key="." line="160" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1589831154837" />
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1589647860303">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1589832366793">
         <mark key="'" line="68" column="11" />
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="36" />
-        <mark key="^" line="63" column="36" />
-        <mark key="." line="63" column="35" />
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="48" />
+        <mark key="^" line="82" column="72" />
+        <mark key="." line="86" column="48" />
       </file>
       <file name="/Python Console" timestamp="1589646803075">
         <mark key="[" line="0" column="0" />
@@ -257,44 +257,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>['RS10.json']]</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>['RS10.json']]</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhdXNlWydsaHMnXSA9IGhhbmRsZV9leHByZXNzaW9uKGNsYXVzZVsnbGhzJ10pCg==</text>
+        <text encoding="base64">ICAgIHJ1bGVzZXRfZmlsZXMgPSBsb2FkX2FsbF9yc19maWxlcyhkYXRhX2RpcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcnVsZXNldF9maWxlcyA9IFtqb2luKGRhdGFfZGlyLCBmKSBmb3IgZiBpbiBbJ1JTMTAuanNvbiddXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcnVsZXNldF9maWxlcyA9IFtqb2luKGRhdGFfZGlyLCBmKSBmb3IgZiBpbiBbJ1JTMTYuanNvbicsICdSUzE3Lmpzb24nLCAnUlMxOC5qc29uJywgJ1JTMTkuanNvbiddXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHZlcmlmeV9hdHRyaWJ1dGUoYXR0cmlidXRlKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIHZlcmlmeV9hdHRyaWJ1dGUoYXR0cmlidXRlKToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHZlcmlmeV9leHByZXNzaW9uKGV4cHJlc3Npb24pOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZVsnY2xhdXNlJ10gPSBjbGF1c2UK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>.,$d</text>
