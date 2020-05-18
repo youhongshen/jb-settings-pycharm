@@ -95,18 +95,23 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/priorityGroup.json" timestamp="1589834934363" />
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1589832366793">
-        <mark key="'" line="68" column="11" />
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="86" column="48" />
-        <mark key="^" line="82" column="72" />
-        <mark key="." line="86" column="48" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1589843509550">
+        <mark key="'" line="74" column="42" />
+        <mark key="[" line="74" column="65" />
+        <mark key="]" line="74" column="66" />
+        <mark key="." line="74" column="66" />
+        <mark key="^" line="74" column="105" />
       </file>
-      <file name="/Python Console" timestamp="1589646803075">
+      <file name="/Python Console" timestamp="1589843271780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="/fragment.py" timestamp="1589843315106">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS100.json" timestamp="1589837689866">
         <mark key="'" line="33" column="28" />
@@ -121,18 +126,16 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="17" column="30" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS2.json" timestamp="1589843539621">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS16.json" timestamp="1589831125650" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1589842294537" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS12.json" timestamp="1589831063426" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/processed/IAD/RS10.json" timestamp="1589834858317" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS18.json" timestamp="1589831177099" />
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1589647925568">
-        <mark key="'" line="345" column="32" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="^" line="229" column="41" />
-        <mark key="." line="160" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1589831154837" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS14.json" timestamp="1589831097866" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS101.json" timestamp="1589839252473">
@@ -141,7 +144,6 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1589831027550" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS102.json" timestamp="1589842610241">
         <mark key="'" line="58" column="28" />
         <mark key="[" line="68" column="0" />
@@ -155,11 +157,16 @@
         <mark key="^" line="137" column="1" />
         <mark key="." line="137" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS1.json" timestamp="1589843534074">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="25" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS13.json" timestamp="1589831082013" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS10.json" timestamp="1589834893500" />
     </filemarks>
     <jumps>
-      <jump line="215" column="0" filename="$USER_HOME$/PycharmProjects/leetcode_python/datastructure/graph/graph.py" />
       <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="68" column="34" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
       <jump line="86" column="29" filename="$USER_HOME$/PycharmProjects/leetcode_python/competition/_101hack49_052317/graph.py" />
@@ -259,48 +266,49 @@
       <jump line="345" column="32" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="34" column="28" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS100.json" />
       <jump line="39" column="28" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS102.json" />
+      <jump line="74" column="42" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;3626ea6e-aa1b-5d19-bcc5-6786004b054e&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>_TO</text>
+        <text>&quot;3626ea6e-aa1b-5d19-bcc5-6786004b054e&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>ruleId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjb21tZW50IjogImlvLnRvdGFsQnVkZ2V0ID4gaW9saW5lLmFwcGxpZWRSYXRlICogMC4wMyIsCg==</text>
+        <text encoding="base64">ICAgIHJ1bGVzZXRbJ3ByaW9yaXR5R3JvdXBJZCddOiBwZ19kaWN0W3J1bGVzZXRbJ3ByaW9yaXR5R3JvdXAnXV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLmxlZ2FsVGVybSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRVFVQUxTIiwKICAgICAgICAgICJyaHMiOiAiQUdFTkNZIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBydWxlc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjb21tZW50IjogImlvLnRvdGFsQnVkZ2V0ID4gaW9saW5lLmFwcGxpZWRSYXRlICogMC4wMyIsCg==</text>
+        <text encoding="base64">ICAgIHByaXRpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0Q3VycmVuY3kiLAogICAgICAgICAgImJpbmFyeU9wZXJhdG9yIjogIkVRVUFMX1RPIiwKICAgICAgICAgICJyaHMiOiAiQVVEIgogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0IiwKICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJMRVNTX1RIQU4iLAogICAgICAgICAgInJocyI6IDE1MDAwCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLmxlZ2FsVGVybSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRVFVQUxTIiwKICAgICAgICAgICJyaHMiOiAiQUdFTkNZIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0IiwKICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJMRVNTX1RIQU4iLAogICAgICAgICAgInJocyI6IDUwMDAwMQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJjb21tZW50IjogImlvLnRvdGFsQnVkZ2V0ID4gaW9saW5lLmFwcGxpZWRSYXRlICogMC4wMyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLmxlZ2FsVGVybSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRVFVQUxTIiwKICAgICAgICAgICJyaHMiOiAiQUdFTkNZIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0Q3VycmVuY3kiLAogICAgICAgICAgImJpbmFyeU9wZXJhdG9yIjogIkVRVUFMX1RPIiwKICAgICAgICAgICJyaHMiOiAiQVVEIgogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>.,$d</text>
