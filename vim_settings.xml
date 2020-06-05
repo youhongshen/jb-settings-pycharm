@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>comm</entry>
         <entry>num</entry>
         <entry>jeff.da</entry>
         <entry>--</entry>
@@ -25,6 +24,7 @@
         <entry>proce</entry>
         <entry>gener</entry>
         <entry>0.03</entry>
+        <entry>keys</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -101,12 +101,15 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591375667885">
-        <mark key="'" line="91" column="0" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591378306266">
+        <mark key="'" line="24" column="11" />
         <mark key="[" line="5" column="8" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="8" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="24" column="12" />
+      </file>
+      <file name="/Python Console" timestamp="1591377812795">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS100.json" timestamp="1590013838445">
         <mark key="'" line="33" column="28" />
@@ -127,11 +130,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS20.json" timestamp="1591374552532">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS20.json" timestamp="1591375924379">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
         <mark key="^" line="12" column="49" />
-        <mark key="." line="13" column="17" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS18.json" timestamp="1591374429732">
         <mark key="[" line="6" column="14" />
@@ -168,11 +171,11 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/handle_tags.py" timestamp="1591375814957">
-        <mark key="[" line="1" column="105" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="0" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/handle_tags.py" timestamp="1591378477895">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1591374784243">
         <mark key="[" line="3" column="64" />
@@ -195,11 +198,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS13.json" timestamp="1589924414694">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS1.json" timestamp="1589924456013">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -213,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="59" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/mail/parse_header.py" />
       <jump line="23" column="46" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="113" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
@@ -313,48 +310,49 @@
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="5" column="35" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/priorityGroup.json" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/priorityGroup.json" />
+      <jump line="24" column="11" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBGb3IgZXhhbXBsZSwg</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2UgbmVlZCB0byBtYW51YWxseSBnZW5lcmF0ZSBydWxlcyBiYXNlZCBvbiA=</text>
+        <text>generate_rules</text>
       </register>
       <register name="/" type="4">
-        <text>0.03</text>
+        <text>keys</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS52YWx1ZVR5cGUiLAogICAgICAgICAgImJpbmFyeU9wZXJhdG9yIjogIk5PVF9FUVVBTF9UTyIsCiAgICAgICAgICAicmhzIjogIlZBTFVFX0FERCIKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShjbGF1c2VbJ2xocyddKSBpcyAnZGljdCcgYW5kICdzY3JpcHQnIGluIGNsYXVzZVsnbGhzJ10ua2V5cygpIGFuZCBjbGF1c2VbJ2xocyddWydzY3JpcHQnXSA9PSBzY3JpcHRfbmFtZToKICAgICAgICAgICAgICAgIGNsYXVzZVsnbGhzJ10gPSBpdGVtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBGb3IgZXhhbXBsZSwg</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiQ0EiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJocyI6IDAuMDEK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm9wZXJhdG9yIjogIk1JTlVTIiwK</text>
+        <text encoding="base64">ICAgIGZpbGVfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoX19maWxlX18pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxocyI6ICJJT0xpbmUuZmxvb3JSYXRlIiwK</text>
+        <text encoding="base64">IyBGb3IgZXhhbXBsZSwg</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -363,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>0.03</last-search>
+      <last-search>keys</last-search>
       <last-offset />
-      <last-pattern>0.03</last-pattern>
+      <last-pattern>keys</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
