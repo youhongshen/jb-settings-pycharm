@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>num</entry>
-        <entry>jeff.da</entry>
         <entry>--</entry>
         <entry encoding="base64">XDwxXD4=</entry>
         <entry>Start</entry>
@@ -25,6 +23,8 @@
         <entry>gener</entry>
         <entry>0.03</entry>
         <entry>keys</entry>
+        <entry>handle_i</entry>
+        <entry>handle_ex</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -101,14 +101,17 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591378306266">
-        <mark key="'" line="24" column="11" />
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="12" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591383138364">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1591377812795">
+      <file name="/Python Console" timestamp="1591383143663">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1591383150411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS100.json" timestamp="1590013838445">
@@ -117,7 +120,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1591375213052">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1591382651748">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="64" />
         <mark key="]" line="9" column="66" />
@@ -136,16 +139,14 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/preprocessors/handle_tags.py" timestamp="1591382821243">
+        <mark key="[" line="34" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS18.json" timestamp="1591374429732">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="171" />
         <mark key="." line="6" column="170" />
         <mark key="^" line="6" column="171" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS2.json" timestamp="1589924459151">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS3.json" timestamp="1589993371841">
         <mark key="[" line="18" column="21" />
@@ -198,11 +199,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS1.json" timestamp="1589924456013">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS10.json" timestamp="1591374255769">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="5" column="25" />
@@ -211,11 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="46" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
-      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
-      <jump line="113" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
-      <jump line="136" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
-      <jump line="212" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="233" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="250" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
       <jump line="282" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/parse/enron_with_categories/1/175419.txt" />
@@ -311,48 +302,53 @@
       <jump line="5" column="35" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/priorityGroup.json" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/priorityGroup.json" />
       <jump line="24" column="11" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
+      <jump line="100" column="70" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
+      <jump line="26" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
+      <jump line="50" column="49" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
+      <jump line="55" column="34" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
+      <jump line="56" column="34" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYg</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmhlbGxvKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>generate_rules</text>
+        <text encoding="base64">c2NyaXB0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>keys</text>
+        <text>handle_ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShjbGF1c2VbJ2xocyddKSBpcyAnZGljdCcgYW5kICdzY3JpcHQnIGluIGNsYXVzZVsnbGhzJ10ua2V5cygpIGFuZCBjbGF1c2VbJ2xocyddWydzY3JpcHQnXSA9PSBzY3JpcHRfbmFtZToKICAgICAgICAgICAgICAgIGNsYXVzZVsnbGhzJ10gPSBpdGVtCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbam9pbihkYXRhX2RpciwgZmlsZSkgZm9yIGZpbGUgaW4gbGlzdGRpcihkYXRhX2RpcikgaWYgaXNmaWxlKGpvaW4oZGF0YV9kaXIsIGZpbGUpKQogICAgICAgICAgICAgICAgICAgICBhbmQgcmUubWF0Y2gociJeUlNbMC05XStcLmpzb24kIiwgZmlsZSkgaXMgbm90IE5vbmVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYg</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmhlbGxvKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBydQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIHJlLm1hdGNoKHIiXlJTWzAtOV0rXC5qc29uJCIsIGZpbGUpIGlzIG5vdCBOb25lXQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoX19maWxlX18pCg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBGb3IgZXhhbXBsZSwg</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -361,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>keys</last-search>
+      <last-search>handle_ex</last-search>
       <last-offset />
-      <last-pattern>keys</last-pattern>
+      <last-pattern>handle_ex</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
