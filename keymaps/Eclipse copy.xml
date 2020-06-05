@@ -20,9 +20,11 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="FocusEditor" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
