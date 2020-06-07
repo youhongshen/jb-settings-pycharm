@@ -101,7 +101,7 @@
         <mark key="." line="107" column="26" />
         <mark key="^" line="107" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1591390212400">
+      <file name="/Python Console" timestamp="1591489210550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591388326634">
@@ -114,6 +114,7 @@
         <mark key="." line="290" column="44" />
         <mark key="^" line="85" column="45" />
       </file>
+      <file name="$USER_HOME$/git/leetcode/python/datastructure/tree/BinaryTree.py" timestamp="1591488390571" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS20.json" timestamp="1591394482992">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="11" column="45" />
@@ -180,17 +181,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591488195259">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="33" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS10.json" timestamp="1591374255769">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591490139999">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="8" />
+        <mark key="^" line="39" column="8" />
+        <mark key="." line="39" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -299,16 +294,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyAg</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyAg</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiB7CiAgICAgICAgICAgICJfanNvblR5cGUiOiAidmFsdWUiLAogICAgICAgICAgICAidmFsdWUiOiBudWxsCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlZHVjZShsYW1iZGEgYSwgYjogYSArIGIsIFsxLCAyLCAzXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
