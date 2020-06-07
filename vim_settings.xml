@@ -181,11 +181,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591490139999">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="8" />
-        <mark key="^" line="39" column="8" />
-        <mark key="." line="39" column="7" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591491223117">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="62" column="40" />
+        <mark key="." line="62" column="39" />
+        <mark key="^" line="62" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -293,11 +293,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBfYnlfaGVpZ2h0W10gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgIHJlZHVjZShsYW1iZGEgYSwgYjogYSArIGIsIFsxLCAyLCAzXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBfYnlfaGVpZ2h0W10gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2xpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCiAgICAgICAgICAicmhzIjogbnVsbAo=</text>
+        <text encoding="base64">ICAgIGZvciBub2RlX2xpc3QgaW4gbWFwX2J5X2hlaWdodC52YWx1ZXMoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZhbHVlIjogIk1YIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVfc2V0ID0gYWNjW2hlaWdodF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmdldGN3ZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhWzFdICE9IGJbMV06Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVzX3RvX2xvYWQgPSBbJ1JTMTkuanNvbiddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcnVsZXNldF9maWxlcyA9IFtqb2luKGRhdGFfZGlyLCBmKSBmb3IgZiBpbiBmaWxlc190b19sb2FkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCiAgICAgICAgICAicmhzIjogbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
