@@ -101,7 +101,7 @@
         <mark key="." line="107" column="26" />
         <mark key="^" line="107" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1591491811341">
+      <file name="/Python Console" timestamp="1591491947946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591388326634">
@@ -181,11 +181,11 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591491570001">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="35" column="20" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591492335270">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="72" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -294,16 +294,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgIyB0b2RvICsvLSAx</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgIyB0b2RvICsvLSAx</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfZHVwX25vZGVfYXRfc2FtZV9oZWlnaHQoXzEpLCBbXSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
