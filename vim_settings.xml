@@ -101,7 +101,7 @@
         <mark key="." line="107" column="26" />
         <mark key="^" line="107" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1591489210550">
+      <file name="/Python Console" timestamp="1591491811341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591388326634">
@@ -120,6 +120,12 @@
         <mark key="]" line="11" column="45" />
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_duplicate_node_same_depth.py" timestamp="1591491769432">
+        <mark key="[" line="38" column="60" />
+        <mark key="]" line="38" column="60" />
+        <mark key="." line="38" column="60" />
+        <mark key="^" line="38" column="66" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/preprocessors/handle_tags.py" timestamp="1591391751648">
         <mark key="'" line="27" column="41" />
@@ -175,17 +181,11 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS1.json" timestamp="1591374388375">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591491223117">
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="62" column="40" />
-        <mark key="." line="62" column="39" />
-        <mark key="^" line="62" column="40" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591491570001">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="35" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -293,44 +293,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBfYnlfaGVpZ2h0W10gCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZHVjZShsYW1iZGEgYSwgYjogYSArIGIsIFsxLCAyLCAzXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfZHVwX25vZGVfYXRfc2FtZV9oZWlnaHQoXzEpLCBbXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBfYnlfaGVpZ2h0W10gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2xpc3QK</text>
+        <text encoding="base64">ICAgICAgICBfNSA9IE5vZGUoNSwgTm9uZSwgTm9uZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBub2RlX2xpc3QgaW4gbWFwX2J5X2hlaWdodC52YWx1ZXMoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5kX2R1cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVfc2V0ID0gYWNjW2hlaWdodF0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhWzFdICE9IGJbMV06Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBfYnlfaGVpZ2h0W10gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2xpc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiBudWxsCg==</text>
+        <text encoding="base64">ICAgIGZvciBub2RlX2xpc3QgaW4gbWFwX2J5X2hlaWdodC52YWx1ZXMoKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCiAgICAgICAgICAicmhzIjogbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
