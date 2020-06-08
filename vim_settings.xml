@@ -134,11 +134,11 @@
         <mark key="." line="27" column="68" />
         <mark key="^" line="27" column="69" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS18.json" timestamp="1591374429732">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="171" />
-        <mark key="." line="6" column="170" />
-        <mark key="^" line="6" column="171" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/tic_tac_toe.py" timestamp="1591564676096">
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1591469829467">
         <mark key="'" line="355" column="20" />
@@ -294,10 +294,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIyB0b2RvICsvLSAx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgIyB0b2RvICsvLSAx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfNSA9IE5vZGUoNSwgTm9uZSwgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAiIiI=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kX2R1cAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBfYnlfaGVpZ2h0W10gCg==</text>
+        <text encoding="base64">ICAgICAgICBfNSA9IE5vZGUoNSwgTm9uZSwgTm9uZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2xpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBub2RlX2xpc3QgaW4gbWFwX2J5X2hlaWdodC52YWx1ZXMoKToK</text>
+        <text encoding="base64">ICAgICAgICBmaW5kX2R1cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
