@@ -21,10 +21,10 @@
         <entry>0.03</entry>
         <entry>load_all_rs</entry>
         <entry>loading</entry>
-        <entry>defaultName</entry>
         <entry>isPri</entry>
         <entry>isPr</entry>
         <entry>null</entry>
+        <entry>defaultName</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -94,25 +94,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591393565414">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591629602714">
         <mark key="'" line="82" column="65" />
-        <mark key="[" line="105" column="14" />
-        <mark key="]" line="107" column="27" />
-        <mark key="." line="107" column="26" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="106" column="26" />
+        <mark key="." line="106" column="26" />
         <mark key="^" line="107" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1591491947946">
+      <file name="/Python Console" timestamp="1591629726843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591388326634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1591394516218">
-        <mark key="'" line="89" column="29" />
-        <mark key="[" line="290" column="41" />
-        <mark key="]" line="290" column="41" />
-        <mark key="." line="290" column="44" />
-        <mark key="^" line="85" column="45" />
+      <file name="/a.dummy" timestamp="1591629337315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS18.json" timestamp="1591630685729">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="33" column="12" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1591629299021">
+        <mark key="'" line="251" column="29" />
+        <mark key="[" line="248" column="29" />
+        <mark key="]" line="248" column="42" />
+        <mark key="." line="248" column="41" />
+        <mark key="^" line="248" column="42" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/preprocessors/add_to_list.py" timestamp="1591629822340">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/datastructure/tree/BinaryTree.py" timestamp="1591488390571" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS20.json" timestamp="1591394482992">
@@ -127,7 +142,7 @@
         <mark key="." line="38" column="60" />
         <mark key="^" line="38" column="66" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/preprocessors/handle_tags.py" timestamp="1591391751648">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/preprocessors/handle_tags.py" timestamp="1591629813252">
         <mark key="'" line="27" column="41" />
         <mark key="[" line="27" column="68" />
         <mark key="]" line="27" column="69" />
@@ -140,23 +155,22 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="50" column="35" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1591469829467">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1591629566200">
         <mark key="'" line="355" column="20" />
-        <mark key="[" line="355" column="17" />
-        <mark key="]" line="355" column="21" />
-        <mark key="." line="355" column="20" />
-        <mark key="^" line="355" column="21" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1591375418932">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="49" />
+        <mark key="[" line="403" column="19" />
+        <mark key="]" line="403" column="84" />
+        <mark key="^" line="403" column="84" />
+        <mark key="." line="403" column="83" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/test/test_create_ruleset_json.py" timestamp="1591390402920">
         <mark key="'" line="11" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" timestamp="1591405182305" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" timestamp="1591630059940">
+        <mark key="[" line="728" column="8" />
+        <mark key="]" line="728" column="8" />
+        <mark key="." line="728" column="8" />
+        <mark key="^" line="724" column="20" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/test/test_handle_tags.py" timestamp="1591392329847">
         <mark key="[" line="41" column="83" />
         <mark key="]" line="42" column="0" />
@@ -169,18 +183,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="3" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1591374784243">
-        <mark key="[" line="3" column="64" />
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS102.json" timestamp="1591374679794">
-        <mark key="'" line="58" column="28" />
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="37" />
-      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1591492335270">
         <mark key="[" line="34" column="23" />
         <mark key="]" line="34" column="23" />
@@ -189,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/mail-analytics/design.txt" />
-      <jump line="17" column="78" filename="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" />
-      <jump line="19" column="43" filename="$USER_HOME$/IdeaProjects/mail-analytics/run-avro.log" />
       <jump line="16" column="29" filename="$USER_HOME$/IdeaProjects/mail-analytics/idea.txt" />
       <jump line="11" column="2" filename="$USER_HOME$/Dropbox/Personal/doc/resume.md" />
       <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/titanic/preprocessing/impute.py" />
@@ -262,21 +261,14 @@
       <jump line="22" column="63" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="95" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
       <jump line="82" column="65" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
-      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="42" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="85" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="128" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="132" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="171" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="175" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="204" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="208" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="247" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="251" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="290" column="44" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="294" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="46" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="89" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="365" column="4" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" />
       <jump line="369" column="40" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" />
       <jump line="305" column="40" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" />
@@ -289,48 +281,58 @@
       <jump line="690" column="50" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" />
       <jump line="647" column="10" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" />
       <jump line="639" column="50" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" />
+      <jump line="291" column="37" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="248" column="41" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="295" column="10" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="46" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="89" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="132" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="175" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="208" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="251" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>defaultName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIl9qc29uVHlwZSI6ICJ2YWx1ZSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAiRGlzcGxheSBhZHMgLSBBbWF6b24gRFNQIC0gQ29uc2lkZXJhdGlvbiBwYWNrYWdlIC0gQ1RSIC0gQ1BDIC0gVVMiCiAgICAgICAgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiI=</text>
+        <text encoding="base64">ICAgIHBhc3M=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiTVgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJFUVVBTF9UTyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfNSA9IE5vZGUoNSwgTm9uZSwgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICJsaHMiOiAiSU8uYmlsbGluZ01hcmtldCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kX2R1cAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiIiI=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -339,10 +341,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>null</last-search>
+      <last-search>defaultName</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>defaultName</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
