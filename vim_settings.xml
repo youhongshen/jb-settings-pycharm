@@ -94,11 +94,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591632182648">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591722399505">
         <mark key="'" line="82" column="65" />
-        <mark key="[" line="33" column="95" />
-        <mark key="]" line="106" column="31" />
-        <mark key="." line="106" column="30" />
+        <mark key="[" line="105" column="14" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
         <mark key="^" line="106" column="31" />
       </file>
       <file name="/Python Console" timestamp="1591631815162">
@@ -287,11 +287,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>add_to</text>
