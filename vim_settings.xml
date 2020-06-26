@@ -168,11 +168,6 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS12.json" timestamp="1591807740090">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS1.json" timestamp="1591808315524">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="22" />
@@ -190,11 +185,17 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1593184789833">
-        <mark key="[" line="42" column="57" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1593191468453">
+        <mark key="[" line="103" column="4" />
+        <mark key="]" line="103" column="4" />
+        <mark key="^" line="112" column="23" />
+        <mark key="." line="103" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_duplicate_node_same_depth.py" timestamp="1593191556444">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="8" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS18.json" timestamp="1591808047101">
         <mark key="[" line="3" column="34" />
@@ -319,17 +320,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBsaXN0IGFsbCBkdXBsaWNhdGUgbm9kZSB2YWx1ZXMgYW1vbmdzdCBub2RlcyBvZiB0aGUgc2FtZSBkZXB0aC4K</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>To h</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>add_to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IGlucHV0KCdFbnRlciBuYW1lJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdldER1cGxpY2F0ZU5vZGVzKF8xKSwgW10pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBsaXN0IGFsbCBkdXBsaWNhdGUgbm9kZSB2YWx1ZXMgYW1vbmdzdCBub2RlcyBvZiB0aGUgc2FtZSBkZXB0aC4K</text>
