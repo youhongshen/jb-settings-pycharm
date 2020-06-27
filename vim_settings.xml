@@ -94,13 +94,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1591808029027">
-        <mark key="'" line="355" column="20" />
-        <mark key="[" line="3" column="52" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="34" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" timestamp="1591808352397">
         <mark key="'" line="82" column="65" />
         <mark key="[" line="105" column="14" />
@@ -114,11 +107,8 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS14.json" timestamp="1591807948457">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="3" column="34" />
+      <file name="/Python Console" timestamp="1593279648006">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS100.json" timestamp="1591808108167">
         <mark key="'" line="33" column="28" />
@@ -132,22 +122,16 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/most_frequent_sum_in_binary_tree.py" timestamp="1593278621703">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="37" />
-        <mark key="^" line="12" column="37" />
-        <mark key="." line="12" column="36" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS2.json" timestamp="1591808322923">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS16.json" timestamp="1591808006254">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_most_frequent_sum_in_binary_tree.py" timestamp="1593281064630">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="17" column="54" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1591808073653">
         <mark key="'" line="251" column="23" />
@@ -156,38 +140,10 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS101.json" timestamp="1591808124770">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS102.json" timestamp="1591808145113">
-        <mark key="'" line="58" column="28" />
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="3" column="34" />
-      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/Tree.py" timestamp="1593278693025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS1.json" timestamp="1591808315524">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="2" column="25" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS1.json" timestamp="1591808329359">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1593278690214">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/test_duplicate_node_same_depth.py" timestamp="1593278669434">
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_duplicate_node_same_depth.py" timestamp="1593279541435">
         <mark key="[" line="2" column="84" />
         <mark key="]" line="2" column="84" />
         <mark key="." line="2" column="84" />
@@ -208,6 +164,47 @@
         <mark key="]" line="5" column="7" />
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1591808029027">
+        <mark key="'" line="355" column="20" />
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/most_frequent_sum_in_binary_tree.py" timestamp="1593280922486">
+        <mark key="[" line="87" column="26" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="86" column="26" />
+        <mark key="." line="87" column="26" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS101.json" timestamp="1591808124770">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS102.json" timestamp="1591808145113">
+        <mark key="'" line="58" column="28" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS1.json" timestamp="1591808315524">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="2" column="25" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS1.json" timestamp="1591808329359">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/duplicate_node_same_depth.py" timestamp="1593278747495">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -316,43 +313,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, getDuplicateNodes</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>, getDuplicateNodes</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>add_to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdldER1cGxpY2F0ZU5vZGVzKF8xKSwgW10pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfbW9zdF9mcmVxdWVudF9zdW0oXzEpLCAyOCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdldER1cGxpY2F0ZU5vZGVzKF8xKSwgW10pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREdXBsaWNhdGVOb2RlcyhfMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dExldmVsLmFwcGVuZChjdXJyZW50X25vZGUucmlnaHQp</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXJyZW50X25vZGUucmlnaHQ6Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dExldmVsLmFwcGVuZChjdXJyZW50X25vZGUubGVmdCkK</text>
+        <text encoding="base64">ICAgIEBwYXJhbSB2YWx1ZTogdGhlIHN1bSB0byBiZSBhZGRlZCB0byB0aGUgbWFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXJyZW50X25vZGUubGVmdDoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vlbl9pbl9jdXJyZW50X2xldmVsLmFkZChjdXJyZW50X25vZGUudmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmluZF9zdW0obm9kZS5yaWdodCkgKyBub2RlLnZhbHVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtX21hcFtub2RlLnZhbHVlXSA9IHN1bV9tYXBbbm9kZS52YWx1ZV0gKyAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWxfcmVzdWx0cy5hZGQoY3VycmVudF9ub2RlLnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub2RlLnZhbHVlIGluIHN1bV9tYXA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
