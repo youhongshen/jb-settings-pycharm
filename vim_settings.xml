@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>handle_exp</entry>
-        <entry>handle</entry>
-        <entry>rule</entry>
         <entry>rules</entry>
         <entry>ruleId</entry>
         <entry>proce</entry>
@@ -25,6 +22,9 @@
         <entry>null</entry>
         <entry>defaultName</entry>
         <entry>add_to</entry>
+        <entry>budg</entry>
+        <entry>sov</entry>
+        <entry>offline</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -34,12 +34,12 @@
         <entry>34,1278d</entry>
         <entry>1,$</entry>
         <entry>w</entry>
-        <entry>set ic</entry>
         <entry>1,.d</entry>
         <entry>1,$d</entry>
         <entry>.,$d</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -89,6 +89,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -133,11 +136,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="17" column="54" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1591808073653">
-        <mark key="'" line="251" column="23" />
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1593440051346">
+        <mark key="'" line="32" column="26" />
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
         <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/Tree.py" timestamp="1593278693025">
@@ -165,7 +168,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1591808029027">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS17.json" timestamp="1593440339979">
         <mark key="'" line="355" column="20" />
         <mark key="[" line="3" column="52" />
         <mark key="]" line="3" column="52" />
@@ -208,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="29" filename="/usr/local/lib/python3.4/dist-packages/keras/metrics.py" />
-      <jump line="68" column="80" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/test/test_create_ruleset_json.py" />
       <jump line="72" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/test/test_create_ruleset_json.py" />
       <jump line="243" column="7" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="147" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/add_json_type.py" />
@@ -308,6 +309,8 @@
       <jump line="174" column="23" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="207" column="23" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="251" column="23" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="23" column="33" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
+      <jump line="32" column="26" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +322,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>add_to</text>
+        <text>offline</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfbW9zdF9mcmVxdWVudF9zdW0oXzEpLCAyOCkK</text>
@@ -352,15 +355,15 @@
         <text encoding="base64">ICAgICAgICBpZiBub2RlLnZhbHVlIGluIHN1bV9tYXA6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>add_to</last-search>
+      <last-search>offline</last-search>
       <last-offset />
-      <last-pattern>add_to</last-pattern>
+      <last-pattern>offline</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
