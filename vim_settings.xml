@@ -119,6 +119,12 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS21.json" timestamp="1593441809983">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="55" />
+        <mark key="^" line="6" column="56" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS103.json" timestamp="1593441285778">
         <mark key="[" line="62" column="29" />
         <mark key="]" line="62" column="29" />
@@ -150,12 +156,6 @@
         <mark key="[" line="2" column="84" />
         <mark key="]" line="2" column="84" />
         <mark key="." line="2" column="84" />
-      </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS18.json" timestamp="1591808047101">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="35" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS2.json" timestamp="1591808334401">
         <mark key="[" line="3" column="21" />
@@ -316,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXBwbGllZFJhdGUg</text>
+        <text>Booking of a Beta product requires approval. Please reach out to amg-release-management-team@amazon.com for approval.&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBwbGllZFJhdGUg</text>
+        <text>Booking of a Beta product requires approval. Please reach out to amg-release-management-team@amazon.com for approval.&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>appliedRa</text>
