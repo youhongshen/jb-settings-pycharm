@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>gener</entry>
-        <entry>keys</entry>
-        <entry>handle_i</entry>
         <entry>handle_ex</entry>
         <entry>processor</entry>
         <entry>create_ruleset</entry>
@@ -25,6 +22,9 @@
         <entry>offl</entry>
         <entry>appliedRa</entry>
         <entry>billboar</entry>
+        <entry>Display ads - Amazon DSP - Delivery package - US</entry>
+        <entry encoding="base64">RGlzcGxheSBhZHMgLSA=</entry>
+        <entry>Display ads - Amazon DSP - Delivery</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -146,11 +146,6 @@
         <mark key="." line="38" column="42" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/test_duplicate_node_same_depth.py" timestamp="1593279541435">
-        <mark key="[" line="2" column="84" />
-        <mark key="]" line="2" column="84" />
-        <mark key="." line="2" column="84" />
-      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/tic_tac_toe.py" timestamp="1594082203933">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="7" />
@@ -183,8 +178,9 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="87" column="26" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1593459117136">
-        <mark key="'" line="60" column="16" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1594160142556" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594160193033">
+        <mark key="'" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_find_min_in_pivot_array.py" timestamp="1593973101727">
         <mark key="[" line="9" column="66" />
@@ -292,10 +288,10 @@
       <jump line="23" column="33" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="32" column="26" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="31" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="31" column="64" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="0" column="28" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="58" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="60" column="16" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
+      <jump line="31" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +303,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>billboar</text>
+        <text>Display ads - Amazon DSP - Delivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvbHV0aW9uLmZpbmRNaW4oWzQsIDUsIDYsIDcsIDAsIDEsIDJdKSwgMCkK</text>
@@ -346,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>billboar</last-search>
+      <last-search>Display ads - Amazon DSP - Delivery</last-search>
       <last-offset />
-      <last-pattern>billboar</last-pattern>
+      <last-pattern>Display ads - Amazon DSP - Delivery</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
