@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>handle_ex</entry>
-        <entry>processor</entry>
         <entry>create_ruleset</entry>
         <entry>0.03</entry>
         <entry>load_all_rs</entry>
@@ -25,6 +23,8 @@
         <entry>Display ads - Amazon DSP - Delivery package - US</entry>
         <entry encoding="base64">RGlzcGxheSBhZHMgLSA=</entry>
         <entry>Display ads - Amazon DSP - Delivery</entry>
+        <entry>AMZN US Desktop 970</entry>
+        <entry>AMZN US Desktop 970x250 BTF Billboard</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -139,7 +139,7 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="17" column="54" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1594222350286">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" timestamp="1594303302655">
         <mark key="'" line="26" column="8" />
         <mark key="[" line="239" column="0" />
         <mark key="]" line="239" column="0" />
@@ -179,8 +179,8 @@
         <mark key="." line="87" column="26" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1594160142556" />
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594160193033">
-        <mark key="'" line="31" column="0" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594303614885">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_find_min_in_pivot_array.py" timestamp="1593973101727">
         <mark key="[" line="9" column="66" />
@@ -192,8 +192,6 @@
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS19.json" timestamp="1593444785790" />
     </filemarks>
     <jumps>
-      <jump line="232" column="11" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
-      <jump line="237" column="40" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="238" column="27" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="239" column="21" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="413" column="4" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
@@ -288,10 +286,12 @@
       <jump line="23" column="33" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="32" column="26" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="31" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
-      <jump line="0" column="28" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="58" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="60" column="16" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="31" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
+      <jump line="19" column="34" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
+      <jump line="16" column="37" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
+      <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +303,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>Display ads - Amazon DSP - Delivery</text>
+        <text>AMZN US Desktop 970x250 BTF Billboard</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvbHV0aW9uLmZpbmRNaW4oWzQsIDUsIDYsIDcsIDAsIDEsIDJdKSwgMCkK</text>
@@ -342,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Display ads - Amazon DSP - Delivery</last-search>
+      <last-search>AMZN US Desktop 970x250 BTF Billboard</last-search>
       <last-offset />
-      <last-pattern>Display ads - Amazon DSP - Delivery</last-pattern>
+      <last-pattern>AMZN US Desktop 970x250 BTF Billboard</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
