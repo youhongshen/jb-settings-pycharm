@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>create_ruleset</entry>
-        <entry>0.03</entry>
-        <entry>load_all_rs</entry>
         <entry>loading</entry>
         <entry>isPri</entry>
         <entry>isPr</entry>
@@ -25,6 +22,9 @@
         <entry>Display ads - Amazon DSP - Delivery</entry>
         <entry>AMZN US Desktop 970</entry>
         <entry>AMZN US Desktop 970x250 BTF Billboard</entry>
+        <entry>omsPr</entry>
+        <entry>omsProd</entry>
+        <entry>omsProductT</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -178,7 +178,9 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="87" column="26" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1594330526835" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1594338834644">
+        <mark key="'" line="740" column="17" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594303614885">
         <mark key="'" line="0" column="0" />
       </file>
@@ -191,9 +193,6 @@
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/PDX/RS100.json" timestamp="1593618028115" />
     </filemarks>
     <jumps>
-      <jump line="238" column="27" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
-      <jump line="239" column="21" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
-      <jump line="413" column="4" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="414" column="6" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="415" column="6" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
       <jump line="416" column="6" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" />
@@ -291,6 +290,9 @@
       <jump line="19" column="34" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="16" column="37" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
+      <jump line="20" column="9" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" />
+      <jump line="671" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" />
+      <jump line="740" column="17" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +304,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>AMZN US Desktop 970x250 BTF Billboard</text>
+        <text>omsProductT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvbHV0aW9uLmZpbmRNaW4oWzQsIDUsIDYsIDcsIDAsIDEsIDJdKSwgMCkK</text>
@@ -341,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>AMZN US Desktop 970x250 BTF Billboard</last-search>
+      <last-search>omsProductT</last-search>
       <last-offset />
-      <last-pattern>AMZN US Desktop 970x250 BTF Billboard</last-pattern>
+      <last-pattern>omsProductT</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
