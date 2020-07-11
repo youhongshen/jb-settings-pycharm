@@ -170,8 +170,11 @@
         <mark key="." line="804" column="18" />
         <mark key="^" line="804" column="18" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/contest/min_diff_after_3_moves.py" timestamp="1594478392764">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/leetcode/python/contest/min_diff_after_3_moves.py" timestamp="1594481151414">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="74" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594303614885">
         <mark key="'" line="0" column="0" />
@@ -295,8 +298,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Tailored Landing Pages&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Tailored Landing Pages&quot;</text>
@@ -308,31 +311,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvbHV0aW9uLmZpbmRNaW4oWzQsIDUsIDYsIDcsIDAsIDEsIDJdKSwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS5wcm9kdWN0TWV0YWRhdGEubmFtZSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRE9FU19OT1RfQ09OVEFJTlMiLAogICAgICAgICAgInJocyI6ICJDYW1wYWlnbiBMYW5kaW5nIFBhZ2U6IEN1c3RvbSIKICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS5wcm9kdWN0TWV0YWRhdGEubmFtZSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRE9FU19OT1RfQ09OVEFJTlMiLAogICAgICAgICAgInJocyI6ICJUZW1wbGF0ZWQgTGFuZGluZyBQYWdlIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS5wcm9kdWN0TWV0YWRhdGEubmFtZSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRE9FU19OT1RfQ09OVEFJTlMiLAogICAgICAgICAgInJocyI6ICJDYW1wYWlnbiBMYW5kaW5nIFBhZ2U6IEN1c3RvbSIKICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS5wcm9kdWN0TWV0YWRhdGEubmFtZSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRE9FU19OT1RfQ09OVEFJTlMiLAogICAgICAgICAgInJocyI6ICJUZW1wbGF0ZWQgTGFuZGluZyBQYWdlIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiQ2FtcGFpZ24gTGFuZGluZyBQYWdlOiBDdXN0b20iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJET0VTX05PVF9DT05UQUlOUyIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJsaHMiOiAiSU9MaW5lLnByb2R1Y3RNZXRhZGF0YS5uYW1lIiwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiQ2FtcGFpZ24gTGFuZGluZyBQYWdlOiBDdXN0b20iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJET0VTX05PVF9DT05UQUlOUyIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICJsaHMiOiAiSU9MaW5lLnByb2R1Y3RNZXRhZGF0YS5uYW1lIiwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiVGVtcGxhdGVkIExhbmRpbmcgUGFnZSIK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
