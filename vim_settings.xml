@@ -104,7 +104,7 @@
         <mark key="." line="105" column="14" />
         <mark key="^" line="105" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1594484134386">
+      <file name="/Python Console" timestamp="1594573417847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/RS100.json" timestamp="1593618005252">
@@ -165,11 +165,11 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/contest/test_min_diff_after_3_moves.py" timestamp="1594484120962">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/git/leetcode/python/contest/test_min_diff_after_3_moves.py" timestamp="1594573411399">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="32" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS11.json" timestamp="1594398771349">
         <mark key="'" line="64" column="22" />
@@ -178,11 +178,11 @@
         <mark key="." line="804" column="18" />
         <mark key="^" line="804" column="18" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/contest/min_diff_after_3_moves.py" timestamp="1594484516967">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="38" column="17" />
-        <mark key="^" line="38" column="17" />
-        <mark key="." line="38" column="16" />
+      <file name="$USER_HOME$/git/leetcode/python/contest/min_diff_after_3_moves.py" timestamp="1594573025954">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="12" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594303614885">
         <mark key="'" line="0" column="0" />
@@ -307,43 +307,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sorted_nums[i+1] - sorted_nums[i])</text>
+        <text>minDifference</text>
       </register>
       <register name="-" type="4">
-        <text>sorted_nums[i+1] - sorted_nums[i])</text>
+        <text>minDifference</text>
       </register>
       <register name="/" type="4">
         <text>Landing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFjay5hcHBlbmQoc29ydGVkX251bXNbaSsxXSAtIHNvcnRlZF9udW1zW2ldKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNvbHV0aW9uLm1pbkRpZmZlcmVuY2UoWzUzLDYwLDEwMCw4NSwxNiw2OCw2NCwzMSwzNyw3OF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvbHV0aW9uID0gU29sdXRpb24oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfMSA9IHN1bShmcm9udCkK</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbiA9IFNvbHV0aW9uKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3Vycl9taW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS5wcm9kdWN0TWV0YWRhdGEubmFtZSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRE9FU19OT1RfQ09OVEFJTlMiLAogICAgICAgICAgInJocyI6ICJDYW1wYWlnbiBMYW5kaW5nIFBhZ2U6IEN1c3RvbSIKICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPTGluZS5wcm9kdWN0TWV0YWRhdGEubmFtZSIsCiAgICAgICAgICAiYmluYXJ5T3BlcmF0b3IiOiAiRE9FU19OT1RfQ09OVEFJTlMiLAogICAgICAgICAgInJocyI6ICJUZW1wbGF0ZWQgTGFuZGluZyBQYWdlIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgYl9pZHggPSBiX2lkeCArIDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgY3Vycl9taW4gPSBjdXJyX21pbiArIGJhY2tbYl9pZHhdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiQ2FtcGFpZ24gTGFuZGluZyBQYWdlOiBDdXN0b20iCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJET0VTX05PVF9DT05UQUlOUyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgZl9pZHggPSBmX2lkeCArIDEK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
