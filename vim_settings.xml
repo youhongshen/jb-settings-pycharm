@@ -178,11 +178,10 @@
         <mark key="." line="804" column="18" />
         <mark key="^" line="804" column="18" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/contest/min_diff_after_3_moves.py" timestamp="1594573025954">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="39" column="12" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="12" />
+      <file name="$USER_HOME$/git/leetcode/python/contest/min_diff_after_3_moves.py" timestamp="1594574052150">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" timestamp="1594303614885">
         <mark key="'" line="0" column="0" />
@@ -306,11 +305,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>minDifference</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>minDifference</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>Landing</text>
@@ -319,31 +318,31 @@
         <text encoding="base64">ICAgICAgICAjIHNvbHV0aW9uLm1pbkRpZmZlcmVuY2UoWzUzLDYwLDEwMCw4NSwxNiw2OCw2NCwzMSwzNyw3OF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvbHV0aW9uID0gU29sdXRpb24oKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbiA9IFNvbHV0aW9uKCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNvbHV0aW9uID0gU29sdXRpb24oKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3Vycl9taW4K</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbiA9IFNvbHV0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgYl9pZHggPSBiX2lkeCArIDEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3Vycl9taW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgY3Vycl9taW4gPSBjdXJyX21pbiArIGJhY2tbYl9pZHhdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgYl9pZHggPSBiX2lkeCArIDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgZl9pZHggPSBmX2lkeCArIDEK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgY3Vycl9taW4gPSBjdXJyX21pbiArIGJhY2tbYl9pZHhdCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
