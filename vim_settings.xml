@@ -113,6 +113,12 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_US_CA.json" timestamp="1595003684329">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS21.json" timestamp="1594656953815">
         <mark key="[" line="16" column="13" />
         <mark key="m" line="15" column="76" />
@@ -120,10 +126,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_MX.json" timestamp="1594997734684">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_MX.json" timestamp="1595003488990">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_test_av_rule.json" timestamp="1594678352184">
         <mark key="[" line="13" column="23" />
@@ -303,11 +310,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>All campaigns that have the advertiser’s on non-standard Mexico campaigns require legal approval.&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0Q3VycmVuY3kiLAogICAgICAgICAgImJpbmFyeU9wZXJhdG9yIjogIkVRVUFMX1RPIiwKICAgICAgICAgICJyaHMiOiAiVVNEIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>All campaigns that have the advertiser’s on non-standard Mexico campaigns require legal approval.&quot;,</text>
+        <text>AGENCY</text>
       </register>
       <register name="/" type="4">
         <text>handle_ex</text>
@@ -316,31 +323,31 @@
         <text encoding="base64">ICAgICAgICAjIHNvbHV0aW9uLm1pbkRpZmZlcmVuY2UoWzUzLDYwLDEwMCw4NSwxNiw2OCw2NCwzMSwzNyw3OF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0Q3VycmVuY3kiLAogICAgICAgICAgImJpbmFyeU9wZXJhdG9yIjogIkVRVUFMX1RPIiwKICAgICAgICAgICJyaHMiOiAiVVNEIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXVzZVsnbGhzJ10gPSBjb25jYXRfc2NyaXB0Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibGhzIjogIklPLnRvdGFsQnVkZ2V0Q3VycmVuY3kiLAogICAgICAgICAgImJpbmFyeU9wZXJhdG9yIjogIkVRVUFMX1RPIiwKICAgICAgICAgICJyaHMiOiAiQ0FEIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJsaHMiOiAiY2xhc3NfMV90b3RhbF9idWRnZXQgPSAwOyBhdl90b3RhbF9idWRnZXQgPSAwOyBmb3JlYWNoIChpb0xpbmUgOiBJT0xpbmVzKSB7aWYgKGlvTGluZS5vbXNQcm9kdWN0VHlwZS50b1N0cmluZygpLmVxdWFscyhcIkNMQVNTX0lcIikpIHtjbGFzc18xX3RvdGFsX2J1ZGdldCA9IGNsYXNzXzFfdG90YWxfYnVkZ2V0ICsgaW9MaW5lLmJ1ZGdldDt9OyBpZiAoaW9MaW5lLnZhbHVlVHlwZS50b1N0cmluZygpLmVxdWFscyhcIlZBTFVFX0FERFwiKSkge2F2X3RvdGFsX2J1ZGdldCA9IGF2X3RvdGFsX2J1ZGdldCArIGlvTGluZS5idWRnZXQ7fX0gYXZfdG90YWxfYnVkZ2V0ID4gY2xhc3NfMV90b3RhbF9idWRnZXQgKiAwLjA1OyIsCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiTVhOIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJFUVVBTF9UTyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJsaHMiOiAiSU8udG90YWxCdWRnZXRDdXJyZW5jeSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXVzZVsnbGhzJ10gPSBjb25jYXRfc2NyaXB0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
