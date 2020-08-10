@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>appliedRa</entry>
-        <entry>billboar</entry>
         <entry>Display ads - Amazon DSP - Delivery package - US</entry>
         <entry encoding="base64">RGlzcGxheSBhZHMgLSA=</entry>
         <entry>Display ads - Amazon DSP - Delivery</entry>
@@ -25,6 +23,8 @@
         <entry>CONTAIN</entry>
         <entry>IOLine</entry>
         <entry>IOL</entry>
+        <entry>Value_S</entry>
+        <entry>value_str</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -37,9 +37,9 @@
         <entry>1,.d</entry>
         <entry>1,$d</entry>
         <entry>$</entry>
-        <entry>set ic</entry>
         <entry>0</entry>
         <entry>.,$d</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -301,7 +301,7 @@
         <text>IAD</text>
       </register>
       <register name="/" type="4">
-        <text>IOL</text>
+        <text>value_str</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJsaHMiOiAiSU8udG90YWxCdWRnZXQiLAo=</text>
@@ -334,15 +334,15 @@
         <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiTVgiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>.,$d</text>
+        <text>set ic</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>IOL</last-search>
+      <last-search>value_str</last-search>
       <last-offset />
-      <last-pattern>IOL</last-pattern>
+      <last-pattern>value_str</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
