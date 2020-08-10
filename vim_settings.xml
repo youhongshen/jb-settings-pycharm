@@ -151,8 +151,11 @@
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/yield_high_traffic_event.json" timestamp="1596638506035">
         <mark key="'" line="23" column="29" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/legal_US_CA.json" timestamp="1597088225251">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/legal_US_CA.json" timestamp="1597088242996">
         <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_below_sales_order_minimum.json" timestamp="1597077857697">
         <mark key="'" line="128" column="18" />
@@ -294,10 +297,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Line</text>
+        <text>LINE</text>
       </register>
       <register name="-" type="4">
-        <text>Line</text>
+        <text>LINE</text>
       </register>
       <register name="/" type="4">
         <text>value_str</text>
