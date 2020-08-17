@@ -109,7 +109,7 @@
         <mark key="." line="106" column="14" />
         <mark key="^" line="106" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1597622997415">
+      <file name="/Python Console" timestamp="1597623162625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_US_CA.json" timestamp="1597078616264">
@@ -119,11 +119,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="48" column="36" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1597623057352">
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="20" />
-        <mark key="^" line="56" column="20" />
-        <mark key="." line="56" column="19" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1597623902619">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="38" column="74" />
+        <mark key="^" line="38" column="74" />
+        <mark key="." line="38" column="73" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_zero_one_matrix.py" timestamp="1597622945406">
         <mark key="[" line="8" column="0" />
@@ -308,10 +308,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>value_str</text>
