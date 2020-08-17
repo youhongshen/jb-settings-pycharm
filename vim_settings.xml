@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Display ads - Amazon DSP - Delivery package - US</entry>
         <entry encoding="base64">RGlzcGxheSBhZHMgLSA=</entry>
         <entry>Display ads - Amazon DSP - Delivery</entry>
         <entry>AMZN US Desktop 970</entry>
@@ -25,6 +24,7 @@
         <entry>IOL</entry>
         <entry>Value_S</entry>
         <entry>value_str</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -119,11 +119,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="48" column="36" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1597623902619">
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="38" column="74" />
-        <mark key="^" line="38" column="74" />
-        <mark key="." line="38" column="73" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1597625690277">
+        <mark key="'" line="92" column="31" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="3" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_zero_one_matrix.py" timestamp="1597622945406">
         <mark key="[" line="8" column="0" />
@@ -203,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="647" column="10" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" />
       <jump line="639" column="50" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" />
       <jump line="291" column="37" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
@@ -303,48 +303,49 @@
       <jump line="103" column="18" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_below_sales_order_minimum.json" />
       <jump line="128" column="18" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_below_sales_order_minimum.json" />
       <jump line="41" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/legal_AU.json" />
+      <jump line="77" column="31" filename="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>value_str</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJDT05UQUlOUyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJFUVVBTF9UTyIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJFUVVBTF9UTyIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJFUVVBTF9UTyIsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">SWYgd2UgbW9kaWZ5IHRoZSBzb2x1dGlvbiBhIGxpdHRsZSwgd2UgY291bGQgZXZlbiBkaXJlY3RseSB1cGRhdGUgaW4gdGhlIGlucHV0IG1hdHJpeCwgdGh1cyBuZWVkcyBubyBhZGRpdGlvbmFsIHNwYWNlLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRbaV1bal0gPSAwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1hdHJpeFtpXVtqXSA9PSAwOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobSk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShuKToK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxLmFwcGVuZCgoaSwgaikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZpcnN0IHBhc3MsIGZpbmQgYWxsIHRoZSAwcyBpbiBtYXRyaXggYW5kIGFkZCB0aGVpciBsb2NhdGlvbiB0byB0aGUgcQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
@@ -353,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>value_str</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>value_str</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
