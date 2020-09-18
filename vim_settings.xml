@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">RGlzcGxheSBhZHMgLSA=</entry>
         <entry>Display ads - Amazon DSP - Delivery</entry>
         <entry>AMZN US Desktop 970</entry>
         <entry>AMZN US Desktop 970x250 BTF Billboard</entry>
@@ -25,6 +24,7 @@
         <entry>Value_S</entry>
         <entry>value_str</entry>
         <entry>result</entry>
+        <entry>build_or</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -126,12 +126,6 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_MX.json" timestamp="1597073346266">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="6" column="21" />
-      </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_test_av_rule.json" timestamp="1600360665615">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="20" />
@@ -150,11 +144,17 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/number_grid.py" timestamp="1598306276955">
+      <file name="$USER_HOME$/git/leetcode/python/prep/number_grid.py" timestamp="1600388097502">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" timestamp="1600388355607">
+        <mark key="'" line="2" column="73" />
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="71" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/legal_US_CA.json" timestamp="1597088242996">
         <mark key="[" line="6" column="21" />
@@ -191,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="50" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/RS17.json" />
-      <jump line="291" column="37" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="0" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="248" column="41" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="295" column="10" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
@@ -291,18 +289,20 @@
       <jump line="128" column="18" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_below_sales_order_minimum.json" />
       <jump line="41" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/PDX/legal_AU.json" />
       <jump line="77" column="31" filename="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" />
+      <jump line="2" column="73" filename="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, build_order</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>, build_order</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>build_or</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJDT05UQUlOUyIsCg==</text>
@@ -341,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>result</last-search>
+      <last-search>build_or</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>build_or</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
