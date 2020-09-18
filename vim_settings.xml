@@ -106,11 +106,11 @@
       <file name="/Python Console" timestamp="1598540235970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/course_schedule.py" timestamp="1600439618345">
-        <mark key="[" line="86" column="25" />
-        <mark key="]" line="83" column="20" />
-        <mark key="." line="83" column="19" />
-        <mark key="^" line="83" column="20" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/course_schedule.py" timestamp="1600441071545">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="88" column="28" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_US_CA.json" timestamp="1598463207356">
         <mark key="'" line="6" column="19" />
@@ -296,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>curr: curr node in 0 to num-1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>curr: curr node in 0 to num-1</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>build_or</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">ICAgICAgICBAcGFyYW0gY3VycjogY3VyciBub2RlIGluIDAgdG8gbnVtLTEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGRmcyhhZGpfbGlzdDogTGlzdCwgY3VycjogaW50KToKICAgICIiIgogICAgQHBhcmFtIGN1cnI6IGN1cnIgbm9kZSBpbiAwIHRvIG51bS0xCiAgICAiIiIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB2aXNpdGVkW2N1cnJdOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICBAcGFyYW0gc3RhY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHRvcG9sb2dpY2FsX3NvcnQobnVtOiBpbnQsIHBhaXJzX2xpc3Q6IExpc3QpOgo=</text>
+        <text encoding="base64">ZGVmIGRmcyhhZGpfbGlzdDogTGlzdCwgY3VycjogaW50KToKICAgICIiIgogICAgQHBhcmFtIGN1cnI6IGN1cnIgbm9kZSBpbiAwIHRvIG51bS0xCiAgICAiIiIgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
