@@ -97,8 +97,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1598540235970">
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1604099384354" />
+      <file name="/Dummy.txt" timestamp="1604099505697">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/test.py" timestamp="1604100089191">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/course_schedule.py" timestamp="1600441071545">
         <mark key="[" line="65" column="0" />
@@ -288,10 +295,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>valueType</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>valueType</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>billingM</text>
