@@ -122,11 +122,17 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="48" column="36" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1605904923107">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1605916073785">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_zero_one_matrix.py" timestamp="1605915603793">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/PDX/yield_below_floor_rate.json" timestamp="1602003002696">
         <mark key="'" line="108" column="17" />
@@ -287,43 +293,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xpZW50Lmxpc3RfdGFibGVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>billingM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIklPTGluZS4/dmFsdWVUeXBlIiwK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9tYXRyaXgxKHNlbGYpOgogICAgICAgIHNvbHV0aW9uID0gU29sdXRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xpZW50Lmxpc3RfdGFibGVzKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFNlbGVjdD0naWQsIGlvSWQnLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xpZW50Lmxpc3RfdGFibGVzKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">MC4gaWYgbm90IFVTIG9yIG5vdCBVU0QsIHRoZW4gZmxhZyBmb3IgQVYK</text>
+        <text encoding="base64">ICAgIFNlbGVjdD0naWQsIGlvSWQnLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgKFVTIGFuZCBVU0QpLCB0aGVuIGVsaWdpYmxlIGZvciBhdXRvIGFwcHJvdmUgKGdvIHRvIG5leHQgcnVsZSkK</text>
+        <text encoding="base64">MC4gaWYgbm90IFVTIG9yIG5vdCBVU0QsIHRoZW4gZmxhZyBmb3IgQVYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyaHMiOiAiVVNEIgo=</text>
+        <text encoding="base64">aWYgKFVTIGFuZCBVU0QpLCB0aGVuIGVsaWdpYmxlIGZvciBhdXRvIGFwcHJvdmUgKGdvIHRvIG5leHQgcnVsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJiaW5hcnlPcGVyYXRvciI6ICJFUVVBTF9UTyIsCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
