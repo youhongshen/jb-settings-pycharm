@@ -149,12 +149,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1607646317156">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1607647058772">
         <mark key="'" line="4" column="122" />
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="63" column="14" />
+        <mark key="." line="63" column="13" />
+        <mark key="^" line="63" column="14" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" timestamp="1600388355607">
         <mark key="'" line="2" column="73" />
@@ -296,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.sort(reverse=True)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG4gPSAyMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.sort(reverse=True)</text>
+        <text encoding="base64">ICAjIHJldHVybiB0aGUgZmlyc3QgdGltZSBpbiB0aGUgbGlzdCBpZiB0aGVyZSBhcmUgbXVsdGlwbGU=</text>
       </register>
       <register name="/" type="4">
         <text>billingM</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9tYXRyaXgxKHNlbGYpOgogICAgICAgIHNvbHV0aW9uID0gU29sdXRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwLmtleQo=</text>
+        <text encoding="base64">ICAgIG4gPSAyMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwLmtleQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEucmVkdWNlKCkK</text>
+        <text encoding="base64">IyAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEgPSBbMSwgMiwgM10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1cmNoYXNlcy5fX3JlZHVjZV9fKCkK</text>
+        <text encoding="base64">ICAgIGEucmVkdWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIGEgPSBbMSwgMiwgM10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHtwLml0ZW1JZCwgZm9yIHAgaW4gcHVyY2hhc2VzfQo=</text>
+        <text encoding="base64">ICAgIHB1cmNoYXNlcy5fX3JlZHVjZV9fKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1cmNoYXNlcy4=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
