@@ -149,12 +149,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1607701553295">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1607704585374">
         <mark key="'" line="4" column="122" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="8" />
-        <mark key="." line="84" column="7" />
-        <mark key="^" line="84" column="8" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="108" column="62" />
+        <mark key="^" line="108" column="62" />
+        <mark key="." line="108" column="61" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" timestamp="1600388355607">
         <mark key="'" line="2" column="73" />
@@ -297,10 +297,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>billingM</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm9uZV9ocl9wdHIgPSAtMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBwYXJhbSBlbmRfdGltZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVzdGFtcCA9IHRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgIEBwYXJhbSBiZWdpbl90aW1lOiBlcG9jaCB0aW1lIGluIHNlYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLml0ZW1faWQgPSBpdGVtX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1c3RvbWVyX2lkID0gY3VzdG9tZXJfaWQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVzdGFtcCA9IHRpbWVzdGFtcAo=</text>
       </register>
       <register name="5" type="2">
-        <text>def get_popular</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLml0ZW1faWQgPSBpdGVtX2lkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiZWdpbl90aW1lIDw9IHAudGltZXN0YW1wIDw9IGVuZF90aW1lOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1c3RvbWVyX2lkID0gY3VzdG9tZXJfaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgc2hvd3MgCg==</text>
+        <text>def get_popular</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBiZWdpbl90aW1lIDw9IHAudGltZXN0YW1wIDw9IGVuZF90aW1lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSB3aGF0IGlmIG11bHRpcGxlIGl0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRoaXMgc2hvd3MgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
