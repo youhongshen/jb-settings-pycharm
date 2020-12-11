@@ -106,9 +106,6 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1604100133744">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/course_schedule.py" timestamp="1600441071545">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -152,6 +149,13 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1607646317156">
+        <mark key="'" line="4" column="122" />
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" timestamp="1600388355607">
         <mark key="'" line="2" column="73" />
         <mark key="[" line="2" column="71" />
@@ -188,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="23" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="23" column="33" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="32" column="26" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="31" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
@@ -288,15 +291,16 @@
       <jump line="76" column="0" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
       <jump line="74" column="99" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
       <jump line="108" column="17" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/PDX/yield_below_floor_rate.json" />
+      <jump line="4" column="122" filename="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.sort(reverse=True)</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>.sort(reverse=True)</text>
       </register>
       <register name="/" type="4">
         <text>billingM</text>
@@ -305,31 +309,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9tYXRyaXgxKHNlbGYpOgogICAgICAgIHNvbHV0aW9uID0gU29sdXRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwLmtleQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xpZW50Lmxpc3RfdGFibGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlbGVjdD0naWQsIGlvSWQnLAo=</text>
+        <text encoding="base64">ICAgIGEucmVkdWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEgPSBbMSwgMiwgM10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MC4gaWYgbm90IFVTIG9yIG5vdCBVU0QsIHRoZW4gZmxhZyBmb3IgQVYK</text>
+        <text encoding="base64">ICAgIHB1cmNoYXNlcy5fX3JlZHVjZV9fKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKFVTIGFuZCBVU0QpLCB0aGVuIGVsaWdpYmxlIGZvciBhdXRvIGFwcHJvdmUgKGdvIHRvIG5leHQgcnVsZSkK</text>
+        <text encoding="base64">ICAgIHtwLml0ZW1JZCwgZm9yIHAgaW4gcHVyY2hhc2VzfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHB1cmNoYXNlcy4=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
