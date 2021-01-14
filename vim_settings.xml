@@ -149,12 +149,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1607723107950">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1610661052575">
         <mark key="'" line="4" column="122" />
-        <mark key="[" line="130" column="50" />
-        <mark key="]" line="131" column="49" />
-        <mark key="^" line="131" column="49" />
-        <mark key="." line="131" column="48" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_package_dependency.py" timestamp="1600388355607">
         <mark key="'" line="2" column="73" />
@@ -296,17 +296,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>SDE2</text>
       </register>
       <register name="-" type="4">
-        <text>purchase_rec)</text>
+        <text>SDE2</text>
       </register>
       <register name="/" type="4">
         <text>billingM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9uZV9ocl9wdHIgPSAtMQo=</text>
+        <text encoding="base64">TWVldC9yYWlzZSBmb3IgU0RFMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
