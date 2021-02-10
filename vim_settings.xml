@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>CONTAIN</entry>
         <entry>IOLine</entry>
         <entry>IOL</entry>
         <entry>Value_S</entry>
@@ -25,6 +24,7 @@
         <entry>IO</entry>
         <entry>CONTA</entry>
         <entry>billingM</entry>
+        <entry>tuple</entry>
       </history-search>
       <history-cmd>
         <entry>.,$-4d</entry>
@@ -106,6 +106,9 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1612717304669">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/course_schedule.py" timestamp="1600441071545">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -143,7 +146,8 @@
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/yield_added_values.json" timestamp="1601564907985">
         <mark key="'" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/number_grid.py" timestamp="1612717014668">
+      <file name="$USER_HOME$/git/leetcode/python/prep/number_grid.py" timestamp="1612717230652">
+        <mark key="'" line="21" column="39" />
         <mark key="[" line="3" column="62" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="21" />
@@ -192,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="33" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="32" column="26" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="31" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19.json" />
       <jump line="58" column="8" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/RS19_defaultName.txt" />
@@ -292,6 +295,7 @@
       <jump line="74" column="99" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
       <jump line="108" column="17" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/PDX/yield_below_floor_rate.json" />
       <jump line="4" column="122" filename="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" />
+      <jump line="21" column="39" filename="$USER_HOME$/git/leetcode/python/prep/number_grid.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +307,7 @@
         <text>SDE2</text>
       </register>
       <register name="/" type="4">
-        <text>billingM</text>
+        <text>tuple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TWVldC9yYWlzZSBmb3IgU0RFMgo=</text>
@@ -342,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>billingM</last-search>
+      <last-search>tuple</last-search>
       <last-offset />
-      <last-pattern>billingM</last-pattern>
+      <last-pattern>tuple</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
