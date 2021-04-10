@@ -97,7 +97,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1612717304669">
+      <file name="/Python Console" timestamp="1618078912690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_US_CA.json" timestamp="1613080648835">
@@ -129,11 +129,11 @@
         <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_duplicate_node_same_depth.py" timestamp="1618078451664" />
-      <file name="$USER_HOME$/git/leetcode/python/daily/test__482_BST_range.py" timestamp="1618078472962">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/git/leetcode/python/daily/test__482_BST_range.py" timestamp="1618079346870">
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="49" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="38" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1604099505697">
         <mark key="[" line="0" column="0" />
@@ -153,11 +153,11 @@
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/PDX/yield_below_floor_rate.json" timestamp="1602003002696">
         <mark key="'" line="108" column="17" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/daily/_482_BST_range.py" timestamp="1618078373377">
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="48" column="33" />
-        <mark key="^" line="48" column="33" />
-        <mark key="." line="48" column="32" />
+      <file name="$USER_HOME$/git/leetcode/python/daily/_482_BST_range.py" timestamp="1618079934814">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="20" column="111" />
+        <mark key="^" line="20" column="111" />
+        <mark key="." line="20" column="110" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/number_grid.py" timestamp="1612717230652">
         <mark key="'" line="21" column="39" />
@@ -299,43 +299,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfc3VtMihfNSwgWzUsIDVdKSwgNSkK</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>38</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmluZF9zdW0obm9kZS5yaWdodCwgcmFuZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfc3VtMihfNSwgWzUsIDVdKSwgNSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpbmRfc3VtMihfNSwgWzAsIDIwXSksIDM4KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ZpbmRfc3VtX3JhbmdlX291dHNpZGVfdHJlZShzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZpbmRfc3VtKG5vZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub2RlLmxlZnQgaXMgbm90IE5vbmUgYW5kIG5vZGUucmlnaHQgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiBpbnQgCg==</text>
+        <text encoding="base64">ICAgIDQgICAgICA1ICA2ICAgICAgNwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDEuIERvIGEgYmluYXJ5IHNlYXJjaCBieSBzdGEK</text>
+        <text encoding="base64">ICAgICAgICAyICAgICAgICAzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RmluZCB0aGUgbWluaW11bSBlbGVtZW50IGluIE8obG9nIE4pIHRpbWUuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
