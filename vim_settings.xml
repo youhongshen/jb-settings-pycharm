@@ -97,7 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_beta_product.json" timestamp="1625069798875" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/test.py" timestamp="1604100257091">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -129,6 +128,12 @@
       <file name="/a.dummy" timestamp="1618932521457">
         <mark key="[" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_zeitgeist.py" timestamp="1625781696850">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="43" />
+      </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_zero_one_matrix.py" timestamp="1623797638679">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -141,7 +146,6 @@
         <mark key="^" line="20" column="111" />
         <mark key="." line="20" column="110" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_below_line_item_minimum.json" timestamp="1625082391657" />
       <file name="$USER_HOME$/git/leetcode/python/prep/number_grid.py" timestamp="1612717230652">
         <mark key="'" line="21" column="39" />
         <mark key="[" line="3" column="62" />
@@ -149,7 +153,7 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1610661052575">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1625781485971">
         <mark key="'" line="4" column="122" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="27" column="19" />
@@ -300,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>appenleft</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>appenleft</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
