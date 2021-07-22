@@ -153,12 +153,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1625781485971">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1626992642842">
         <mark key="'" line="4" column="122" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="27" column="18" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="25" column="2" />
+        <mark key="^" line="25" column="2" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_find_min_in_pivot_array.py" timestamp="1617653828553">
         <mark key="[" line="10" column="63" />
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TWVldCB0aGUgYmFyIC0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>complete the original as well as the 2 followup Q</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
@@ -316,31 +316,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFtbMCwgMiwgMiwgMiwgMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDAsIDIsIDIsIDIsIDJdLAogICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAwLCAwLCAwLCAyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICBbMywgMywgMCwgNCwgMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDAsIDAsIDQsIDAsIDBdLAogICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCA1LCAwLCAwLCAwXV0sIGZpbmRfaXNsYW5kcyh3b3JsZF9tYXApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWVldCB0aGUgYmFyIC0gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfbWFwID0gZmluZF9pc2xhbmRzKHdvcmxkX21hcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRfbWFwID0gZmluZF9pc2xhbmRzKHdvcmxkX21hcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdXRfbWFwKQo=</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvdXRfbWFwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBbMCwgMCwgNSwgMCwgMCwgMF1dCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBbMCwgMCwgMCwgNCwgMCwgMF0sIAo=</text>
+        <text encoding="base64">ICAgICBbMCwgMCwgNSwgMCwgMCwgMF1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
