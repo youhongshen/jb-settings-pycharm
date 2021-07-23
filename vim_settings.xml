@@ -153,12 +153,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1626992642842">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1627054594953">
         <mark key="'" line="4" column="122" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="^" line="25" column="2" />
-        <mark key="." line="25" column="1" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/test_find_min_in_pivot_array.py" timestamp="1617653828553">
         <mark key="[" line="10" column="63" />
