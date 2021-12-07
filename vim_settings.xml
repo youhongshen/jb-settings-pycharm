@@ -97,7 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1627668657980" />
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/test.py" timestamp="1604100257091">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -154,7 +153,7 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1627058469502">
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1638914286502">
         <mark key="'" line="4" column="122" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="23" column="0" />
