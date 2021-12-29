@@ -18,4 +18,5 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
