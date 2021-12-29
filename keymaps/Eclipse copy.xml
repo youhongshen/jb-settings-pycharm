@@ -3,8 +3,15 @@
     <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
