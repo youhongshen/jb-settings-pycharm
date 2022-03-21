@@ -2,51 +2,184 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>name</entry>
+      </history-search>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFg=</text>
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFk=</text>
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1618937327910">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/yield_no_review_required.json" timestamp="1647878871711" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/legal_US_CA.json" timestamp="1613080648835">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="89" column="9" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1623797608784">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/find_min_in_pivot_array.py" timestamp="1617657923892">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="40" />
+      </file>
+      <file name="/a.dummy" timestamp="1618932521457">
+        <mark key="[" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_zeitgeist.py" timestamp="1625781696850">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_zero_one_matrix.py" timestamp="1623797638679">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/daily/_482_BST_range.py" timestamp="1618079934814">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="20" column="111" />
+        <mark key="^" line="20" column="111" />
+        <mark key="." line="20" column="110" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/yield_added_values.json" timestamp="1647878612985" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1638914286502">
+        <mark key="'" line="4" column="122" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_find_min_in_pivot_array.py" timestamp="1617653828553">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/prep/test_connected_island.py" timestamp="1619099628841">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/legal_US_CA.json" timestamp="1647878732791" />
+      <file name="$USER_HOME$/git/leetcode/python/prep/connected_island.py" timestamp="1625782699244">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="32" column="65" />
+        <mark key="." line="32" column="65" />
+        <mark key="^" line="32" column="74" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_below_floor_rate.json" timestamp="1613080523734">
+        <mark key="[" line="96" column="29" />
+        <mark key="]" line="96" column="29" />
+        <mark key="." line="96" column="29" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" timestamp="1647878196188">
+        <mark key="'" line="52" column="7" />
+        <mark key="[" line="29" column="105" />
+        <mark key="]" line="29" column="105" />
+        <mark key="." line="29" column="105" />
+        <mark key="^" line="29" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/leetcode/python/daily/test__482_BST_range.py" timestamp="1618079346870">
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="49" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="38" column="49" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/yield_added_values.json" timestamp="1647878501168" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/generated/IAD/yield_test_av_rule.json" timestamp="1647878888677" />
+    </filemarks>
+    <jumps>
+      <jump line="79" column="35" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
+      <jump line="22" column="1" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
+      <jump line="27" column="75" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
+      <jump line="47" column="104" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
+      <jump line="52" column="7" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="/" type="4">
+        <text>name</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>name</last-search>
+      <last-offset />
+      <last-pattern>name</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
