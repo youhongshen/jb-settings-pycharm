@@ -61,6 +61,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1657654380563" />
       <file name="/Python Console" timestamp="1651766241684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +142,12 @@
         <mark key="." line="29" column="105" />
         <mark key="^" line="29" column="30" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" timestamp="1657655033424">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="46" column="30" />
+      </file>
       <file name="$USER_HOME$/git/leetcode/python/daily/test__482_BST_range.py" timestamp="1618079346870">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="38" column="49" />
@@ -154,45 +161,49 @@
       <jump line="27" column="75" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
       <jump line="47" column="104" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
       <jump line="52" column="7" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
+      <jump line="11" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="4">
+        <text>sys.argv[1]</text>
+      </register>
+      <register name="-" type="4">
+        <text>sys.argv[1]</text>
+      </register>
+      <register name="/" type="4">
+        <text>name</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdF9tYXBbZnVuY19uYW1lXSA9IHRpbWVfZGlmZiArIGV4aXN0aW5nX3RpbWUK</text>
+        <text encoding="base64">ICAgICMgcHJvZHVjdF9maWxlID0gc3lzLmFyZ3ZbMV0KICAgICMgcHJvZHVjdF9uYW1lID0gc3lzLmFyZ3ZbMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text encoding="base64">ICAgIG1vZF9maWxlX25hbWUgPSBwcm9kdWN0X2ZpbGVfbmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgdXBkYXRlZF9wcm9kdWN0X2ZpZWxkcyA9IFtwZi5lZGl0YWJsZSBmb3IgcGYgaW4gcHJvZHVjdC5wcm9kdWN0RmllbGRzIGlmIHBmLmZpZWxkSWQgPT0gJ3RhcmdldGluZ0RldGFpbHMnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGl0ZW1bMF0gaW4gcmVzdWx0X21hcDoK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZWRfcHJvZHVjdF9maWVsZHMgPSBbcGYuZWRpdGFibGUgPSBUcnVlIGZvciBwZiBpbiBwcm9kdWN0LnByb2R1Y3RGaWVsZHMgaWYgcGYuZmllbGRJZCA9PSAndGFyZ2V0aW5nRGV0YWlscycgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNhbGNfcmVzdWx0KHJlc3VsdF9tYXAsIGl0ZW0pOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGNhbGNfcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
-      </register>
-      <register name="/" type="4">
-        <text>name</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
   </component>
