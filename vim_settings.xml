@@ -62,7 +62,10 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1657654380563" />
-      <file name="/Python Console" timestamp="1651766241684">
+      <file name="/Python Console" timestamp="1657656057919">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1657656084614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/zero_one_matrix.py" timestamp="1623797608784">
@@ -142,11 +145,11 @@
         <mark key="." line="29" column="105" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" timestamp="1657655033424">
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="46" column="30" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" timestamp="1657656691678">
+        <mark key="[" line="52" column="3" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="3" />
+        <mark key="^" line="54" column="4" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/daily/test__482_BST_range.py" timestamp="1618079346870">
         <mark key="[" line="38" column="48" />
@@ -167,10 +170,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sys.argv[1]</text>
+        <text>in another file.</text>
       </register>
       <register name="-" type="4">
-        <text>sys.argv[1]</text>
+        <text>in another file.</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -179,31 +182,31 @@
         <text encoding="base64">ICAgICMgcHJvZHVjdF9maWxlID0gc3lzLmFyZ3ZbMV0KICAgICMgcHJvZHVjdF9uYW1lID0gc3lzLmFyZ3ZbMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZF9maWxlX25hbWUgPSBwcm9kdWN0X2ZpbGVfbmFtZQo=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGkvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlZF9wcm9kdWN0X2ZpZWxkcyA9IFtwZi5lZGl0YWJsZSBmb3IgcGYgaW4gcHJvZHVjdC5wcm9kdWN0RmllbGRzIGlmIHBmLmZpZWxkSWQgPT0gJ3RhcmdldGluZ0RldGFpbHMnXQo=</text>
+        <text encoding="base64">ICAgICMgcHJvZHVjdF9uYW1lID0gc3lzLmFyZ3ZbMl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWRfcHJvZHVjdF9maWVsZHMgPSBbcGYuZWRpdGFibGUgPSBUcnVlIGZvciBwZiBpbiBwcm9kdWN0LnByb2R1Y3RGaWVsZHMgaWYgcGYuZmllbGRJZCA9PSAndGFyZ2V0aW5nRGV0YWlscycgXQo=</text>
+        <text encoding="base64">ICAgIG1vZF9maWxlX25hbWUgPSBwcm9kdWN0X2ZpbGVfbmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgdXBkYXRlZF9wcm9kdWN0X2ZpZWxkcyA9IFtwZi5lZGl0YWJsZSBmb3IgcGYgaW4gcHJvZHVjdC5wcm9kdWN0RmllbGRzIGlmIHBmLmZpZWxkSWQgPT0gJ3RhcmdldGluZ0RldGFpbHMnXQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZWRfcHJvZHVjdF9maWVsZHMgPSBbcGYuZWRpdGFibGUgPSBUcnVlIGZvciBwZiBpbiBwcm9kdWN0LnByb2R1Y3RGaWVsZHMgaWYgcGYuZmllbGRJZCA9PSAndGFyZ2V0aW5nRGV0YWlscycgXQo=</text>
       </register>
     </registers>
   </component>
