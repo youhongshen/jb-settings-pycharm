@@ -145,11 +145,11 @@
         <mark key="." line="29" column="105" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" timestamp="1657660791583">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="84" column="57" />
+      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" timestamp="1657721341552">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="36" />
         <mark key="^" line="84" column="57" />
-        <mark key="." line="84" column="56" />
+        <mark key="." line="37" column="36" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/daily/test__482_BST_range.py" timestamp="1618079346870">
         <mark key="[" line="38" column="48" />
@@ -170,10 +170,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'1995284e-882a-4181-812c-1bd7839c0e52'</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>'1995284e-882a-4181-812c-1bd7839c0e52'</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
