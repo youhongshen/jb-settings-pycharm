@@ -106,11 +106,11 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658871798318">
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="12" />
+      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658872376033">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1638914286502">
         <mark key="'" line="4" column="122" />
@@ -175,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
