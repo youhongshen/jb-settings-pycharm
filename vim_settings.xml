@@ -106,11 +106,11 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658868717382">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="12" />
+      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658871798318">
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1638914286502">
         <mark key="'" line="4" column="122" />
@@ -175,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>U</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -187,31 +187,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VfZmlsZXMgPSBbam9pbihwYWNrYWdlc19kaXIsIGZpbGUpIGZvciBmaWxlIGluIGxpc3RkaXIocGFja2FnZXNfZGlyKSBpZiBpc2ZpbGUoam9pbihwYWNrYWdlc19kaXIsIGZpbGUpKQogICAgICAgICAgICAgICAgICAgICBhbmQgcmUubWF0Y2gociJeLitcLmpzb24kIiwgZmlsZSkgaXMgbm90IE5vbmVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgYWFwX3Byb2R1Y3RfZmlsZSA9ICdhYXBfcHJvZHVjdF9saXN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcgYWxyZWFkeSB0cnVlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcGZbJ2VkaXRhYmxlJ106Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHByb2R1Y3RbJ2lkJ10gPT0gcHJvZHVjdF9uYW1lOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHByb2R1Y3QgaW4gZGF0YVsncHJvZHVjdHMnXToK</text>
+        <text encoding="base64">ICAgICMgYWFwX3Byb2R1Y3RfZmlsZSA9ICdhYXBfcHJvZHVjdF9saXN0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZChmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocHJvZHVjdF9maWxlLCAncicpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHByb2R1Y3RbJ2lkJ10gPT0gcHJvZHVjdF9uYW1lOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBwcm9kdWN0X2ZpbGUgaW4gcHJvZHVjdF9maWxlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHByb2R1Y3QgaW4gZGF0YVsncHJvZHVjdHMnXToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgYW5kIHJlLm1hdGNoKHIiXi4rXC5qc29uJCIsIGZpbGUpIGlzIG5vdCBOb25lXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZChmKQo=</text>
       </register>
     </registers>
   </component>
