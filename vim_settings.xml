@@ -61,7 +61,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1657658963002" />
       <file name="/Python Console" timestamp="1657656057919">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,6 +105,12 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
+      </file>
+      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658868717382">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/git/leetcode/python/prep/zeitgeist.py" timestamp="1638914286502">
         <mark key="'" line="4" column="122" />
@@ -170,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
