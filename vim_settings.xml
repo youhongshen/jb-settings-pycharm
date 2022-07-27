@@ -106,7 +106,7 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658874588825">
+      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1658874748136">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
@@ -175,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
