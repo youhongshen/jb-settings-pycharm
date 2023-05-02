@@ -7,6 +7,7 @@
       <history-search>
         <entry>name</entry>
         <entry>will update</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -65,8 +66,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/script/generate_rules.py" timestamp="1679936876071" />
-      <file name="/Python Console" timestamp="1657656057919">
+      <file name="/Python Console" timestamp="1682987182525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1657656084614">
@@ -99,6 +99,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/getAutoOptimizationFields.py" timestamp="1682987963579">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/git/leetcode/python/daily/_482_BST_range.py" timestamp="1618079934814">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="20" column="111" />
@@ -111,8 +117,8 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1667242347761">
-        <mark key="'" line="20" column="0" />
+      <file name="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" timestamp="1682986573566">
+        <mark key="'" line="54" column="17" />
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="11" />
@@ -177,56 +183,57 @@
       <jump line="52" column="7" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/D16GOMSApprovalWorkflowsMetadata/data/raw/IAD/free_form_rules/av_rule.txt" />
       <jump line="11" column="29" filename="/Volumes/workplace/D16GOMSApprovalWorkflowsMetadata/src/kratos/update_targetingDetails.py" />
       <jump line="20" column="0" filename="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" />
+      <jump line="54" column="17" filename="/Volumes/workplace/D16GOMSAdHocScripts/src/D16GOMSAdHocScripts/script/kratos/update_targetingDetails.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
-        <text>will update</text>
+        <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VfZmlsZXMgPSBbam9pbihwYWNrYWdlc19kaXIsIGZpbGUpIGZvciBmaWxlIGluIGxpc3RkaXIocGFja2FnZXNfZGlyKSBpZiBpc2ZpbGUoam9pbihwYWNrYWdlc19kaXIsIGZpbGUpKQogICAgICAgICAgICAgICAgICAgICBhbmQgcmUubWF0Y2gociJeLitcLmpzb24kIiwgZmlsZSkgaXMgbm90IE5vbmVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25faWRzW2lkXSA9IHsnZCc6IGRpc2FibGVfbGlzdCwgJ2UnOiBlbmFibGVfbGlzdH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcgYWxyZWFkeSB0cnVlJykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGZbJ2VkaXRhYmxlJ106Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYWFwX3Byb2R1Y3RfZmlsZSA9ICdhYXBfcHJvZHVjdF9saXN0Jwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0aW5nLmFkZChpZCkgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbXBhaWduX2lkc1tpZF0gPSB7J2QnOiBkaXNhYmxlX2xpc3QsICdlJzogZW5hYmxlX2xpc3R9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHByb2R1Y3RbJ2lkJ10gPT0gcHJvZHVjdF9uYW1lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHByb2R1Y3QgaW4gZGF0YVsncHJvZHVjdHMnXToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZChmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>will update</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>will update</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
